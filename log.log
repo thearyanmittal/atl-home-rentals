@@ -1,0 +1,7 @@
+- get unique vals in each column
+- encode each and map them all to numerical values
+    - need to parse and separate by keyword the columns [Rooms, Kitchen, Interior, Heating, Cooling, Construction, 
+    - get geocoding data for coordinates on all
+- seaborn correlogram and correlation heatmap
+
+- which columns to use/not use?
