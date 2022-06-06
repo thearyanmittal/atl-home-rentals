@@ -1,8 +1,11 @@
 - get unique vals in each column
-- encode each and map them all to numerical values
-    - need to parse and separate by keyword the columns [Rooms, Kitchen, Interior, Heating, Cooling, Construction, Parking, Amenities]
+- encode each and map them all to numerical values (one-hot encode description-based columns by keyword)
+    - need to parse and separate by keyword the columns [Style, Rooms, Kitchen, Interior, Heating, Cooling, Construction, 
+    Roof, Parking, Amenities, Lot]
     - split descriptions into keywords, turn keywords into columns with binary values (has golf, has pool, etc.)
     - get geocoding data for coordinates on all
+
+- standardize each column (z-score method)
 - seaborn correlogram and correlation heatmap
 
 - which columns to use/not use?
