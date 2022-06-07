@@ -1,0 +1,321 @@
+0 Natural Gas Other Heat Pump 
+1 Floor Furnace 
+2 Electric, Heat Pump, Zoned, Dual 
+3 Natural Gas Electric Hot Water 
+4 Electric Central Common Forced Air 
+5 Other Baseboard Central Forced Air 
+6 Electric Forced Air Other 
+7 Central Electric Heat Pump Zoned 
+8 Dual Forced Air Natural Gas Zoned 
+9 Natural Gas Electric Forced Air Heat Pump Zoned Dual 
+10 Natural Gas Heat Pump Other Zoned 
+11 Natural Gas, Forced Air, Hot Water, Steam 
+12 Electric Natural Gas Central Forced Air Heat Pump 
+13 Central Electric 
+14 Electric Forced Air Natural Gas Zoned 
+15 Other Heat Pump Zoned Dual 
+16 Electric Central Heat Pump Zoned 
+17 Central Wood 
+18 Natural Gas Heat Pump Other 
+19 Central Forced Air Hot Water 
+20 Forced Air Natural Gas 
+21 Other Heat Pump 
+22 Propane Electric Central 
+23 Electric, Other 
+24 Natural Gas Floor Furnace 
+25 Natural Gas Central Forced Air Hot Water Zoned Dual 
+26 Natural Gas Forced Air Hot Water Steam Zoned Dual 
+27 Electric Natural Gas Central Heat Pump 
+28 Central Forced Air Natural Gas 
+29 Natural Gas Forced Air Hot Water Zoned 
+30 Electric Natural Gas Central Forced Air 
+31 Oil Central Forced Air 
+32 Electric Forced Air Natural Gas 
+33 Electric Heat Pump Zoned 
+34 Electric, Forced Air, Zoned, Dual 
+35 Electric Forced Air Heat Pump 
+36 Forced Air Zoned 
+37 Natural Gas Central Forced Air Other Zoned Dual 
+38 Natural Gas Electric Central Heat Pump 
+39 Electric Central Forced Air Other 
+40 Central Dual Forced Air Natural Gas Zoned 
+41 Electric, Central, Heat Pump 
+42 Natural Gas Central Floor Furnace Forced Air Zoned 
+43 Central Dual 
+44 Natural Gas Baseboard Central Forced Air 
+45 Other, Forced Air, Heat Pump 
+46 Forced Air Natural Gas Other Zoned 
+47 Electric Central Hot Water 
+48 Forced Air Other Zoned Dual 
+49 Electric Central Other Hot Water Steam 
+50 Other Central 
+51 Natural Gas Central Heat Pump 
+52 Central Forced Air Hot Water Natural Gas 
+53 Electric, Central, Forced Air 
+54 Propane Central Forced Air Zoned 
+55 Electric Central Zoned 
+56 Electric Central Heat Pump Hot Water Zoned Dual Steam 
+57 Baseboard Central Forced Air 
+58 Electric Natural Gas Baseboard Common 
+59 Natural Gas Heat Pump 
+60 Zoned 
+61 Central Natural Gas 
+62 Electric Zoned Dual 
+63 Electric Baseboard 
+64 Heat Pump Other 
+65 Electric Forced Air Heat Pump Zoned Dual 
+66 Natural Gas Electric Floor Furnace 
+67 Electric, Natural Gas, Central, Heat Pump 
+68 Electric Central Common Heat Pump 
+69 Central Forced Air Natural Gas Zoned 
+70 Natural Gas Central Other 
+71 Electric Central Forced Air Heat Pump Zoned Dual 
+72 Central Electric Natural Gas 
+73 Central Dual Natural Gas Other Zoned 
+74 Central Hot Water Natural Gas Zoned 
+75 Central 
+76 Natural Gas Central Forced Air 
+77 Electric Wood Central Forced Air 
+78 Central Dual Forced Air Natural Gas 
+79 Natural Gas Central Heat Pump Dual 
+80 Electric, Other, Central, Hot Water, Steam 
+81 Central Electric Forced Air Natural Gas 
+82 Central Heat Pump Zoned 
+83 Central Zoned 
+84 Natural Gas, Zoned, Dual 
+85 Forced Air Heat Pump Natural Gas 
+86 Heat Pump 
+87 Propane 
+88 Electric Natural Gas Other Forced Air 
+89 Natural Gas Electric Central Forced Air Heat Pump 
+90 Electric Wood Central 
+91 Electric Central Dual 
+92 Central Propane 
+93 Natural Gas, Central, Zoned, Dual 
+94 Other, Heat Pump 
+95 Natural Gas, Central, Hot Water, Steam 
+96 Central Forced Air Other 
+97 Electric Natural Gas Central 
+98 Central Electric Forced Air Heat Pump 
+99 Baseboard Electric 
+100 Electric Other Central 
+101 Natural Gas Central Forced Air Other 
+102 Dual Electric Heat Pump Zoned 
+103 Natural Gas Other Central 
+104 Central Forced Air 
+105 Natural Gas Central Zoned Dual 
+106 Central Electric Forced Air Hot Water 
+107 Central Forced Air Hot Water Zoned 
+108 Natural Gas Hot Water Steam 
+109 Electric Heat Pump Zoned Dual 
+110 None 
+111 Natural Gas Electric Forced Air 
+112 Other, Central, Zoned, Dual 
+113 Natural Gas Central Heat Pump Hot Water 
+114 Natural Gas Central Hot Water Zoned 
+115 Electric Central 
+116 Forced Air 
+117 Natural Gas, Central 
+118 Electric Heat Pump 
+119 Electric Zoned 
+120 Electric, Central, Zoned, Dual 
+121 Other Common 
+122 Natural Gas Heat Pump Zoned 
+123 Natural Gas Forced Air Hot Water Steam 
+124 Electric Natural Gas Forced Air 
+125 Natural Gas Central Forced Air Dual 
+126 Electric, Baseboard 
+127 Forced Air Propane 
+128 Heat Pump Zoned 
+129 Baseboard Electric Forced Air 
+130 Other, Forced Air 
+131 Electric, Central 
+132 Electric, Heat Pump 
+133 Electric Central Forced Air Hot Water 
+134 Electric Other 
+135 Natural Gas Baseboard Forced Air 
+136 Natural Gas, Forced Air 
+137 Heat Pump Natural Gas 
+138 Central Common Natural Gas 
+139 Natural Gas Forced Air Other 
+140 Natural Gas Electric Central 
+141 Natural Gas Central Forced Air Zoned Dual 
+142 Central Electric Forced Air Other 
+143 Forced Air Natural Gas Zoned 
+144 Electric, Central, Heat Pump, Zoned, Dual 
+145 Natural Gas Other Zoned 
+146 Other, None 
+147 Electric Central Forced Air 
+148 Natural Gas Central Zoned 
+149 Electric Central Floor Furnace Hot Water 
+150 Other Central Forced Air Heat Pump 
+151 Natural Gas Forced Air Heat Pump Zoned 
+152 Natural Gas Electric Other 
+153 Natural Gas Central Forced Air Hot Water 
+154 Central Forced Air Heat Pump Hot Water 
+155 Natural Gas, Floor Furnace 
+156 Natural Gas Baseboard 
+157 Baseboard Natural Gas 
+158 Propane Central 
+159 Natural Gas Central Heat Pump Zoned Dual 
+160 Central Common Electric 
+161 Natural Gas Forced Air Zoned 
+162 Electric Natural Gas Other Central Forced Air 
+163 Propane Electric Heat Pump 
+164 Central Common 
+165 Natural Gas Central Common 
+166 Natural Gas Central 
+167 Electric Forced Air Zoned Dual 
+168 Natural Gas, Forced Air, Zoned, Dual 
+169 Natural Gas, Heat Pump, Zoned, Dual 
+170 Other Forced Air Heat Pump 
+171 Electric Hot Water 
+172 Hot Water 
+173 Central Dual Natural Gas Zoned 
+174 Central Electric Heat Pump 
+175 Natural Gas Central Forced Air Heat Pump 
+176 Central Common Forced Air 
+177 Propane Forced Air 
+178 Baseboard Central Forced Air Natural Gas 
+179 Natural Gas Central Floor Furnace 
+180 Central Electric Oil 
+181 Natural Gas Zoned Dual 
+182 Other Central Heat Pump 
+183 Electric Central Zoned Dual 
+184 Electric Forced Air Other Hot Water 
+185 Common Natural Gas 
+186 Natural Gas, Central, Forced Air, Heat Pump 
+187 Other Electric Central 
+188 Central Electric Forced Air 
+189 Forced Air Central Zoned 
+190 Other None 
+191 Central Other 
+192 Natural Gas Central Hot Water Steam 
+193 Other Electric Central Forced Air 
+194 Electric, Zoned, Dual 
+195 Other, Central, Forced Air 
+196 Forced Air Heat Pump 
+197 Central Dual Electric Heat Pump Zoned 
+198 Natural Gas, Central, Common 
+199 Other, Baseboard, Central, Forced Air 
+200 Common 
+201 Central Forced Air Zoned 
+202 Electric Central Forced Air Zoned 
+203 Natural Gas Electric Central Forced Air 
+204 Natural Gas Other 
+205 Central Dual Natural Gas 
+206 Natural Gas, Other, Central 
+207 Natural Gas, Electric, Central, Forced Air 
+208 Other Zoned Dual 
+209 Electric Forced Air Heat Pump Other 
+210 Natural Gas, Electric, Forced Air, Heat Pump, Zoned, Dual 
+211 Natural Gas Electric Forced Air Zoned 
+212 Electric Central Heat Pump Zoned Dual 
+213 Electric, Natural Gas, Central 
+214 Natural Gas Baseboard Electric Central Forced Air Hot Water 
+215 Electric Central Heat Pump 
+216 Central Dual Forced Air Zoned 
+217 Forced Air Other 
+218 Electric, Other, Forced Air 
+219 Electric, Forced Air, Heat Pump 
+220 Forced Air Heat Pump Zoned 
+221 Central Natural Gas Other 
+222 Natural Gas Central Forced Air Hot Water Steam 
+223 Other Forced Air 
+224 Electric Central Forced Air Heat Pump 
+225 Wood Electric Central Forced Air 
+226 Dual Natural Gas Zoned 
+227 Electric, Other, Central 
+228 Floor Furnace Forced Air 
+229 Electric, Forced Air 
+230 Natural Gas Hot Water 
+231 Electric, Central, Other, Hot Water, Steam 
+232 Natural Gas Electric Central Hot Water 
+233 Forced Air Hot Water Natural Gas 
+234 Natural Gas Electric Forced Air Hot Water 
+235 Natural Gas Zoned 
+236 Electric Central Heat Pump Hot Water 
+237 Dual Zoned 
+238 Central Natural Gas Zoned 
+239 Forced Air Heat Pump Natural Gas Zoned 
+240 Electric Central Other 
+241 Wood Electric Central 
+242 Natural Gas Electric Central Dual 
+243 Natural Gas Other Forced Air 
+244 Natural Gas Floor Furnace Forced Air Hot Water Zoned 
+245 Natural Gas, Central, Forced Air, Zoned, Dual 
+246 Electric, Central, Forced Air, Zoned, Dual 
+247 Central Electric Hot Water Natural Gas 
+248 Natural Gas, Electric 
+249 Natural Gas Forced Air Hot Water 
+250 Electric Forced Air Hot Water Other 
+251 Central Other Zoned 
+252 Natural Gas Electric Zoned Dual 
+253 Natural Gas Central Forced Air Heat Pump Zoned Dual 
+254 Electric Forced Air Wood 
+255 Electric Central Forced Air Hot Water Steam 
+256 Electric Baseboard Central Forced Air Heat Pump 
+257 Electric Forced Air Hot Water Natural Gas 
+258 Propane Other 
+259 Natural Gas Forced Air Heat Pump 
+260 Natural Gas Heat Pump Zoned Dual 
+261 Natural Gas Forced Air 
+262 Central Hot Water 
+263 Natural Gas Central Floor Furnace Zoned Dual 
+264 Baseboard Forced Air Natural Gas 
+265 Natural Gas Propane Central Forced Air Heat Pump 
+266 Electric, Forced Air, Heat Pump, Hot Water, Steam 
+267 Electric Natural Gas Other 
+268 Natural Gas, Other 
+269 Electric Central Forced Air Heat Pump Hot Water 
+270 Electric Other Forced Air 
+271 Natural Gas Floor Furnace Forced Air 
+272 Electric Forced Air 
+273 Electric Other Zoned 
+274 Electric None 
+275 Natural Gas Forced Air Zoned Dual 
+276 Central Forced Air Propane Zoned 
+277 Baseboard Central 
+278 Central Electric Zoned 
+279 Other Central Forced Air 
+280 Central Forced Air Heat Pump 
+281 Natural Gas Baseboard Central Heat Pump 
+282 Other, Common 
+283 Natural Gas Forced Air Other Zoned 
+284 Natural Gas Central Other Zoned Dual 
+285 Central Electric Heat Pump Hot Water 
+286 Natural Gas Common Forced Air 
+287 Natural Gas Central Hot Water 
+288 Electric Propane Central Zoned Dual 
+289 Central Dual Electric Zoned 
+290 Other, Zoned, Dual 
+291 Natural Gas Electric 
+292 Central Electric Hot Water 
+293 Central Hot Water Natural Gas 
+294 Natural Gas Central Forced Air Zoned 
+295 Baseboard Electric Central 
+296 Central Dual Electric Forced Air 
+297 Oil Baseboard 
+298 Natural Gas, None 
+299 Natural Gas 
+300 Natural Gas None 
+301 Electric Heat Pump Hot Water Zoned 
+302 Electric 
+303 Other, Central 
+304 Electric Central Heat Pump Hot Water Steam Zoned Dual 
+305 Central Zoned Dual 
+306 Natural Gas, Forced Air, Heat Pump 
+307 Electric Natural Gas 
+308 Electric Central Forced Air Zoned Dual 
+309 Central Heat Pump 
+310 Natural Gas, Central, Forced Air 
+311 Natural Gas, Heat Pump 
+312 Other 
+313 Central Forced Air Natural Gas Other 
+314 Natural Gas Central Forced Air Hot Water Steam Zoned Dual 
+315 Electric, Natural Gas, Forced Air 
+316 Natural Gas Electric Forced Air Hot Water Steam 
+317 Other Central Forced Air Zoned Dual 
+318 Natural Gas, Forced Air, Heat Pump, Zoned, Dual 
+319 Electric Forced Air Zoned 
+320 Central Electric Forced Air Zoned 

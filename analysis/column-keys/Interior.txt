@@ -1,0 +1,2308 @@
+0 Pulldown Attic Stairs Separate Shower Soaking Tub Split Bedroom Plan 
+1 Bookcases Double Vanity Master On Main Level Pulldown Attic Stairs Separate Shower Tile Bath Two Story Foyer Walk-In Closet(s) 
+2 Double Vanity High Ceilings Pulldown Attic Stairs Roommate Plan Separate Shower Soaking Tub Tray Ceiling(s) Vaulted Ceiling(s) Walk-In Closet(s) 
+3 Bookcases Tray Ceiling(s) Double Vanity Walk-In Closet(s) Wet Bar In-Law Floorplan 
+4 Bookcases, High Ceilings, Double Vanity, Soaking Tub, Separate Shower, Tile Bath, Walk-In Closet(s), In-Law Floorplan, Master On Main Level, Roommate Plan 
+5 Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan 
+6 Bookcases Other Walk-In Closet(s) 
+7 Double Vanity Soaking Tub Other Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+8 High Ceilings Rear Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+9 Tray Ceiling(s), High Ceilings, Double Vanity, Rear Stairs, Walk-In Closet(s), Roommate Plan 
+10 Tray Ceiling(s) High Ceilings Double Vanity Beamed Ceilings Pulldown Attic Stairs Walk-In Closet(s) 
+11 Vaulted Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath 
+12 Double Vanity Other Roommate Plan Separate Shower 
+13 High Ceilings, Double Vanity, Beamed Ceilings, Two Story Foyer, Walk-In Closet(s), Master On Main Level 
+14 High Ceilings Double Vanity Soaking Tub Other Separate Shower Walk-In Closet(s) 
+15 Other, Master On Main Level, Roommate Plan, Split Bedroom Plan 
+16 Bookcases Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) 
+17 Double Vanity Separate Shower Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+18 High Ceilings Double Vanity Other Tile Bath Whirlpool Bath Split Bedroom Plan 
+19 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Roommate Plan Split Bedroom Plan 
+20 Double Vanity, Master On Main Level 
+21 High Ceilings Pulldown Attic Stairs Double Vanity Two Story Foyer Soaking Tub Walk-In Closet(s) 
+22 Bookcases High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) 
+23 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+24 Double Vanity Separate Shower Soaking Tub Tile Bath Two Story Foyer Walk-In Closet(s) 
+25 Double Vanity Rear Stairs Separate Shower Split Foyer Tray Ceiling(s) Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) 
+26 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Master On Main Level Roommate Plan 
+27 Vaulted Ceiling(s) High Ceilings 
+28 Tray Ceiling(s) Double Vanity Soaking Tub Split Bedroom Plan 
+29 Tray Ceiling(s), Double Vanity, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s), In-Law Floorplan 
+30 High Ceilings, Double Vanity, Soaking Tub, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s), Roommate Plan 
+31 Walk-In Closet(s) Wet Bar 
+32 Bookcases High Ceilings Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) In-Law Floorplan 
+33 Bookcases Double Vanity High Ceilings In-Law Floorplan Separate Shower Soaking Tub Split Bedroom Plan Tile Bath Vaulted Ceiling(s) Walk-In Closet(s) Whirlpool Bath 
+34 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) 
+35 Separate Shower Master On Main Level Split Bedroom Plan 
+36 Master On Main Level, Split Bedroom Plan 
+37 Vaulted Ceiling(s) Soaking Tub Walk-In Closet(s) 
+38 Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+39 Soaking Tub Separate Shower Tile Bath Master On Main Level 
+40 High Ceilings Pulldown Attic Stairs Master On Main Level Split Bedroom Plan 
+41 High Ceilings Double Vanity Other Walk-In Closet(s) Roommate Plan 
+42 Tray Ceiling(s), Soaking Tub, Pulldown Attic Stairs, Tile Bath, Master On Main Level 
+43 High Ceilings, Double Vanity, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s) 
+44 Tile Bath Master On Main Level 
+45 Double Vanity Master On Main Level Pulldown Attic Stairs Separate Shower Tile Bath Tray Ceiling(s) Vaulted Ceiling(s) Walk-In Closet(s) 
+46 Double Vanity High Ceilings Pulldown Attic Stairs Roommate Plan Tile Bath Tray Ceiling(s) Walk-In Closet(s) 
+47 Double Vanity High Ceilings Pulldown Attic Stairs Roommate Plan Split Bedroom Plan Walk-In Closet(s) 
+48 Double Vanity, Pulldown Attic Stairs, Rear Stairs, Walk-In Closet(s), Master On Main Level 
+49 Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower In-Law Floorplan 
+50 High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) 
+51 Tray Ceiling(s) Double Vanity Soaking Tub Other Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+52 Double Vanity High Ceilings Pulldown Attic Stairs Split Bedroom Plan Walk-In Closet(s) 
+53 Bookcases Tray Ceiling(s) Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) 
+54 Soaking Tub Other Separate Shower Walk-In Closet(s) Whirlpool Bath 
+55 Bookcases High Ceilings Double Vanity Beamed Ceilings Master On Main Level Roommate Plan 
+56 Master On Main Level Wet Bar 
+57 High Ceilings Double Vanity Other Walk-In Closet(s) 
+58 Other, Walk-In Closet(s) 
+59 High Ceilings Rear Stairs Separate Shower 
+60 High Ceilings Double Vanity Two Story Foyer Tile Bath 
+61 Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+62 High Ceilings Double Vanity In-Law Floorplan Master On Main Level 
+63 Double Vanity Beamed Ceilings Two Story Foyer Separate Shower Roommate Plan Split Foyer 
+64 Vaulted Ceiling(s) Double Vanity Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+65 Master On Main Level Roommate Plan Tile Bath 
+66 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings In-Law Floorplan Master On Main Level Roommate Plan 
+67 Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) 
+68 Double Vanity Tile Bath Master On Main Level 
+69 Pulldown Attic Stairs, Rear Stairs 
+70 Tray Ceiling(s) Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+71 Bookcases Double Vanity Two Story Foyer Rear Stairs Walk-In Closet(s) Wet Bar Master On Main Level Split Bedroom Plan 
+72 Vaulted Ceiling(s) Tile Bath Master On Main Level 
+73 Tray Ceiling(s) Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+74 Pulldown Attic Stairs 
+75 Vaulted Ceiling(s) Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level 
+76 Double Vanity, Rear Stairs, Tile Bath, Walk-In Closet(s) 
+77 Bookcases High Ceilings Roommate Plan Split Bedroom Plan Tile Bath 
+78 Tile Bath Master On Main Level Roommate Plan 
+79 Tile Bath Walk-In Closet(s) 
+80 Master On Main Level Separate Shower Tile Bath Walk-In Closet(s) 
+81 Tray Ceiling(s) Vaulted Ceiling(s) Master On Main Level 
+82 High Ceilings Master On Main Level Roommate Plan Separate Shower Soaking Tub 
+83 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Split Foyer 
+84 Bookcases Tray Ceiling(s) In-Law Floorplan 
+85 High Ceilings Soaking Tub Other 
+86 Bookcases High Ceilings Double Vanity Soaking Tub Separate Shower 
+87 Tray Ceiling(s) Double Vanity Pulldown Attic Stairs Walk-In Closet(s) In-Law Floorplan 
+88 Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+89 High Ceilings Double Vanity Master On Main Level Split Bedroom Plan 
+90 Vaulted Ceiling(s) Soaking Tub Master On Main Level 
+91 Tray Ceiling(s) High Ceilings Double Vanity Beamed Ceilings Two Story Foyer Pulldown Attic Stairs Walk-In Closet(s) 
+92 High Ceilings, Walk-In Closet(s), Master On Main Level 
+93 Double Vanity High Ceilings 
+94 Pulldown Attic Stairs Walk-In Closet(s) 
+95 Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Soaking Tub Tray Ceiling(s) Walk-In Closet(s) 
+96 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+97 Vaulted Ceiling(s), Soaking Tub, Separate Shower, Walk-In Closet(s), Master On Main Level 
+98 Other Rear Stairs 
+99 Double Vanity Soaking Tub Walk-In Closet(s) Split Bedroom Plan 
+100 Double Vanity Two Story Foyer Walk-In Closet(s) Master On Main Level 
+101 Bookcases Tile Bath In-Law Floorplan Master On Main Level Roommate Plan 
+102 High Ceilings Double Vanity Soaking Tub Rear Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+103 Rear Stairs Master On Main Level 
+104 Tray Ceiling(s), High Ceilings, Double Vanity, Walk-In Closet(s) 
+105 Double Vanity High Ceilings Master On Main Level Split Bedroom Plan 
+106 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Tile Bath Walk-In Closet(s) 
+107 High Ceilings Pulldown Attic Stairs Bookcases Double Vanity Wet Bar Walk-In Closet(s) Other 
+108 Roommate Plan, Split Bedroom Plan 
+109 Central Vacuum, Bookcases, Tray Ceiling(s), High Ceilings, Double Vanity, Two Story Foyer, Walk-In Closet(s), Split Bedroom Plan 
+110 Two Story Foyer, Walk-In Closet(s), Master On Main Level 
+111 Tray Ceiling(s) High Ceilings Double Vanity Separate Shower Walk-In Closet(s) Master On Main Level 
+112 Tray Ceiling(s) High Ceilings Double Vanity Beamed Ceilings Walk-In Closet(s) 
+113 Double Vanity Other Tile Bath Walk-In Closet(s) In-Law Floorplan Master On Main Level 
+114 Tray Ceiling(s) Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+115 High Ceilings Other Roommate Plan Split Bedroom Plan Walk-In Closet(s) 
+116 In-Law Floorplan Vaulted Ceiling(s) Walk-In Closet(s) 
+117 Master On Main Level Other Soaking Tub Tile Bath 
+118 Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Wet Bar In-Law Floorplan 
+119 Vaulted Ceiling(s) High Ceilings Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) 
+120 Vaulted Ceiling(s), Two Story Foyer, Tile Bath 
+121 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Roommate Plan 
+122 High Ceilings, Double Vanity, Pulldown Attic Stairs, Separate Shower, Tile Bath, Walk-In Closet(s) 
+123 Two Story Foyer Soaking Tub Separate Shower 
+124 Other Walk-In Closet(s) Master On Main Level 
+125 Separate Shower Master On Main Level 
+126 Vaulted Ceiling(s) High Ceilings Soaking Tub Walk-In Closet(s) Master On Main Level 
+127 Master On Main Level Pulldown Attic Stairs Tray Ceiling(s) Walk-In Closet(s) 
+128 Bookcases Double Vanity High Ceilings Separate Shower Soaking Tub Walk-In Closet(s) 
+129 Double Vanity Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) Split Foyer 
+130 High Ceilings Soaking Tub Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+131 Vaulted Ceiling(s) Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) 
+132 Master On Main Level Tile Bath 
+133 High Ceilings Double Vanity Wet Bar 
+134 Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+135 Bookcases High Ceilings Beamed Ceilings Walk-In Closet(s) 
+136 Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+137 Master On Main Level Other Soaking Tub 
+138 High Ceilings Other Separate Shower 
+139 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Walk-In Closet(s) 
+140 Double Vanity Master On Main Level Separate Shower Tray Ceiling(s) Vaulted Ceiling(s) Walk-In Closet(s) Whirlpool Bath 
+141 High Ceilings Two Story Foyer Tile Bath Walk-In Closet(s) 
+142 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Other Rear Stairs Separate Shower Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+143 Bookcases High Ceilings Soaking Tub Walk-In Closet(s) 
+144 Double Vanity High Ceilings Master On Main Level Split Bedroom Plan Walk-In Closet(s) 
+145 Double Vanity Rear Stairs Tile Bath In-Law Floorplan Master On Main Level 
+146 Bookcases Two Story Foyer Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan 
+147 Vaulted Ceiling(s) High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) Wet Bar 
+148 Tray Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+149 Bookcases Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+150 Vaulted Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower 
+151 Separate Shower Master On Main Level Roommate Plan 
+152 Central Vacuum Double Vanity Separate Shower Tile Bath Walk-In Closet(s) In-Law Floorplan Master On Main Level 
+153 Master On Main Level Pulldown Attic Stairs Roommate Plan Walk-In Closet(s) 
+154 High Ceilings Double Vanity Two Story Foyer Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+155 Vaulted Ceiling(s), Soaking Tub, Tile Bath, Walk-In Closet(s), Master On Main Level 
+156 High Ceilings Soaking Tub Separate Shower Whirlpool Bath 
+157 Bookcases High Ceilings Beamed Ceilings Two Story Foyer Walk-In Closet(s) 
+158 Tray Ceiling(s) High Ceilings Double Vanity Walk-In Closet(s) Master On Main Level 
+159 Other Separate Shower Walk-In Closet(s) 
+160 Master On Main Level Pulldown Attic Stairs Soaking Tub Two Story Foyer Walk-In Closet(s) 
+161 Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+162 Bookcases Double Vanity Other Separate Shower Soaking Tub 
+163 Bookcases Tray Ceiling(s) High Ceilings Soaking Tub Walk-In Closet(s) 
+164 Attic Expandable Vaulted Ceiling(s) Double Vanity Beamed Ceilings Soaking Tub Rear Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan 
+165 Bookcases, Vaulted Ceiling(s), High Ceilings, Two Story Foyer, Soaking Tub, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s) 
+166 In-Law Floorplan Master On Main Level 
+167 Bookcases, Tile Bath, Walk-In Closet(s) 
+168 Tray Ceiling(s), Separate Shower 
+169 Pulldown Attic Stairs Separate Shower Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) 
+170 Pulldown Attic Stairs Roommate Plan Walk-In Closet(s) 
+171 High Ceilings Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Wet Bar In-Law Floorplan Master On Main Level 
+172 Vaulted Ceiling(s) High Ceilings Two Story Foyer Pulldown Attic Stairs Master On Main Level 
+173 Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Soaking Tub Tray Ceiling(s) Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) 
+174 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+175 Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+176 Vaulted Ceiling(s) Double Vanity Soaking Tub Separate Shower Master On Main Level 
+177 High Ceilings Double Vanity Beamed Ceilings Two Story Foyer Walk-In Closet(s) Master On Main Level 
+178 Double Vanity Roommate Plan Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+179 Tile Bath Master On Main Level Split Bedroom Plan 
+180 Bookcases Double Vanity High Ceilings Pulldown Attic Stairs Roommate Plan Separate Shower Soaking Tub Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) Whirlpool Bath 
+181 Tray Ceiling(s) Double Vanity Tile Bath Master On Main Level Roommate Plan Split Bedroom Plan 
+182 High Ceilings Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) 
+183 Double Vanity Pulldown Attic Stairs Vaulted Ceiling(s) Walk-In Closet(s) Whirlpool Bath 
+184 Bookcases In-Law Floorplan Split Bedroom Plan 
+185 Soaking Tub Separate Shower Roommate Plan 
+186 Tray Ceiling(s), High Ceilings, Double Vanity, Separate Shower, Walk-In Closet(s) 
+187 Double Vanity Two Story Foyer Walk-In Closet(s) 
+188 Other, Rear Stairs, Roommate Plan 
+189 Soaking Tub Tile Bath Split Bedroom Plan 
+190 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath 
+191 High Ceilings Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+192 Double Vanity Other Pulldown Attic Stairs Split Bedroom Plan 
+193 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Walk-In Closet(s) Master On Main Level 
+194 Double Vanity High Ceilings Roommate Plan Separate Shower Split Bedroom Plan Walk-In Closet(s) 
+195 Double Vanity Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Master On Main Level 
+196 Bookcases Master On Main Level Pulldown Attic Stairs Tile Bath 
+197 Bookcases Other Master On Main Level 
+198 High Ceilings Tile Bath Master On Main Level Roommate Plan 
+199 High Ceilings Tray Ceiling(s) 
+200 Bookcases Double Vanity High Ceilings Walk-In Closet(s) 
+201 High Ceilings Tile Bath Master On Main Level 
+202 Vaulted Ceiling(s) High Ceilings Two Story Foyer Rear Stairs Tile Bath Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+203 Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+204 Tray Ceiling(s) Master On Main Level 
+205 High Ceilings Master On Main Level Pulldown Attic Stairs Walk-In Closet(s) 
+206 High Ceilings 
+207 Double Vanity, Tile Bath, Walk-In Closet(s) 
+208 Vaulted Ceiling(s) Double Vanity Soaking Tub Master On Main Level 
+209 Double Vanity Master On Main Level Roommate Plan Tray Ceiling(s) Vaulted Ceiling(s) 
+210 Beamed Ceilings, Walk-In Closet(s) 
+211 Vaulted Ceiling(s) High Ceilings Double Vanity Beamed Ceilings Two Story Foyer Walk-In Closet(s) Wet Bar 
+212 Double Vanity Soaking Tub Other Separate Shower Walk-In Closet(s) 
+213 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+214 Tile Bath, Master On Main Level 
+215 Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan 
+216 High Ceilings, Double Vanity, Soaking Tub, Master On Main Level 
+217 High Ceilings Tile Bath Master On Main Level Split Bedroom Plan 
+218 Soaking Tub, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s) 
+219 High Ceilings, Pulldown Attic Stairs, Walk-In Closet(s) 
+220 Double Vanity, Two Story Foyer, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s), Split Bedroom Plan 
+221 Bookcases Double Vanity High Ceilings Vaulted Ceiling(s) Walk-In Closet(s) 
+222 Double Vanity Roommate Plan Split Bedroom Plan Walk-In Closet(s) 
+223 Double Vanity High Ceilings Split Bedroom Plan Tile Bath Tray Ceiling(s) Walk-In Closet(s) 
+224 High Ceilings Walk-In Closet(s) 
+225 High Ceilings, Double Vanity, Soaking Tub, Separate Shower, Split Foyer 
+226 Tray Ceiling(s) Two Story Foyer Pulldown Attic Stairs Separate Shower 
+227 Vaulted Ceiling(s) High Ceilings Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+228 Double Vanity, Walk-In Closet(s), Master On Main Level 
+229 Tray Ceiling(s) Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+230 Master On Main Level Other Roommate Plan 
+231 Double Vanity High Ceilings Master On Main Level Separate Shower Soaking Tub Walk-In Closet(s) 
+232 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+233 Tray Ceiling(s), Double Vanity, Separate Shower, Tile Bath, Walk-In Closet(s), Master On Main Level 
+234 Roommate Plan Separate Shower Soaking Tub Walk-In Closet(s) 
+235 High Ceilings Master On Main Level Soaking Tub Split Foyer Tray Ceiling(s) Two Story Foyer Vaulted Ceiling(s) 
+236 Pulldown Attic Stairs Rear Stairs Separate Shower Tile Bath In-Law Floorplan Master On Main Level Roommate Plan Split Bedroom Plan 
+237 High Ceilings Soaking Tub Walk-In Closet(s) 
+238 Bookcases Double Vanity High Ceilings Other Tray Ceiling(s) Walk-In Closet(s) 
+239 Tray Ceiling(s) High Ceilings Rear Stairs Walk-In Closet(s) 
+240 Other Split Foyer 
+241 Pulldown Attic Stairs Rear Stairs Walk-In Closet(s) 
+242 High Ceilings, Soaking Tub, Separate Shower, Walk-In Closet(s), Master On Main Level 
+243 High Ceilings, Double Vanity, Soaking Tub, Walk-In Closet(s), Roommate Plan 
+244 Split Bedroom Plan Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) 
+245 Attic Expandable Vaulted Ceiling(s) 
+246 Bookcases Master On Main Level Tile Bath 
+247 Double Vanity High Ceilings Other Roommate Plan Walk-In Closet(s) 
+248 Attic Expandable Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+249 Separate Shower Soaking Tub Walk-In Closet(s) 
+250 Soaking Tub Other Separate Shower Walk-In Closet(s) Master On Main Level 
+251 Tray Ceiling(s) Walk-In Closet(s) Wine Cellar 
+252 Tray Ceiling(s) Vaulted Ceiling(s) Beamed Ceilings Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan 
+253 Roommate Plan Tray Ceiling(s) Walk-In Closet(s) 
+254 High Ceilings Beamed Ceilings Master On Main Level 
+255 Rear Stairs Walk-In Closet(s) 
+256 High Ceilings Separate Shower Roommate Plan 
+257 Double Vanity In-Law Floorplan Pulldown Attic Stairs Tray Ceiling(s) Walk-In Closet(s) 
+258 Other Walk-In Closet(s) Master On Main Level Roommate Plan 
+259 Vaulted Ceiling(s) Double Vanity Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) 
+260 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+261 Vaulted Ceiling(s) Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+262 Vaulted Ceiling(s) High Ceilings Double Vanity Master On Main Level Split Bedroom Plan 
+263 Tray Ceiling(s), Walk-In Closet(s) 
+264 Double Vanity High Ceilings Pulldown Attic Stairs Roommate Plan 
+265 Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level 
+266 High Ceilings Soaking Tub Pulldown Attic Stairs Walk-In Closet(s) 
+267 Bookcases Master On Main Level Rear Stairs Tray Ceiling(s) Walk-In Closet(s) 
+268 Pulldown Attic Stairs Rear Stairs 
+269 Attic Expandable, Tray Ceiling(s), High Ceilings, Double Vanity, Separate Shower, Tile Bath, Walk-In Closet(s) 
+270 Bookcases Vaulted Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+271 Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Other Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath 
+272 Vaulted Ceiling(s) Double Vanity Separate Shower Tile Bath Walk-In Closet(s) 
+273 Separate Shower Soaking Tub Vaulted Ceiling(s) Walk-In Closet(s) 
+274 Vaulted Ceiling(s), High Ceilings, Double Vanity, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s) 
+275 Bookcases High Ceilings Double Vanity Separate Shower Master On Main Level 
+276 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath 
+277 Double Vanity High Ceilings Master On Main Level Pulldown Attic Stairs Separate Shower Soaking Tub Split Bedroom Plan Vaulted Ceiling(s) Walk-In Closet(s) 
+278 Double Vanity High Ceilings Master On Main Level Other Roommate Plan Walk-In Closet(s) 
+279 High Ceilings Double Vanity Soaking Tub Other Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+280 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Two Story Foyer Separate Shower Tile Bath Walk-In Closet(s) 
+281 Beamed Ceilings Walk-In Closet(s) 
+282 Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+283 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Tile Bath Whirlpool Bath 
+284 Double Vanity, Two Story Foyer, Tile Bath, Walk-In Closet(s) 
+285 High Ceilings, Other 
+286 Two Story Foyer Pulldown Attic Stairs Walk-In Closet(s) 
+287 Double Vanity High Ceilings Walk-In Closet(s) 
+288 Bookcases Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Roommate Plan 
+289 Walk-In Closet(s) Split Bedroom Plan 
+290 Pulldown Attic Stairs Separate Shower Tile Bath 
+291 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Other Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+292 High Ceilings Pulldown Attic Stairs Tile Bath Master On Main Level 
+293 Bookcases Two Story Foyer Pulldown Attic Stairs Separate Shower Walk-In Closet(s) In-Law Floorplan 
+294 Two Story Foyer Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Split Foyer 
+295 Vaulted Ceiling(s), High Ceilings, Double Vanity, Two Story Foyer, Soaking Tub, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s) 
+296 Beamed Ceilings Separate Shower Wet Bar Master On Main Level 
+297 Attic Expandable Bookcases Tray Ceiling(s) Double Vanity Two Story Foyer Walk-In Closet(s) 
+298 Tray Ceiling(s), Double Vanity, Two Story Foyer, Soaking Tub, Separate Shower 
+299 Soaking Tub Walk-In Closet(s) 
+300 Vaulted Ceiling(s) Two Story Foyer 
+301 High Ceilings Master On Main Level Pulldown Attic Stairs Roommate Plan 
+302 Bookcases In-Law Floorplan Master On Main Level Roommate Plan Tile Bath 
+303 Double Vanity High Ceilings Master On Main Level Roommate Plan Separate Shower Split Bedroom Plan Tile Bath Tray Ceiling(s) Walk-In Closet(s) Whirlpool Bath 
+304 Double Vanity, Pulldown Attic Stairs, Walk-In Closet(s) 
+305 Soaking Tub Separate Shower Master On Main Level 
+306 Double Vanity Soaking Tub Tray Ceiling(s) Walk-In Closet(s) 
+307 Double Vanity Pulldown Attic Stairs Separate Shower Soaking Tub Walk-In Closet(s) 
+308 Double Vanity Pulldown Attic Stairs Roommate Plan Separate Shower Soaking Tub Walk-In Closet(s) 
+309 High Ceilings Tile Bath Walk-In Closet(s) Roommate Plan 
+310 Separate Shower Two Story Foyer 
+311 Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Master On Main Level 
+312 Double Vanity Master On Main Level Separate Shower Split Bedroom Plan Walk-In Closet(s) Whirlpool Bath 
+313 Pulldown Attic Stairs Split Bedroom Plan Walk-In Closet(s) 
+314 High Ceilings Double Vanity Separate Shower Roommate Plan 
+315 Master On Main Level Pulldown Attic Stairs Separate Shower Soaking Tub Split Bedroom Plan Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) 
+316 High Ceilings Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Master On Main Level 
+317 Pulldown Attic Stairs Tile Bath Master On Main Level Roommate Plan 
+318 Double Vanity Tray Ceiling(s) Walk-In Closet(s) 
+319 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Walk-In Closet(s) 
+320 High Ceilings Walk-In Closet(s) In-Law Floorplan 
+321 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+322 Soaking Tub Wine Cellar 
+323 Double Vanity High Ceilings Tray Ceiling(s) Walk-In Closet(s) 
+324 Master On Main Level Roommate Plan Split Bedroom Plan 
+325 Bookcases Vaulted Ceiling(s) High Ceilings Double Vanity Walk-In Closet(s) Roommate Plan 
+326 Double Vanity High Ceilings Master On Main Level Pulldown Attic Stairs Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+327 Tile Bath Walk-In Closet(s) Roommate Plan 
+328 Other, Walk-In Closet(s), In-Law Floorplan 
+329 High Ceilings Other Pulldown Attic Stairs Master On Main Level 
+330 Bookcases Pulldown Attic Stairs Walk-In Closet(s) 
+331 Vaulted Ceiling(s) Separate Shower Roommate Plan Split Bedroom Plan 
+332 Tray Ceiling(s) High Ceilings Double Vanity Separate Shower Walk-In Closet(s) Whirlpool Bath 
+333 High Ceilings Double Vanity Other Walk-In Closet(s) Master On Main Level 
+334 Tray Ceiling(s), Vaulted Ceiling(s), High Ceilings, Double Vanity, Separate Shower, Walk-In Closet(s), Split Bedroom Plan 
+335 Double Vanity Two Story Foyer Pulldown Attic Stairs Tile Bath Walk-In Closet(s) In-Law Floorplan Roommate Plan 
+336 Double Vanity Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+337 Tray Ceiling(s) Double Vanity Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+338 Double Vanity Soaking Tub Separate Shower Master On Main Level 
+339 Attic Expandable Tray Ceiling(s) High Ceilings Two Story Foyer Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+340 High Ceilings Soaking Tub Separate Shower Tile Bath Master On Main Level Roommate Plan Split Bedroom Plan 
+341 High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan 
+342 Beamed Ceilings Double Vanity High Ceilings Master On Main Level Separate Shower Soaking Tub Tile Bath 
+343 High Ceilings Other Walk-In Closet(s) 
+344 High Ceilings Rear Stairs Master On Main Level 
+345 Attic Expandable Master On Main Level Split Bedroom Plan 
+346 Double Vanity Master On Main Level Split Bedroom Plan Vaulted Ceiling(s) Walk-In Closet(s) 
+347 Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+348 High Ceilings Wine Cellar 
+349 Central Vacuum Bookcases Vaulted Ceiling(s) High Ceilings Double Vanity Beamed Ceilings Two Story Foyer Soaking Tub Rear Stairs Sauna Separate Shower Walk-In Closet(s) Wet Bar Master On Main Level 
+350 Double Vanity High Ceilings Other 
+351 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Walk-In Closet(s) In-Law Floorplan 
+352 Beamed Ceilings, Separate Shower, Wet Bar, Master On Main Level 
+353 Tray Ceiling(s) Separate Shower Walk-In Closet(s) Master On Main Level 
+354 Double Vanity High Ceilings Pulldown Attic Stairs Tile Bath Tray Ceiling(s) Walk-In Closet(s) 
+355 Tray Ceiling(s) High Ceilings Two Story Foyer 
+356 Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Wet Bar 
+357 Double Vanity High Ceilings Roommate Plan Separate Shower Tray Ceiling(s) Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) 
+358 Bookcases Beamed Ceilings Pulldown Attic Stairs Walk-In Closet(s) 
+359 In-Law Floorplan Master On Main Level Other Split Bedroom Plan 
+360 Tray Ceiling(s), High Ceilings, Double Vanity, Other, Tile Bath, Walk-In Closet(s) 
+361 Master On Main Level Separate Shower Split Bedroom Plan Vaulted Ceiling(s) Walk-In Closet(s) 
+362 Bookcases Rear Stairs Master On Main Level 
+363 Vaulted Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level 
+364 Vaulted Ceiling(s) High Ceilings Soaking Tub Other Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Master On Main Level Roommate Plan Split Bedroom Plan 
+365 Roommate Plan Separate Shower Walk-In Closet(s) 
+366 Vaulted Ceiling(s), Two Story Foyer, Separate Shower, Walk-In Closet(s), Whirlpool Bath, Roommate Plan, Split Bedroom Plan 
+367 Bookcases Double Vanity High Ceilings In-Law Floorplan Split Bedroom Plan Tray Ceiling(s) Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) 
+368 Beamed Ceilings Walk-In Closet(s) Wet Bar Master On Main Level 
+369 Attic Expandable Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Tile Bath Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+370 High Ceilings Master On Main Level Other Walk-In Closet(s) 
+371 High Ceilings Walk-In Closet(s) Master On Main Level Roommate Plan 
+372 Beamed Ceilings Pulldown Attic Stairs Walk-In Closet(s) 
+373 Tray Ceiling(s) Pulldown Attic Stairs Walk-In Closet(s) 
+374 Bookcases, Tray Ceiling(s), Vaulted Ceiling(s), Double Vanity, Separate Shower, Tile Bath, Walk-In Closet(s) 
+375 High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Master On Main Level Roommate Plan 
+376 Tray Ceiling(s) Two Story Foyer Soaking Tub Walk-In Closet(s) 
+377 Bookcases Master On Main Level Split Bedroom Plan 
+378 Bookcases, Separate Shower, Walk-In Closet(s), Master On Main Level, Split Bedroom Plan 
+379 Bookcases Double Vanity High Ceilings Other Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+380 Pulldown Attic Stairs Rear Stairs Roommate Plan 
+381 Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+382 Bookcases, Master On Main Level 
+383 High Ceilings Double Vanity Walk-In Closet(s) Master On Main Level Roommate Plan 
+384 Two Story Foyer Other Walk-In Closet(s) 
+385 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Soaking Tub Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level 
+386 Bookcases High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Split Bedroom Plan 
+387 Other In-Law Floorplan Roommate Plan 
+388 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Other Walk-In Closet(s) In-Law Floorplan Roommate Plan 
+389 Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level 
+390 Double Vanity Master On Main Level Split Bedroom Plan Walk-In Closet(s) Wet Bar 
+391 Double Vanity Master On Main Level Pulldown Attic Stairs 
+392 High Ceilings, Two Story Foyer, Other, Walk-In Closet(s), Master On Main Level, Split Bedroom Plan 
+393 Tray Ceiling(s) High Ceilings Double Vanity Walk-In Closet(s) Roommate Plan 
+394 High Ceilings Pulldown Attic Stairs Walk-In Closet(s) Split Bedroom Plan 
+395 Double Vanity, Walk-In Closet(s), Wet Bar 
+396 Vaulted Ceiling(s) High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+397 Tray Ceiling(s) Soaking Tub Separate Shower Master On Main Level 
+398 Double Vanity Separate Shower Master On Main Level 
+399 High Ceilings Double Vanity Separate Shower Walk-In Closet(s) 
+400 Double Vanity Other Walk-In Closet(s) Roommate Plan 
+401 Bookcases Tray Ceiling(s) Double Vanity Two Story Foyer Other Walk-In Closet(s) 
+402 Attic Expandable High Ceilings Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+403 Tray Ceiling(s) Vaulted Ceiling(s) Soaking Tub Separate Shower Walk-In Closet(s) 
+404 Whirlpool Bath 
+405 Pulldown Attic Stairs Double Vanity Bookcases Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) 
+406 Double Vanity Soaking Tub Other Separate Shower 
+407 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Rear Stairs Separate Shower Walk-In Closet(s) Whirlpool Bath 
+408 Double Vanity Other Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+409 High Ceilings Double Vanity Two Story Foyer Walk-In Closet(s) 
+410 Two Story Foyer Soaking Tub Split Bedroom Plan 
+411 Pulldown Attic Stairs, Tile Bath 
+412 Bookcases Other 
+413 Attic Expandable Roommate Plan 
+414 Double Vanity Master On Main Level Other Roommate Plan Walk-In Closet(s) 
+415 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Beamed Ceilings Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+416 Bookcases Double Vanity Roommate Plan Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+417 High Ceilings Tile Bath Walk-In Closet(s) Whirlpool Bath 
+418 Double Vanity Master On Main Level Separate Shower Soaking Tub Vaulted Ceiling(s) 
+419 Separate Shower, Roommate Plan, Split Bedroom Plan 
+420 Double Vanity Rear Stairs Tile Bath Walk-In Closet(s) Master On Main Level 
+421 High Ceilings Separate Shower Master On Main Level Wine Cellar 
+422 High Ceilings Beamed Ceilings Tile Bath Walk-In Closet(s) 
+423 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) In-Law Floorplan 
+424 Bookcases, Double Vanity, Two Story Foyer, Separate Shower, Walk-In Closet(s) 
+425 High Ceilings Double Vanity Other Master On Main Level 
+426 Bookcases Vaulted Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) 
+427 Soaking Tub Split Bedroom Plan Tile Bath 
+428 High Ceilings Beamed Ceilings 
+429 High Ceilings Pulldown Attic Stairs Double Vanity Walk-In Closet(s) Separate Shower Soaking Tub 
+430 Tray Ceiling(s) Double Vanity Soaking Tub 
+431 High Ceilings, Double Vanity, Separate Shower, Walk-In Closet(s) 
+432 Bookcases Double Vanity Separate Shower Tile Bath Walk-In Closet(s) 
+433 High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath 
+434 Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+435 Central Vacuum High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) 
+436 Bookcases Vaulted Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+437 Double Vanity High Ceilings Pulldown Attic Stairs Roommate Plan Tray Ceiling(s) Walk-In Closet(s) 
+438 Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Tray Ceiling(s) Walk-In Closet(s) 
+439 Bookcases Other Pulldown Attic Stairs In-Law Floorplan Roommate Plan Split Bedroom Plan 
+440 Tray Ceiling(s) High Ceilings Double Vanity Separate Shower Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+441 High Ceilings Other Pulldown Attic Stairs Walk-In Closet(s) 
+442 High Ceilings Master On Main Level Tile Bath Walk-In Closet(s) Whirlpool Bath 
+443 High Ceilings Two Story Foyer Walk-In Closet(s) Wet Bar Whirlpool Bath In-Law Floorplan 
+444 Bookcases Separate Shower Tile Bath Master On Main Level 
+445 High Ceilings Double Vanity Pulldown Attic Stairs 
+446 High Ceilings Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+447 Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) 
+448 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+449 Pulldown Attic Stairs Separate Shower Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+450 Central Vacuum Vaulted Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+451 High Ceilings Roommate Plan Tile Bath 
+452 High Ceilings Two Story Foyer Separate Shower Walk-In Closet(s) 
+453 High Ceilings Soaking Tub Tile Bath Master On Main Level 
+454 High Ceilings In-Law Floorplan Master On Main Level Roommate Plan Walk-In Closet(s) 
+455 Attic Expandable High Ceilings Master On Main Level 
+456 Tray Ceiling(s) Walk-In Closet(s) In-Law Floorplan Master On Main Level Split Bedroom Plan 
+457 Double Vanity Two Story Foyer Walk-In Closet(s) Roommate Plan 
+458 Bookcases Beamed Ceilings Two Story Foyer Roommate Plan 
+459 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+460 Walk-In Closet(s) In-Law Floorplan 
+461 Bookcases Tile Bath 
+462 Tray Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+463 Attic Expandable High Ceilings Double Vanity Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+464 High Ceilings Separate Shower Tile Bath 
+465 Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) In-Law Floorplan 
+466 High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+467 Bookcases Double Vanity Beamed Ceilings Two Story Foyer Sauna Separate Shower Tile Bath Walk-In Closet(s) Wet Bar In-Law Floorplan Master On Main Level Wine Cellar 
+468 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level 
+469 High Ceilings Master On Main Level Roommate Plan Soaking Tub Walk-In Closet(s) 
+470 Double Vanity Other Tile Bath Walk-In Closet(s) Wet Bar Roommate Plan 
+471 Attic Expandable Pulldown Attic Stairs Roommate Plan Tile Bath Walk-In Closet(s) 
+472 Tray Ceiling(s) High Ceilings Double Vanity Separate Shower Walk-In Closet(s) Whirlpool Bath Master On Main Level Split Bedroom Plan 
+473 Bookcases Pulldown Attic Stairs 
+474 Tray Ceiling(s) High Ceilings Double Vanity Walk-In Closet(s) Master On Main Level Roommate Plan 
+475 Tray Ceiling(s), High Ceilings, Double Vanity, Two Story Foyer, Soaking Tub, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s) 
+476 Bookcases High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) 
+477 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+478 Bookcases High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+479 Bookcases Master On Main Level Pulldown Attic Stairs Separate Shower Soaking Tub Tile Bath Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) Wet Bar 
+480 Soaking Tub Walk-In Closet(s) Master On Main Level 
+481 Bookcases Double Vanity Two Story Foyer Walk-In Closet(s) Wet Bar Master On Main Level Split Bedroom Plan 
+482 Double Vanity, Two Story Foyer, Split Bedroom Plan 
+483 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Separate Shower Walk-In Closet(s) 
+484 Separate Shower, Walk-In Closet(s), Roommate Plan, Split Bedroom Plan 
+485 Bookcases, High Ceilings, Double Vanity, Rear Stairs, Separate Shower, Walk-In Closet(s), Wet Bar, In-Law Floorplan, Master On Main Level, Wine Cellar 
+486 Pulldown Attic Stairs Split Bedroom Plan Vaulted Ceiling(s) 
+487 Attic Expandable High Ceilings Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level 
+488 Bookcases Beamed Ceilings Walk-In Closet(s) Master On Main Level 
+489 Bookcases Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+490 Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Rear Stairs Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+491 Bookcases, Two Story Foyer, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s), In-Law Floorplan 
+492 High Ceilings Separate Shower 
+493 Vaulted Ceiling(s) Double Vanity Two Story Foyer Roommate Plan 
+494 Bookcases, Two Story Foyer, Master On Main Level 
+495 Pulldown Attic Stairs Separate Shower Roommate Plan 
+496 Bookcases Central Vacuum Double Vanity High Ceilings In-Law Floorplan Master On Main Level Rear Stairs Walk-In Closet(s) Wet Bar Wine Cellar 
+497 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+498 Vaulted Ceiling(s), Beamed Ceilings, Pulldown Attic Stairs, Tile Bath, Master On Main Level 
+499 Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level Roommate Plan 
+500 Bookcases Master On Main Level Pulldown Attic Stairs 
+501 Bookcases Double Vanity Soaking Tub Tile Bath Walk-In Closet(s) Roommate Plan 
+502 Vaulted Ceiling(s) Two Story Foyer Walk-In Closet(s) Split Bedroom Plan 
+503 Tray Ceiling(s) Double Vanity Walk-In Closet(s) Master On Main Level 
+504 Tray Ceiling(s), High Ceilings, Double Vanity, Soaking Tub, Pulldown Attic Stairs, Separate Shower, Tile Bath, Walk-In Closet(s), In-Law Floorplan, Master On Main Level 
+505 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) 
+506 Attic Expandable High Ceilings Separate Shower Tile Bath Roommate Plan 
+507 Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Rear Stairs Separate Shower Tile Bath Walk-In Closet(s) Wet Bar Master On Main Level Wine Cellar 
+508 High Ceilings Soaking Tub Pulldown Attic Stairs Rear Stairs Tile Bath Master On Main Level 
+509 Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+510 High Ceilings Master On Main Level Pulldown Attic Stairs Roommate Plan Walk-In Closet(s) 
+511 High Ceilings Soaking Tub Separate Shower Wet Bar Walk-In Closet(s) 
+512 Tray Ceiling(s) Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) In-Law Floorplan 
+513 Double Vanity High Ceilings Separate Shower 
+514 Other Master On Main Level 
+515 High Ceilings Master On Main Level Soaking Tub 
+516 Double Vanity Master On Main Level Roommate Plan Walk-In Closet(s) Wet Bar 
+517 Bookcases High Ceilings Double Vanity Walk-In Closet(s) Wet Bar Master On Main Level Split Bedroom Plan 
+518 Double Vanity Pulldown Attic Stairs Separate Shower Soaking Tub Tile Bath Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) 
+519 Bookcases High Ceilings Double Vanity Beamed Ceilings 
+520 Bookcases Double Vanity 
+521 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Walk-In Closet(s) Whirlpool Bath Roommate Plan 
+522 Roommate Plan Split Bedroom Plan Vaulted Ceiling(s) 
+523 Central Vacuum Bookcases Soaking Tub Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+524 Tray Ceiling(s) Beamed Ceilings Master On Main Level Split Bedroom Plan 
+525 Tray Ceiling(s) Double Vanity Soaking Tub Tile Bath Walk-In Closet(s) 
+526 Double Vanity Separate Shower Soaking Tub Walk-In Closet(s) 
+527 Beamed Ceilings Split Bedroom Plan 
+528 Bookcases High Ceilings Rear Stairs Walk-In Closet(s) In-Law Floorplan 
+529 High Ceilings Split Bedroom Plan 
+530 Vaulted Ceiling(s), High Ceilings, Double Vanity, Soaking Tub, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s), Master On Main Level 
+531 Walk-In Closet(s) Master On Main Level 
+532 Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+533 High Ceilings Double Vanity Pulldown Attic Stairs Rear Stairs Separate Shower Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+534 Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+535 High Ceilings Double Vanity Master On Main Level Roommate Plan 
+536 Double Vanity Other Pulldown Attic Stairs Separate Shower Soaking Tub Walk-In Closet(s) 
+537 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Split Bedroom Plan 
+538 Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+539 Soaking Tub Pulldown Attic Stairs Walk-In Closet(s) 
+540 Double Vanity Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan 
+541 Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+542 Vaulted Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+543 Bookcases Double Vanity High Ceilings In-Law Floorplan Master On Main Level Separate Shower Walk-In Closet(s) Wet Bar Wine Cellar 
+544 High Ceilings, Roommate Plan 
+545 High Ceilings Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level 
+546 Tray Ceiling(s) Soaking Tub Separate Shower Tile Bath Split Bedroom Plan 
+547 Bookcases High Ceilings Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+548 Attic Expandable Tray Ceiling(s) High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) 
+549 Beamed Ceilings, Master On Main Level 
+550 Soaking Tub Other Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan 
+551 Bookcases High Ceilings Other Walk-In Closet(s) Wine Cellar 
+552 Double Vanity, Other, Tile Bath, Split Bedroom Plan 
+553 Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Rear Stairs Separate Shower Walk-In Closet(s) 
+554 Vaulted Ceiling(s), Beamed Ceilings, Walk-In Closet(s), Wet Bar, Master On Main Level 
+555 Double Vanity High Ceilings Separate Shower Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) 
+556 Tray Ceiling(s) High Ceilings Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+557 Other Tile Bath Master On Main Level 
+558 Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Tile Bath Master On Main Level 
+559 Double Vanity, Two Story Foyer, Walk-In Closet(s) 
+560 Bookcases Double Vanity High Ceilings Roommate Plan Vaulted Ceiling(s) Walk-In Closet(s) 
+561 Double Vanity High Ceilings Roommate Plan Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+562 Two Story Foyer Soaking Tub Separate Shower Roommate Plan 
+563 Double Vanity High Ceilings Separate Shower Soaking Tub Tray Ceiling(s) Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) Wet Bar 
+564 High Ceilings, Soaking Tub, Separate Shower, Tile Bath, Walk-In Closet(s), Wet Bar 
+565 Tray Ceiling(s) High Ceilings Walk-In Closet(s) Master On Main Level Roommate Plan 
+566 Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+567 Double Vanity Pulldown Attic Stairs Tile Bath Two Story Foyer Walk-In Closet(s) 
+568 Tray Ceiling(s), Vaulted Ceiling(s), Soaking Tub, Walk-In Closet(s), Roommate Plan 
+569 Double Vanity Pulldown Attic Stairs Split Bedroom Plan 
+570 Bookcases Double Vanity Pulldown Attic Stairs Separate Shower Soaking Tub Tile Bath Walk-In Closet(s) Whirlpool Bath 
+571 Beamed Ceilings 
+572 Bookcases Two Story Foyer Walk-In Closet(s) 
+573 Double Vanity Rear Stairs Walk-In Closet(s) 
+574 Tray Ceiling(s) High Ceilings Double Vanity Other Tile Bath Walk-In Closet(s) 
+575 Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Wet Bar 
+576 Master On Main Level Separate Shower Tile Bath 
+577 Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+578 Soaking Tub Pulldown Attic Stairs Roommate Plan 
+579 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) In-Law Floorplan 
+580 Bookcases Vaulted Ceiling(s) Tile Bath 
+581 Other, Walk-In Closet(s), Roommate Plan 
+582 Double Vanity Master On Main Level Pulldown Attic Stairs Separate Shower Two Story Foyer Walk-In Closet(s) 
+583 Bookcases Rear Stairs Walk-In Closet(s) 
+584 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Master On Main Level 
+585 In-Law Floorplan Split Foyer Tile Bath 
+586 Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+587 Attic Expandable Soaking Tub Tile Bath Walk-In Closet(s) 
+588 High Ceilings Pulldown Attic Stairs Tray Ceiling(s) Walk-In Closet(s) 
+589 Master On Main Level Other Split Bedroom Plan 
+590 Tray Ceiling(s) High Ceilings Double Vanity Tile Bath Walk-In Closet(s) 
+591 Bookcases Double Vanity Separate Shower Tile Bath Wet Bar Roommate Plan 
+592 Master On Main Level Roommate Plan Separate Shower Walk-In Closet(s) 
+593 Vaulted Ceiling(s) High Ceilings Soaking Tub Rear Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+594 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+595 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Whirlpool Bath 
+596 Double Vanity Pulldown Attic Stairs Separate Shower Soaking Tub Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+597 Tray Ceiling(s) High Ceilings Double Vanity Tile Bath Walk-In Closet(s) Master On Main Level 
+598 Bookcases Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level Roommate Plan 
+599 High Ceilings Roommate Plan Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+600 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) In-Law Floorplan Roommate Plan Split Bedroom Plan 
+601 Separate Shower Tile Bath Master On Main Level 
+602 High Ceilings Master On Main Level Roommate Plan Walk-In Closet(s) Wet Bar 
+603 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Master On Main Level 
+604 Vaulted Ceiling(s) High Ceilings Tile Bath Master On Main Level 
+605 High Ceilings Other Walk-In Closet(s) Roommate Plan 
+606 Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+607 Tile Bath In-Law Floorplan 
+608 Vaulted Ceiling(s) High Ceilings Double Vanity 
+609 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Separate Shower Walk-In Closet(s) Whirlpool Bath 
+610 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Walk-In Closet(s) 
+611 Walk-In Closet(s) In-Law Floorplan Split Bedroom Plan 
+612 Bookcases Double Vanity Pulldown Attic Stairs Tray Ceiling(s) Walk-In Closet(s) 
+613 High Ceilings Double Vanity Two Story Foyer Walk-In Closet(s) Master On Main Level 
+614 High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+615 Double Vanity Pulldown Attic Stairs Separate Shower Split Foyer Tray Ceiling(s) Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) 
+616 Vaulted Ceiling(s) Pulldown Attic Stairs Walk-In Closet(s) 
+617 High Ceilings Double Vanity Separate Shower 
+618 Vaulted Ceiling(s) Soaking Tub Tile Bath Walk-In Closet(s) Master On Main Level 
+619 Other Tile Bath 
+620 Pulldown Attic Stairs Roommate Plan 
+621 Attic Expandable Master On Main Level 
+622 Tray Ceiling(s), Vaulted Ceiling(s), Double Vanity, Soaking Tub, Separate Shower, Walk-In Closet(s) 
+623 High Ceilings Two Story Foyer 
+624 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Whirlpool Bath Master On Main Level 
+625 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Tile Bath Walk-In Closet(s) In-Law Floorplan Roommate Plan 
+626 Vaulted Ceiling(s), Double Vanity, Walk-In Closet(s), Master On Main Level 
+627 High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) 
+628 Other Pulldown Attic Stairs Separate Shower 
+629 High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+630 Master On Main Level Vaulted Ceiling(s) Walk-In Closet(s) 
+631 Sauna Split Bedroom Plan 
+632 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath 
+633 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Tile Bath Walk-In Closet(s) In-Law Floorplan Split Bedroom Plan 
+634 High Ceilings Double Vanity 
+635 Double Vanity High Ceilings Roommate Plan Split Bedroom Plan Walk-In Closet(s) 
+636 Double Vanity Rear Stairs Roommate Plan Walk-In Closet(s) 
+637 Vaulted Ceiling(s) Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+638 Separate Shower Soaking Tub Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) 
+639 Bookcases Double Vanity High Ceilings Rear Stairs Roommate Plan Separate Shower Split Bedroom Plan Vaulted Ceiling(s) 
+640 Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+641 Double Vanity High Ceilings Other Roommate Plan Split Bedroom Plan Walk-In Closet(s) 
+642 Beamed Ceilings Master On Main Level Vaulted Ceiling(s) 
+643 Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Other Sauna Separate Shower Tile Bath Walk-In Closet(s) Wet Bar Whirlpool Bath In-Law Floorplan Split Bedroom Plan 
+644 High Ceilings Double Vanity Walk-In Closet(s) 
+645 Separate Shower Soaking Tub Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+646 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+647 Soaking Tub Separate Shower 
+648 Double Vanity High Ceilings Roommate Plan 
+649 High Ceilings Double Vanity Other Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+650 Bookcases Other Roommate Plan 
+651 Attic Expandable Tray Ceiling(s) Vaulted Ceiling(s) Two Story Foyer Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+652 Other Roommate Plan 
+653 Attic Expandable High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Split Bedroom Plan 
+654 Bookcases Separate Shower Walk-In Closet(s) Wet Bar 
+655 Vaulted Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Rear Stairs Separate Shower Walk-In Closet(s) 
+656 Vaulted Ceiling(s) Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+657 Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Whirlpool Bath In-Law Floorplan Master On Main Level 
+658 High Ceilings Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level Split Foyer 
+659 Double Vanity, Two Story Foyer, Soaking Tub, Pulldown Attic Stairs, Separate Shower, Tile Bath, Walk-In Closet(s) 
+660 Bookcases Tray Ceiling(s) High Ceilings Soaking Tub Other 
+661 Double Vanity Separate Shower Roommate Plan Split Bedroom Plan Split Foyer 
+662 Master On Main Level Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+663 High Ceilings Pulldown Attic Stairs Other Vaulted Ceiling(s) Walk-In Closet(s) 
+664 High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Walk-In Closet(s) 
+665 High Ceilings Double Vanity Soaking Tub Split Bedroom Plan 
+666 Bookcases Two Story Foyer 
+667 High Ceilings In-Law Floorplan Master On Main Level 
+668 Double Vanity, Two Story Foyer, Master On Main Level, Roommate Plan 
+669 Tray Ceiling(s), Vaulted Ceiling(s), High Ceilings, Double Vanity, Soaking Tub, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s) 
+670 Double Vanity Separate Shower Walk-In Closet(s) 
+671 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Two Story Foyer Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Whirlpool Bath Master On Main Level 
+672 Bookcases High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower 
+673 Bookcases, Beamed Ceilings, Two Story Foyer, Roommate Plan 
+674 Two Story Foyer, Soaking Tub, Pulldown Attic Stairs, Separate Shower, Tile Bath, Walk-In Closet(s) 
+675 In-Law Floorplan Walk-In Closet(s) 
+676 High Ceilings, Tile Bath, Walk-In Closet(s), Master On Main Level, Roommate Plan 
+677 High Ceilings Tile Bath Roommate Plan Split Bedroom Plan 
+678 Master On Main Level Vaulted Ceiling(s) 
+679 High Ceilings, Double Vanity 
+680 Double Vanity, Soaking Tub, Separate Shower 
+681 Double Vanity Separate Shower Roommate Plan 
+682 Tray Ceiling(s) Double Vanity Separate Shower 
+683 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Tile Bath Walk-In Closet(s) Master On Main Level 
+684 Double Vanity Beamed Ceilings Walk-In Closet(s) Master On Main Level 
+685 High Ceilings Double Vanity Separate Shower Roommate Plan Split Bedroom Plan 
+686 Other Master On Main Level Roommate Plan 
+687 Tray Ceiling(s), Soaking Tub 
+688 High Ceilings Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+689 Vaulted Ceiling(s) High Ceilings Two Story Foyer Tile Bath Walk-In Closet(s) 
+690 Double Vanity Other Master On Main Level 
+691 Double Vanity Master On Main Level Pulldown Attic Stairs Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+692 Double Vanity Tile Bath In-Law Floorplan 
+693 Tile Bath 
+694 In-Law Floorplan Roommate Plan Walk-In Closet(s) 
+695 Bookcases, Vaulted Ceiling(s), Tile Bath 
+696 Bookcases In-Law Floorplan Master On Main Level Pulldown Attic Stairs Wet Bar 
+697 Bookcases Tray Ceiling(s) High Ceilings Walk-In Closet(s) In-Law Floorplan 
+698 High Ceilings Double Vanity Tile Bath Master On Main Level 
+699 Bookcases High Ceilings Master On Main Level Tray Ceiling(s) Walk-In Closet(s) Wet Bar 
+700 Bookcases Tray Ceiling(s) Walk-In Closet(s) 
+701 Two Story Foyer Separate Shower In-Law Floorplan Roommate Plan 
+702 Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+703 Bookcases Tile Bath Wet Bar Master On Main Level 
+704 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+705 Separate Shower Walk-In Closet(s) Whirlpool Bath 
+706 Bookcases High Ceilings Roommate Plan Split Bedroom Plan 
+707 Master On Main Level Other Walk-In Closet(s) Wet Bar 
+708 Rear Stairs Tray Ceiling(s) Walk-In Closet(s) Wet Bar 
+709 Bookcases, Separate Shower, Tile Bath, Master On Main Level 
+710 Tray Ceiling(s), High Ceilings, Double Vanity, Pulldown Attic Stairs 
+711 Double Vanity Beamed Ceilings Two Story Foyer Walk-In Closet(s) 
+712 Tray Ceiling(s) Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+713 Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) 
+714 Vaulted Ceiling(s), Beamed Ceilings, Master On Main Level 
+715 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Rear Stairs Separate Shower Tile Bath Walk-In Closet(s) Wet Bar 
+716 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) In-Law Floorplan 
+717 Soaking Tub Rear Stairs Tile Bath Master On Main Level 
+718 Tray Ceiling(s) High Ceilings Double Vanity Walk-In Closet(s) Split Bedroom Plan 
+719 Bookcases Walk-In Closet(s) Master On Main Level 
+720 High Ceilings Walk-In Closet(s) In-Law Floorplan Master On Main Level Roommate Plan 
+721 High Ceilings Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+722 Central Vacuum Attic Expandable Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Whirlpool Bath Master On Main Level 
+723 Double Vanity Roommate Plan Separate Shower Soaking Tub Split Bedroom Plan Tile Bath Walk-In Closet(s) 
+724 Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) 
+725 Bookcases Vaulted Ceiling(s) Pulldown Attic Stairs Master On Main Level 
+726 Beamed Ceilings High Ceilings Walk-In Closet(s) 
+727 Bookcases Tray Ceiling(s) High Ceilings Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan 
+728 Bookcases Other Walk-In Closet(s) Master On Main Level Roommate Plan Wine Cellar 
+729 Tray Ceiling(s) High Ceilings Double Vanity 
+730 Bookcases Vaulted Ceiling(s) Soaking Tub Pulldown Attic Stairs Separate Shower 
+731 Vaulted Ceiling(s), High Ceilings, Soaking Tub, Walk-In Closet(s), Master On Main Level 
+732 Attic Expandable Tray Ceiling(s) High Ceilings Double Vanity Walk-In Closet(s) Whirlpool Bath Roommate Plan 
+733 Bookcases High Ceilings Two Story Foyer Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Split Foyer 
+734 Bookcases Tray Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+735 High Ceilings Double Vanity Other Walk-In Closet(s) Wet Bar 
+736 High Ceilings Tile Bath 
+737 Double Vanity Pulldown Attic Stairs Walk-In Closet(s) 
+738 Double Vanity Soaking Tub Roommate Plan 
+739 High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Split Bedroom Plan 
+740 Tray Ceiling(s) Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+741 Bookcases Double Vanity Split Bedroom Plan Walk-In Closet(s) 
+742 High Ceilings Master On Main Level Separate Shower Walk-In Closet(s) 
+743 Tray Ceiling(s) Two Story Foyer Pulldown Attic Stairs Walk-In Closet(s) 
+744 Bookcases Double Vanity High Ceilings Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) 
+745 Double Vanity Pulldown Attic Stairs Tile Bath 
+746 Double Vanity High Ceilings Master On Main Level Pulldown Attic Stairs Roommate Plan 
+747 Double Vanity Pulldown Attic Stairs Separate Shower Master On Main Level 
+748 Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+749 Bookcases High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) In-Law Floorplan Master On Main Level Roommate Plan 
+750 High Ceilings Double Vanity In-Law Floorplan Master On Main Level Roommate Plan 
+751 Master On Main Level Split Foyer 
+752 High Ceilings Double Vanity Two Story Foyer Soaking Tub Other Rear Stairs Separate Shower Tile Bath Walk-In Closet(s) In-Law Floorplan Master On Main Level Split Bedroom Plan 
+753 Vaulted Ceiling(s) High Ceilings Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+754 Tray Ceiling(s) Double Vanity Tile Bath 
+755 High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+756 Two Story Foyer, In-Law Floorplan 
+757 Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+758 High Ceilings Double Vanity Tile Bath Walk-In Closet(s) Whirlpool Bath Master On Main Level Roommate Plan Split Bedroom Plan 
+759 High Ceilings Two Story Foyer Tile Bath Walk-In Closet(s) Whirlpool Bath Wine Cellar 
+760 Tray Ceiling(s), Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s), Master On Main Level 
+761 High Ceilings, Master On Main Level 
+762 High Ceilings, Double Vanity, Walk-In Closet(s) 
+763 High Ceilings, Double Vanity, Separate Shower, Walk-In Closet(s), Master On Main Level 
+764 Attic Expandable, Bookcases, Tray Ceiling(s), Double Vanity, Two Story Foyer, Walk-In Closet(s) 
+765 Double Vanity High Ceilings Separate Shower Soaking Tub Split Bedroom Plan 
+766 Separate Shower Walk-In Closet(s) 
+767 Pulldown Attic Stairs Walk-In Closet(s) Split Bedroom Plan 
+768 Tray Ceiling(s), Two Story Foyer, Pulldown Attic Stairs, Separate Shower 
+769 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+770 High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Whirlpool Bath Roommate Plan Split Bedroom Plan 
+771 In-Law Floorplan Tile Bath Walk-In Closet(s) 
+772 Bookcases Two Story Foyer Other Walk-In Closet(s) 
+773 Pulldown Attic Stairs, Walk-In Closet(s) 
+774 Roommate Plan 
+775 Vaulted Ceiling(s) High Ceilings Soaking Tub Walk-In Closet(s) Roommate Plan 
+776 Tray Ceiling(s) Walk-In Closet(s) Master On Main Level 
+777 High Ceilings Pulldown Attic Stairs Tile Bath 
+778 Bookcases Double Vanity In-Law Floorplan Master On Main Level Rear Stairs Tray Ceiling(s) Walk-In Closet(s) 
+779 Bookcases, Beamed Ceilings, Soaking Tub, Separate Shower, Walk-In Closet(s), In-Law Floorplan, Master On Main Level 
+780 High Ceilings Soaking Tub Tile Bath Tray Ceiling(s) 
+781 Tray Ceiling(s), High Ceilings, Double Vanity, Other, Pulldown Attic Stairs, Walk-In Closet(s), Split Bedroom Plan 
+782 Double Vanity Master On Main Level Pulldown Attic Stairs Separate Shower Soaking Tub Walk-In Closet(s) 
+783 Double Vanity Walk-In Closet(s) Whirlpool Bath Roommate Plan 
+784 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) In-Law Floorplan Master On Main Level 
+785 Bookcases Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Walk-In Closet(s) Wet Bar Whirlpool Bath Master On Main Level 
+786 Vaulted Ceiling(s) Pulldown Attic Stairs Split Bedroom Plan 
+787 High Ceilings Split Bedroom Plan Walk-In Closet(s) 
+788 Double Vanity Split Bedroom Plan Walk-In Closet(s) Tile Bath 
+789 High Ceilings Double Vanity Soaking Tub Separate Shower Roommate Plan 
+790 High Ceilings Master On Main Level Roommate Plan Split Bedroom Plan Tile Bath Walk-In Closet(s) 
+791 Wet Bar 
+792 High Ceilings Double Vanity Walk-In Closet(s) Split Bedroom Plan 
+793 High Ceilings Soaking Tub Separate Shower Walk-In Closet(s) Roommate Plan 
+794 Vaulted Ceiling(s) Two Story Foyer Rear Stairs Walk-In Closet(s) 
+795 Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan 
+796 Bookcases High Ceilings Double Vanity Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+797 Double Vanity Master On Main Level Walk-In Closet(s) 
+798 High Ceilings Master On Main Level Pulldown Attic Stairs 
+799 Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan 
+800 Double Vanity High Ceilings Soaking Tub Tile Bath Walk-In Closet(s) 
+801 High Ceilings Double Vanity Rear Stairs Separate Shower Walk-In Closet(s) 
+802 High Ceilings Master On Main Level Rear Stairs Separate Shower Soaking Tub Tile Bath Vaulted Ceiling(s) Walk-In Closet(s) 
+803 Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Split Bedroom Plan 
+804 Bookcases High Ceilings Whirlpool Bath Master On Main Level Split Bedroom Plan 
+805 High Ceilings Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+806 Separate Shower Roommate Plan 
+807 Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Roommate Plan 
+808 Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+809 Double Vanity Soaking Tub Split Bedroom Plan Tile Bath 
+810 Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+811 Vaulted Ceiling(s) High Ceilings Beamed Ceilings Pulldown Attic Stairs Walk-In Closet(s) 
+812 Vaulted Ceiling(s), High Ceilings, Double Vanity, Soaking Tub, Other, Sauna, Separate Shower, Tile Bath, Walk-In Closet(s), Wet Bar, Whirlpool Bath, In-Law Floorplan, Split Bedroom Plan 
+813 Bookcases Vaulted Ceiling(s) Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+814 Bookcases Master On Main Level Vaulted Ceiling(s) 
+815 Vaulted Ceiling(s) Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Whirlpool Bath 
+816 Bookcases In-Law Floorplan Pulldown Attic Stairs Roommate Plan Separate Shower Split Bedroom Plan Two Story Foyer Walk-In Closet(s) 
+817 Soaking Tub Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+818 Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+819 Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+820 High Ceilings Master On Main Level Tray Ceiling(s) 
+821 Vaulted Ceiling(s) Tile Bath Walk-In Closet(s) 
+822 Bookcases, Rear Stairs 
+823 Bookcases Double Vanity Walk-In Closet(s) 
+824 Vaulted Ceiling(s) Other Walk-In Closet(s) Roommate Plan 
+825 Tray Ceiling(s) Soaking Tub Pulldown Attic Stairs Separate Shower 
+826 High Ceilings Tile Bath Walk-In Closet(s) Whirlpool Bath Master On Main Level 
+827 Vaulted Ceiling(s) Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) 
+828 Vaulted Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+829 Vaulted Ceiling(s) Pulldown Attic Stairs Tile Bath Master On Main Level 
+830 Double Vanity Pulldown Attic Stairs Separate Shower Split Foyer 
+831 Double Vanity High Ceilings Separate Shower Tile Bath Walk-In Closet(s) 
+832 High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+833 High Ceilings Double Vanity Pulldown Attic Stairs In-Law Floorplan Roommate Plan 
+834 High Ceilings, Double Vanity, Soaking Tub, Walk-In Closet(s), Master On Main Level, Roommate Plan 
+835 Bookcases, Tray Ceiling(s), High Ceilings, Double Vanity, Soaking Tub, Tile Bath, Walk-In Closet(s) 
+836 Beamed Ceilings Separate Shower Roommate Plan Split Bedroom Plan 
+837 Tray Ceiling(s), Vaulted Ceiling(s), High Ceilings, Tile Bath, Walk-In Closet(s), Master On Main Level 
+838 Tray Ceiling(s) Double Vanity Pulldown Attic Stairs Separate Shower Master On Main Level Split Bedroom Plan 
+839 Double Vanity Separate Shower Tile Bath Tray Ceiling(s) Two Story Foyer Vaulted Ceiling(s) Wet Bar 
+840 Soaking Tub Pulldown Attic Stairs 
+841 Double Vanity, Soaking Tub, Pulldown Attic Stairs, Rear Stairs, Separate Shower, Walk-In Closet(s) 
+842 High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Walk-In Closet(s) Split Bedroom Plan 
+843 High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Roommate Plan 
+844 Separate Shower Tile Bath 
+845 Bookcases Double Vanity High Ceilings Pulldown Attic Stairs Rear Stairs Tray Ceiling(s) Walk-In Closet(s) Whirlpool Bath 
+846 Beamed Ceilings Walk-In Closet(s) In-Law Floorplan 
+847 Vaulted Ceiling(s) Soaking Tub Tile Bath Roommate Plan 
+848 High Ceilings, Other, Master On Main Level, Roommate Plan 
+849 Vaulted Ceiling(s), Double Vanity, Two Story Foyer 
+850 Attic Expandable Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Tile Bath Roommate Plan Split Bedroom Plan 
+851 High Ceilings Double Vanity Soaking Tub Separate Shower 
+852 Double Vanity Separate Shower Walk-In Closet(s) Roommate Plan 
+853 Two Story Foyer In-Law Floorplan 
+854 Bookcases High Ceilings Roommate Plan Walk-In Closet(s) 
+855 Separate Shower Soaking Tub Split Foyer Two Story Foyer Walk-In Closet(s) 
+856 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Tile Bath Walk-In Closet(s) 
+857 Double Vanity Soaking Tub Walk-In Closet(s) 
+858 Bookcases Vaulted Ceiling(s) High Ceilings 
+859 Tray Ceiling(s) High Ceilings Two Story Foyer Separate Shower Walk-In Closet(s) 
+860 Double Vanity Pulldown Attic Stairs Soaking Tub Tile Bath Walk-In Closet(s) Wet Bar 
+861 Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+862 High Ceilings Master On Main Level Tray Ceiling(s) Vaulted Ceiling(s) Walk-In Closet(s) 
+863 Roommate Plan Separate Shower Split Bedroom Plan 
+864 Master On Main Level Other Roommate Plan Split Bedroom Plan 
+865 Vaulted Ceiling(s) Two Story Foyer Rear Stairs Walk-In Closet(s) Split Bedroom Plan 
+866 Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+867 Vaulted Ceiling(s) Double Vanity Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+868 Bookcases Walk-In Closet(s) Split Bedroom Plan 
+869 Bookcases Double Vanity High Ceilings Master On Main Level Separate Shower Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) 
+870 High Ceilings Soaking Tub Walk-In Closet(s) Master On Main Level Roommate Plan 
+871 Double Vanity Two Story Foyer Tile Bath Walk-In Closet(s) 
+872 Bookcases Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Soaking Tub Tray Ceiling(s) Walk-In Closet(s) Whirlpool Bath 
+873 High Ceilings Double Vanity Two Story Foyer Separate Shower 
+874 Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower 
+875 Vaulted Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) In-Law Floorplan 
+876 Vaulted Ceiling(s) Master On Main Level 
+877 Bookcases, Tray Ceiling(s), Pulldown Attic Stairs, Walk-In Closet(s) 
+878 Pulldown Attic Stairs, Walk-In Closet(s), Split Bedroom Plan 
+879 Tile Bath, Split Bedroom Plan 
+880 Tray Ceiling(s) Vaulted Ceiling(s) Separate Shower Master On Main Level 
+881 Double Vanity Master On Main Level Walk-In Closet(s) Wet Bar 
+882 Double Vanity Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+883 Bookcases High Ceilings Double Vanity Other Pulldown Attic Stairs Walk-In Closet(s) Wet Bar 
+884 Bookcases Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) Master On Main Level 
+885 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+886 Soaking Tub Other Separate Shower 
+887 Beamed Ceilings Roommate Plan 
+888 Double Vanity High Ceilings Roommate Plan Separate Shower Tile Bath Walk-In Closet(s) 
+889 Tray Ceiling(s) Vaulted Ceiling(s) Soaking Tub Walk-In Closet(s) 
+890 High Ceilings Double Vanity Tile Bath Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+891 In-Law Floorplan Pulldown Attic Stairs Roommate Plan Split Bedroom Plan Walk-In Closet(s) 
+892 High Ceilings Walk-In Closet(s) Split Bedroom Plan 
+893 Tray Ceiling(s), Soaking Tub, Separate Shower, Roommate Plan 
+894 High Ceilings Pulldown Attic Stairs Roommate Plan 
+895 Attic Expandable, Bookcases, Tray Ceiling(s), High Ceilings, Double Vanity, Two Story Foyer, Soaking Tub, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s), Whirlpool Bath, In-Law Floorplan, Master On Main Level, Roommate Plan, Split Bedroom Plan 
+896 Tray Ceiling(s) Double Vanity Other Tile Bath Walk-In Closet(s) 
+897 High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+898 High Ceilings Other Roommate Plan 
+899 Double Vanity High Ceilings Master On Main Level Split Foyer Two Story Foyer Walk-In Closet(s) 
+900 Central Vacuum Master On Main Level Other 
+901 Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+902 High Ceilings, Tile Bath, Walk-In Closet(s) 
+903 Bookcases, Double Vanity, Separate Shower, Tile Bath, Walk-In Closet(s) 
+904 Vaulted Ceiling(s), Double Vanity, Walk-In Closet(s) 
+905 Separate Shower Tile Bath Walk-In Closet(s) 
+906 High Ceilings Other Separate Shower Tile Bath Walk-In Closet(s) 
+907 Double Vanity, Soaking Tub, Separate Shower, Walk-In Closet(s) 
+908 High Ceilings Separate Shower Walk-In Closet(s) Master On Main Level 
+909 Double Vanity Pulldown Attic Stairs Separate Shower Split Bedroom Plan Walk-In Closet(s) Whirlpool Bath 
+910 Tray Ceiling(s), Double Vanity, Separate Shower 
+911 High Ceilings Double Vanity Beamed Ceilings Tile Bath Walk-In Closet(s) Roommate Plan 
+912 Tray Ceiling(s) Rear Stairs Walk-In Closet(s) Roommate Plan 
+913 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level 
+914 Other Tile Bath Split Bedroom Plan 
+915 High Ceilings Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+916 Bookcases Double Vanity High Ceilings Pulldown Attic Stairs Roommate Plan Separate Shower Split Bedroom Plan Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) 
+917 Tray Ceiling(s), Vaulted Ceiling(s), Double Vanity, Other, Separate Shower, Walk-In Closet(s) 
+918 Bookcases, Tile Bath, Walk-In Closet(s), In-Law Floorplan, Master On Main Level 
+919 Tray Ceiling(s) High Ceilings Split Bedroom Plan 
+920 Master On Main Level Separate Shower Soaking Tub Tile Bath Walk-In Closet(s) Whirlpool Bath 
+921 Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Soaking Tub Two Story Foyer Walk-In Closet(s) 
+922 Tray Ceiling(s), High Ceilings, Double Vanity, Two Story Foyer, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s) 
+923 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Rear Stairs Tile Bath Walk-In Closet(s) 
+924 Rear Stairs Walk-In Closet(s) Wet Bar Split Bedroom Plan 
+925 Bookcases Master On Main Level Tile Bath Two Story Foyer 
+926 Pulldown Attic Stairs Separate Shower Soaking Tub Vaulted Ceiling(s) Walk-In Closet(s) 
+927 Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level 
+928 Central Vacuum Attic Expandable Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Rear Stairs Separate Shower Walk-In Closet(s) 
+929 High Ceilings Double Vanity Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+930 Bookcases Double Vanity Soaking Tub Other Separate Shower 
+931 Double Vanity High Ceilings Tray Ceiling(s) 
+932 Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Master On Main Level 
+933 High Ceilings Whirlpool Bath 
+934 Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level Roommate Plan 
+935 High Ceilings Master On Main Level Roommate Plan Split Bedroom Plan Walk-In Closet(s) 
+936 Tray Ceiling(s) Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+937 Bookcases Double Vanity Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) Roommate Plan 
+938 Bookcases Pulldown Attic Stairs Tile Bath Master On Main Level 
+939 Bookcases Tray Ceiling(s) Separate Shower Master On Main Level 
+940 Master On Main Level Separate Shower Soaking Tub Two Story Foyer Walk-In Closet(s) 
+941 Bookcases High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Master On Main Level Split Bedroom Plan 
+942 Double Vanity, Other, Tile Bath, Walk-In Closet(s), In-Law Floorplan, Master On Main Level 
+943 Bookcases, Soaking Tub, Master On Main Level 
+944 Tray Ceiling(s) High Ceilings Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+945 Bookcases Double Vanity Other Walk-In Closet(s) In-Law Floorplan Split Bedroom Plan 
+946 Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Roommate Plan 
+947 Vaulted Ceiling(s) High Ceilings Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+948 Soaking Tub Walk-In Closet(s) Roommate Plan 
+949 Double Vanity Pulldown Attic Stairs Separate Shower Soaking Tub Tile Bath Two Story Foyer Walk-In Closet(s) 
+950 Double Vanity Separate Shower Walk-In Closet(s) Master On Main Level 
+951 High Ceilings Double Vanity Pulldown Attic Stairs Rear Stairs Separate Shower 
+952 Double Vanity High Ceilings Master On Main Level Pulldown Attic Stairs Soaking Tub Split Bedroom Plan Vaulted Ceiling(s) Walk-In Closet(s) 
+953 Vaulted Ceiling(s) Double Vanity Two Story Foyer 
+954 Other, Walk-In Closet(s), Master On Main Level 
+955 High Ceilings Double Vanity Beamed Ceilings Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+956 Vaulted Ceiling(s) Double Vanity Two Story Foyer Soaking Tub 
+957 High Ceilings, Double Vanity, Separate Shower 
+958 Tray Ceiling(s) High Ceilings Double Vanity Separate Shower 
+959 High Ceilings Tile Bath Walk-In Closet(s) Master On Main Level 
+960 Tray Ceiling(s) High Ceilings Soaking Tub Separate Shower Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+961 High Ceilings, Split Bedroom Plan 
+962 Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) Whirlpool Bath 
+963 Tray Ceiling(s) Vaulted Ceiling(s) In-Law Floorplan 
+964 Bookcases Double Vanity Pulldown Attic Stairs Roommate Plan Separate Shower Soaking Tub Tile Bath Tray Ceiling(s) Walk-In Closet(s) 
+965 Walk-In Closet(s) Wet Bar In-Law Floorplan Master On Main Level Roommate Plan 
+966 Two Story Foyer Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+967 High Ceilings, Double Vanity, Two Story Foyer, Soaking Tub, Separate Shower, Walk-In Closet(s), Whirlpool Bath, Split Bedroom Plan, Wine Cellar 
+968 Other Walk-In Closet(s) Roommate Plan 
+969 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+970 Double Vanity Roommate Plan Separate Shower Split Bedroom Plan Walk-In Closet(s) 
+971 Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+972 Bookcases Master On Main Level Roommate Plan 
+973 Vaulted Ceiling(s) Tile Bath Walk-In Closet(s) Whirlpool Bath 
+974 Vaulted Ceiling(s) Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level 
+975 Bookcases High Ceilings Walk-In Closet(s) Wet Bar 
+976 Tray Ceiling(s) Double Vanity Separate Shower Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+977 Bookcases, Other, Rear Stairs, Walk-In Closet(s), Master On Main Level, Roommate Plan 
+978 High Ceilings Double Vanity Separate Shower Walk-In Closet(s) Master On Main Level 
+979 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+980 Bookcases Double Vanity High Ceilings Master On Main Level Roommate Plan Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+981 Vaulted Ceiling(s) Double Vanity Master On Main Level Split Bedroom Plan 
+982 Bookcases, High Ceilings, Double Vanity, Tile Bath, Walk-In Closet(s) 
+983 Master On Main Level Roommate Plan Separate Shower Split Bedroom Plan 
+984 High Ceilings Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+985 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Two Story Foyer Separate Shower Tile Bath Walk-In Closet(s) 
+986 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) 
+987 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs 
+988 High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) 
+989 Double Vanity Pulldown Attic Stairs Split Bedroom Plan Walk-In Closet(s) 
+990 Bookcases, Tray Ceiling(s), High Ceilings, Double Vanity, Soaking Tub, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s) 
+991 Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) In-Law Floorplan 
+992 Walk-In Closet(s) Roommate Plan Split Bedroom Plan Split Foyer 
+993 Bookcases Walk-In Closet(s) In-Law Floorplan Split Bedroom Plan 
+994 Vaulted Ceiling(s) Double Vanity Two Story Foyer Soaking Tub Roommate Plan 
+995 Bookcases Tray Ceiling(s) Double Vanity Walk-In Closet(s) Master On Main Level Roommate Plan 
+996 Double Vanity Master On Main Level Roommate Plan Walk-In Closet(s) 
+997 Beamed Ceilings Bookcases Central Vacuum Double Vanity High Ceilings Master On Main Level Sauna Separate Shower Soaking Tub Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) Wet Bar 
+998 High Ceilings Pulldown Attic Stairs Double Vanity Rear Stairs Separate Shower Tile Bath Tray Ceiling(s) Walk-In Closet(s) 
+999 Bookcases In-Law Floorplan Master On Main Level Soaking Tub Tile Bath Tray Ceiling(s) Vaulted Ceiling(s) Walk-In Closet(s) 
+1000 Bookcases Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Soaking Tub Walk-In Closet(s) 
+1001 Tray Ceiling(s) Soaking Tub Walk-In Closet(s) 
+1002 Double Vanity Master On Main Level Pulldown Attic Stairs Walk-In Closet(s) 
+1003 High Ceilings Soaking Tub Separate Shower Walk-In Closet(s) Wet Bar 
+1004 Split Bedroom Plan 
+1005 Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) 
+1006 High Ceilings Pulldown Attic Stairs Double Vanity Soaking Tub Separate Shower Tile Bath Tray Ceiling(s) Walk-In Closet(s) 
+1007 Other Rear Stairs Roommate Plan 
+1008 Attic Expandable Double Vanity Roommate Plan Split Bedroom Plan Tile Bath Walk-In Closet(s) 
+1009 Bookcases Tray Ceiling(s) Double Vanity Two Story Foyer Other Walk-In Closet(s) In-Law Floorplan 
+1010 Tray Ceiling(s), Vaulted Ceiling(s), High Ceilings, Double Vanity, Two Story Foyer, Soaking Tub, Pulldown Attic Stairs, Tile Bath, Walk-In Closet(s), Whirlpool Bath, Master On Main Level 
+1011 Double Vanity Tray Ceiling(s) 
+1012 Attic Expandable Double Vanity 
+1013 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Wet Bar In-Law Floorplan Master On Main Level 
+1014 Roommate Plan Split Foyer 
+1015 Beamed Ceilings Master On Main Level Roommate Plan 
+1016 Double Vanity High Ceilings Roommate Plan Separate Shower Soaking Tub Tray Ceiling(s) Vaulted Ceiling(s) Walk-In Closet(s) 
+1017 Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1018 Attic Expandable Double Vanity Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1019 Beamed Ceilings Central Vacuum Double Vanity High Ceilings Master On Main Level Soaking Tub Two Story Foyer Walk-In Closet(s) Wet Bar Wine Cellar 
+1020 Attic Expandable Double Vanity High Ceilings Walk-In Closet(s) 
+1021 Bookcases, Tray Ceiling(s), Double Vanity, Two Story Foyer, Pulldown Attic Stairs, Walk-In Closet(s), In-Law Floorplan 
+1022 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Two Story Foyer Separate Shower Walk-In Closet(s) Master On Main Level Roommate Plan 
+1023 Bookcases High Ceilings Soaking Tub Tile Bath Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1024 High Ceilings Master On Main Level Walk-In Closet(s) 
+1025 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Other Walk-In Closet(s) 
+1026 Tray Ceiling(s) Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1027 High Ceilings Double Vanity Pulldown Attic Stairs Rear Stairs Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1028 Bookcases High Ceilings Double Vanity Separate Shower Walk-In Closet(s) In-Law Floorplan 
+1029 Tray Ceiling(s) Double Vanity Soaking Tub Walk-In Closet(s) 
+1030 Bookcases Two Story Foyer Pulldown Attic Stairs Separate Shower Walk-In Closet(s) In-Law Floorplan Roommate Plan Split Bedroom Plan 
+1031 Double Vanity Separate Shower In-Law Floorplan Master On Main Level 
+1032 Master On Main Level 
+1033 Two Story Foyer Soaking Tub Pulldown Attic Stairs Rear Stairs Separate Shower Walk-In Closet(s) 
+1034 Double Vanity Walk-In Closet(s) Master On Main Level Roommate Plan 
+1035 High Ceilings Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1036 High Ceilings Double Vanity Walk-In Closet(s) In-Law Floorplan 
+1037 Bookcases Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1038 Vaulted Ceiling(s) Walk-In Closet(s) Master On Main Level 
+1039 Master On Main Level Roommate Plan Soaking Tub Split Bedroom Plan Walk-In Closet(s) 
+1040 Attic Expandable High Ceilings Double Vanity Walk-In Closet(s) 
+1041 Double Vanity Separate Shower Tile Bath Walk-In Closet(s) In-Law Floorplan Split Bedroom Plan 
+1042 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1043 High Ceilings Split Foyer Two Story Foyer Walk-In Closet(s) 
+1044 Bookcases Double Vanity High Ceilings Separate Shower Tile Bath Walk-In Closet(s) 
+1045 Tray Ceiling(s) Soaking Tub Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+1046 Double Vanity High Ceilings Master On Main Level Pulldown Attic Stairs 
+1047 High Ceilings Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) 
+1048 Bookcases Central Vacuum Double Vanity High Ceilings Master On Main Level Separate Shower Soaking Tub Walk-In Closet(s) Whirlpool Bath 
+1049 Soaking Tub Other Walk-In Closet(s) Master On Main Level 
+1050 Tray Ceiling(s) High Ceilings Separate Shower Walk-In Closet(s) 
+1051 Bookcases High Ceilings Soaking Tub Split Bedroom Plan Vaulted Ceiling(s) 
+1052 Soaking Tub Master On Main Level 
+1053 Bookcases Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Split Bedroom Plan Two Story Foyer Walk-In Closet(s) 
+1054 Tile Bath, Walk-In Closet(s) 
+1055 High Ceilings, Tile Bath, Walk-In Closet(s), Master On Main Level 
+1056 Bookcases Other Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1057 Bookcases Double Vanity High Ceilings Master On Main Level Separate Shower Tile Bath Tray Ceiling(s) Vaulted Ceiling(s) Walk-In Closet(s) Wet Bar Wine Cellar 
+1058 Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1059 High Ceilings Double Vanity Soaking Tub 
+1060 Bookcases, Tray Ceiling(s), Tile Bath, Walk-In Closet(s) 
+1061 Bookcases Tray Ceiling(s) Walk-In Closet(s) Roommate Plan 
+1062 Attic Expandable Bookcases High Ceilings 
+1063 High Ceilings Double Vanity Two Story Foyer 
+1064 Bookcases In-Law Floorplan Master On Main Level Tray Ceiling(s) Walk-In Closet(s) 
+1065 High Ceilings Split Bedroom Plan Tile Bath Vaulted Ceiling(s) Walk-In Closet(s) 
+1066 Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Master On Main Level Split Bedroom Plan 
+1067 High Ceilings Pulldown Attic Stairs Tray Ceiling(s) 
+1068 Vaulted Ceiling(s) Pulldown Attic Stairs Separate Shower Tile Bath 
+1069 Bookcases Tray Ceiling(s) Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) 
+1070 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) 
+1071 Bookcases High Ceilings Master On Main Level 
+1072 High Ceilings Soaking Tub Pulldown Attic Stairs Walk-In Closet(s) Split Bedroom Plan 
+1073 High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+1074 Double Vanity Separate Shower Walk-In Closet(s) Whirlpool Bath Master On Main Level Split Bedroom Plan 
+1075 High Ceilings Roommate Plan Walk-In Closet(s) 
+1076 Roommate Plan Walk-In Closet(s) 
+1077 Bookcases Double Vanity Walk-In Closet(s) Split Bedroom Plan 
+1078 Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1079 High Ceilings Two Story Foyer Other Walk-In Closet(s) 
+1080 Bookcases Double Vanity Master On Main Level Roommate Plan Tray Ceiling(s) Walk-In Closet(s) 
+1081 Vaulted Ceiling(s) Double Vanity 
+1082 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) Wet Bar Master On Main Level Wine Cellar 
+1083 Sauna Separate Shower Walk-In Closet(s) Master On Main Level 
+1084 Central Vacuum Other Master On Main Level 
+1085 Soaking Tub Pulldown Attic Stairs Separate Shower 
+1086 Roommate Plan Walk-In Closet(s) Whirlpool Bath 
+1087 Master On Main Level Other Walk-In Closet(s) 
+1088 High Ceilings Double Vanity Separate Shower In-Law Floorplan 
+1089 High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1090 Double Vanity Master On Main Level Split Bedroom Plan 
+1091 Master On Main Level Split Bedroom Plan Tile Bath 
+1092 Double Vanity Roommate Plan Walk-In Closet(s) 
+1093 Walk-In Closet(s), Wine Cellar 
+1094 Bookcases Tile Bath Walk-In Closet(s) 
+1095 Double Vanity Tile Bath 
+1096 Tray Ceiling(s) Other Walk-In Closet(s) 
+1097 Tray Ceiling(s) Vaulted Ceiling(s) Soaking Tub Walk-In Closet(s) Roommate Plan 
+1098 Bookcases Roommate Plan Split Bedroom Plan Walk-In Closet(s) 
+1099 Double Vanity Master On Main Level Soaking Tub 
+1100 Bookcases Master On Main Level Roommate Plan Split Bedroom Plan 
+1101 Double Vanity Pulldown Attic Stairs Separate Shower Soaking Tub Tile Bath Tray Ceiling(s) Walk-In Closet(s) 
+1102 Double Vanity Separate Shower Soaking Tub Walk-In Closet(s) Whirlpool Bath 
+1103 Double Vanity Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1104 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Split Foyer 
+1105 High Ceilings, Double Vanity, Separate Shower, Walk-In Closet(s), Split Bedroom Plan 
+1106 Vaulted Ceiling(s) Double Vanity Soaking Tub Walk-In Closet(s) 
+1107 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+1108 Bookcases High Ceilings Double Vanity Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Master On Main Level 
+1109 Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+1110 High Ceilings Pulldown Attic Stairs Roommate Plan Walk-In Closet(s) 
+1111 Bookcases High Ceilings Double Vanity Walk-In Closet(s) 
+1112 Tile Bath Roommate Plan 
+1113 Tray Ceiling(s) Soaking Tub Separate Shower Walk-In Closet(s) 
+1114 Vaulted Ceiling(s) Double Vanity Other Separate Shower Walk-In Closet(s) Master On Main Level 
+1115 Tray Ceiling(s) Soaking Tub Separate Shower Split Bedroom Plan 
+1116 High Ceilings, Double Vanity, Pulldown Attic Stairs, Walk-In Closet(s) 
+1117 Tray Ceiling(s), High Ceilings, Double Vanity, Walk-In Closet(s), Master On Main Level 
+1118 Beamed Ceilings Walk-In Closet(s) Master On Main Level 
+1119 Double Vanity, Pulldown Attic Stairs, Walk-In Closet(s), Roommate Plan, Split Bedroom Plan 
+1120 Other Master On Main Level Split Bedroom Plan 
+1121 Double Vanity, Separate Shower 
+1122 High Ceilings Master On Main Level Roommate Plan Walk-In Closet(s) 
+1123 Double Vanity Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1124 Vaulted Ceiling(s) Pulldown Attic Stairs Master On Main Level 
+1125 Bookcases Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) 
+1126 High Ceilings Double Vanity Soaking Tub Walk-In Closet(s) Split Bedroom Plan 
+1127 Bookcases Master On Main Level Separate Shower Tray Ceiling(s) 
+1128 High Ceilings, Double Vanity, Pulldown Attic Stairs, Roommate Plan, Split Bedroom Plan 
+1129 Walk-In Closet(s) Master On Main Level Roommate Plan 
+1130 Tray Ceiling(s), High Ceilings, Double Vanity, Tile Bath, Walk-In Closet(s), Master On Main Level 
+1131 Bookcases, High Ceilings, Double Vanity, Separate Shower, Walk-In Closet(s), Master On Main Level, Split Bedroom Plan 
+1132 Tray Ceiling(s) Double Vanity Two Story Foyer Walk-In Closet(s) 
+1133 High Ceilings Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level 
+1134 Double Vanity Other Tray Ceiling(s) Walk-In Closet(s) 
+1135 Rear Stairs Split Bedroom Plan Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) 
+1136 Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level 
+1137 Tray Ceiling(s) Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1138 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+1139 Double Vanity Pulldown Attic Stairs Walk-In Closet(s) In-Law Floorplan Roommate Plan Split Bedroom Plan 
+1140 Bookcases Tile Bath Roommate Plan 
+1141 Vaulted Ceiling(s) High Ceilings Double Vanity Walk-In Closet(s) 
+1142 High Ceilings Double Vanity Walk-In Closet(s) Roommate Plan 
+1143 High Ceilings Double Vanity Tile Bath Walk-In Closet(s) 
+1144 Bookcases High Ceilings Pulldown Attic Stairs Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+1145 Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Other Pulldown Attic Stairs Separate Shower Master On Main Level 
+1146 Tray Ceiling(s) High Ceilings Double Vanity Walk-In Closet(s) 
+1147 Tray Ceiling(s) Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level 
+1148 Bookcases Vaulted Ceiling(s) High Ceilings Soaking Tub Separate Shower Walk-In Closet(s) 
+1149 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+1150 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Sauna Separate Shower Walk-In Closet(s) 
+1151 Attic Expandable Tray Ceiling(s) Vaulted Ceiling(s) Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1152 Beamed Ceilings Bookcases Double Vanity In-Law Floorplan Master On Main Level Sauna Separate Shower Tile Bath Two Story Foyer Walk-In Closet(s) Wet Bar Wine Cellar 
+1153 Bookcases Master On Main Level 
+1154 High Ceilings, Double Vanity, Soaking Tub 
+1155 Two Story Foyer Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+1156 Separate Shower Split Bedroom Plan Tile Bath Tray Ceiling(s) 
+1157 High Ceilings, Double Vanity, Two Story Foyer, Soaking Tub, Separate Shower, Walk-In Closet(s), Split Bedroom Plan 
+1158 Roommate Plan Separate Shower 
+1159 Master On Main Level Tile Bath Walk-In Closet(s) 
+1160 Pulldown Attic Stairs Tray Ceiling(s) Walk-In Closet(s) 
+1161 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Two Story Foyer Soaking Tub Tile Bath Walk-In Closet(s) 
+1162 Double Vanity Two Story Foyer Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan 
+1163 Soaking Tub Separate Shower Master On Main Level Roommate Plan 
+1164 High Ceilings Two Story Foyer Walk-In Closet(s) Split Bedroom Plan 
+1165 Vaulted Ceiling(s) Double Vanity Pulldown Attic Stairs Separate Shower Master On Main Level 
+1166 Tray Ceiling(s) High Ceilings Soaking Tub Tile Bath 
+1167 Master On Main Level Other Rear Stairs Roommate Plan 
+1168 Other, Master On Main Level 
+1169 High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Master On Main Level 
+1170 Double Vanity Pulldown Attic Stairs Master On Main Level 
+1171 Double Vanity High Ceilings Other Pulldown Attic Stairs Separate Shower Soaking Tub Split Foyer Tile Bath Tray Ceiling(s) Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) 
+1172 Attic Expandable Bookcases Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+1173 Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level Roommate Plan 
+1174 Double Vanity High Ceilings Pulldown Attic Stairs Split Bedroom Plan 
+1175 Tray Ceiling(s) Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1176 Beamed Ceilings High Ceilings Two Story Foyer Vaulted Ceiling(s) 
+1177 High Ceilings Rear Stairs 
+1178 Bookcases Pulldown Attic Stairs Separate Shower Two Story Foyer Walk-In Closet(s) 
+1179 Bookcases 
+1180 Attic Expandable Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+1181 Other Separate Shower Split Bedroom Plan 
+1182 High Ceilings Vaulted Ceiling(s) 
+1183 High Ceilings Soaking Tub Walk-In Closet(s) Whirlpool Bath 
+1184 Bookcases Double Vanity High Ceilings Pulldown Attic Stairs Rear Stairs Walk-In Closet(s) 
+1185 Double Vanity High Ceilings Separate Shower Soaking Tub Vaulted Ceiling(s) Walk-In Closet(s) 
+1186 Vaulted Ceiling(s) Double Vanity Walk-In Closet(s) 
+1187 Double Vanity High Ceilings Separate Shower Tray Ceiling(s) 
+1188 Soaking Tub In-Law Floorplan 
+1189 Bookcases High Ceilings Roommate Plan Tray Ceiling(s) Walk-In Closet(s) 
+1190 Tray Ceiling(s) High Ceilings Separate Shower Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1191 Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1192 Vaulted Ceiling(s) Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level 
+1193 Vaulted Ceiling(s) Beamed Ceilings Pulldown Attic Stairs Tile Bath Master On Main Level 
+1194 Other Pulldown Attic Stairs Master On Main Level 
+1195 Attic Expandable High Ceilings Two Story Foyer Pulldown Attic Stairs 
+1196 Tray Ceiling(s) Double Vanity Soaking Tub Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan 
+1197 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+1198 Double Vanity Walk-In Closet(s) Master On Main Level 
+1199 Bookcases High Ceilings Beamed Ceilings Two Story Foyer Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1200 High Ceilings Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Roommate Plan 
+1201 Bookcases Other Rear Stairs Tile Bath 
+1202 High Ceilings, Double Vanity, Soaking Tub, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s) 
+1203 High Ceilings Pulldown Attic Stairs 
+1204 Double Vanity Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1205 Tray Ceiling(s), High Ceilings, Double Vanity, Pulldown Attic Stairs, Walk-In Closet(s) 
+1206 Attic Expandable High Ceilings Other Master On Main Level Split Foyer 
+1207 Other, Master On Main Level, Roommate Plan 
+1208 Two Story Foyer Roommate Plan Split Bedroom Plan 
+1209 Tile Bath Split Bedroom Plan 
+1210 High Ceilings, Tile Bath 
+1211 Bookcases Two Story Foyer Soaking Tub Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+1212 Bookcases Vaulted Ceiling(s) Beamed Ceilings Master On Main Level 
+1213 Bookcases, High Ceilings, Double Vanity, Two Story Foyer 
+1214 High Ceilings Master On Main Level Other Vaulted Ceiling(s) 
+1215 High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Wet Bar Roommate Plan Split Bedroom Plan 
+1216 High Ceilings Pulldown Attic Stairs Split Bedroom Plan Two Story Foyer Walk-In Closet(s) 
+1217 High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level 
+1218 Double Vanity High Ceilings In-Law Floorplan Pulldown Attic Stairs Walk-In Closet(s) 
+1219 Double Vanity, Separate Shower, Walk-In Closet(s) 
+1220 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1221 Double Vanity High Ceilings Master On Main Level 
+1222 Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Vaulted Ceiling(s) Walk-In Closet(s) 
+1223 Double Vanity Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1224 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Rear Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+1225 High Ceilings Pulldown Attic Stairs Separate Shower Split Bedroom Plan Tile Bath Walk-In Closet(s) 
+1226 High Ceilings Master On Main Level Other 
+1227 Tray Ceiling(s) Rear Stairs Master On Main Level 
+1228 Double Vanity Separate Shower Soaking Tub Split Bedroom Plan Two Story Foyer Walk-In Closet(s) 
+1229 Walk-In Closet(s) Pulldown Attic Stairs Double Vanity 
+1230 Double Vanity Separate Shower Two Story Foyer 
+1231 Double Vanity Pulldown Attic Stairs 
+1232 Double Vanity High Ceilings Other Pulldown Attic Stairs Walk-In Closet(s) 
+1233 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level 
+1234 Bookcases Tray Ceiling(s) Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1235 Bookcases Walk-In Closet(s) 
+1236 Tray Ceiling(s), Separate Shower, Walk-In Closet(s) 
+1237 Double Vanity Separate Shower Master On Main Level Split Bedroom Plan 
+1238 Double Vanity, Tile Bath 
+1239 Double Vanity High Ceilings Pulldown Attic Stairs Vaulted Ceiling(s) Walk-In Closet(s) 
+1240 Double Vanity High Ceilings Pulldown Attic Stairs Two Story Foyer 
+1241 Separate Shower Split Bedroom Plan Walk-In Closet(s) 
+1242 Double Vanity, Other, Master On Main Level 
+1243 High Ceilings Roommate Plan Split Bedroom Plan Tile Bath 
+1244 Double Vanity Tile Bath Walk-In Closet(s) 
+1245 High Ceilings Double Vanity Roommate Plan 
+1246 Double Vanity Split Foyer Tile Bath Two Story Foyer Walk-In Closet(s) 
+1247 Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+1248 Bookcases High Ceilings Master On Main Level Separate Shower Soaking Tub Split Foyer Tile Bath Two Story Foyer Walk-In Closet(s) 
+1249 High Ceilings Double Vanity Separate Shower Walk-In Closet(s) In-Law Floorplan 
+1250 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Walk-In Closet(s) 
+1251 Double Vanity Separate Shower Walk-In Closet(s) Whirlpool Bath 
+1252 Bookcases, Master On Main Level, Split Bedroom Plan 
+1253 Double Vanity Soaking Tub Separate Shower Tile Bath 
+1254 Attic Expandable 
+1255 Bookcases Vaulted Ceiling(s) Walk-In Closet(s) 
+1256 Master On Main Level Roommate Plan Soaking Tub Walk-In Closet(s) 
+1257 High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+1258 Attic Expandable Two Story Foyer Soaking Tub Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+1259 Double Vanity High Ceilings Master On Main Level Roommate Plan Separate Shower Split Bedroom Plan Walk-In Closet(s) 
+1260 Tray Ceiling(s) Two Story Foyer Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1261 Bookcases Beamed Ceilings Soaking Tub Separate Shower Walk-In Closet(s) In-Law Floorplan Master On Main Level 
+1262 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) 
+1263 Tray Ceiling(s) High Ceilings Double Vanity Other Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Roommate Plan 
+1264 Bookcases, High Ceilings, Double Vanity, Soaking Tub, Tile Bath, Walk-In Closet(s), Roommate Plan 
+1265 Bookcases High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+1266 Bookcases Pulldown Attic Stairs Separate Shower Split Bedroom Plan 
+1267 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Soaking Tub Tile Bath Whirlpool Bath 
+1268 High Ceilings Double Vanity Other Pulldown Attic Stairs Tile Bath Roommate Plan 
+1269 Bookcases, Other 
+1270 Two Story Foyer, Master On Main Level 
+1271 Double Vanity Other Walk-In Closet(s) In-Law Floorplan 
+1272 High Ceilings, Double Vanity, Two Story Foyer, Walk-In Closet(s) 
+1273 Beamed Ceilings Master On Main Level 
+1274 Separate Shower Soaking Tub Split Bedroom Plan Walk-In Closet(s) 
+1275 Other Master On Main Level Roommate Plan Split Bedroom Plan 
+1276 Tray Ceiling(s), Soaking Tub, Separate Shower, Walk-In Closet(s) 
+1277 Attic Expandable Tray Ceiling(s) Double Vanity Pulldown Attic Stairs Separate Shower 
+1278 Bookcases Double Vanity Master On Main Level 
+1279 Double Vanity Separate Shower Tile Bath 
+1280 Tray Ceiling(s), High Ceilings, Double Vanity, Soaking Tub, Separate Shower, Walk-In Closet(s) 
+1281 High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan 
+1282 High Ceilings Double Vanity Other Walk-In Closet(s) Split Bedroom Plan 
+1283 Vaulted Ceiling(s) High Ceilings Beamed Ceilings Walk-In Closet(s) Master On Main Level 
+1284 High Ceilings Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level 
+1285 High Ceilings Double Vanity Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+1286 High Ceilings Double Vanity Soaking Tub Separate Shower Split Bedroom Plan Tray Ceiling(s) 
+1287 Double Vanity High Ceilings Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+1288 Bookcases Walk-In Closet(s) Master On Main Level Roommate Plan 
+1289 Vaulted Ceiling(s) High Ceilings Double Vanity Separate Shower Walk-In Closet(s) Master On Main Level 
+1290 Double Vanity Master On Main Level Roommate Plan Separate Shower Walk-In Closet(s) 
+1291 High Ceilings Master On Main Level Separate Shower Soaking Tub Tile Bath Vaulted Ceiling(s) 
+1292 Bookcases Tray Ceiling(s) Tile Bath Walk-In Closet(s) 
+1293 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) In-Law Floorplan Roommate Plan 
+1294 High Ceilings Double Vanity In-Law Floorplan 
+1295 Double Vanity Separate Shower Soaking Tub Tile Bath Walk-In Closet(s) 
+1296 Tray Ceiling(s) Two Story Foyer Separate Shower Walk-In Closet(s) 
+1297 Bookcases, Walk-In Closet(s) 
+1298 Double Vanity Walk-In Closet(s) Wet Bar Master On Main Level Roommate Plan 
+1299 Vaulted Ceiling(s) High Ceilings Soaking Tub Separate Shower Walk-In Closet(s) 
+1300 Tray Ceiling(s) Double Vanity Two Story Foyer Pulldown Attic Stairs Walk-In Closet(s) 
+1301 Double Vanity High Ceilings Pulldown Attic Stairs Roommate Plan Walk-In Closet(s) 
+1302 Bookcases Double Vanity High Ceilings Separate Shower Soaking Tub 
+1303 High Ceilings Master On Main Level Roommate Plan 
+1304 Master On Main Level Tray Ceiling(s) 
+1305 Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Split Foyer 
+1306 Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1307 Bookcases Double Vanity Master On Main Level Walk-In Closet(s) 
+1308 Double Vanity High Ceilings Master On Main Level Separate Shower Split Bedroom Plan Walk-In Closet(s) 
+1309 Bookcases Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Soaking Tub Tray Ceiling(s) Vaulted Ceiling(s) Walk-In Closet(s) 
+1310 Walk-In Closet(s), Master On Main Level 
+1311 Tray Ceiling(s) Double Vanity Pulldown Attic Stairs Rear Stairs Separate Shower Walk-In Closet(s) 
+1312 High Ceilings Master On Main Level Separate Shower Soaking Tub Tile Bath Walk-In Closet(s) 
+1313 Soaking Tub Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+1314 Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1315 Double Vanity High Ceilings Pulldown Attic Stairs Roommate Plan Split Bedroom Plan 
+1316 Double Vanity High Ceilings Roommate Plan Separate Shower Soaking Tub Split Bedroom Plan 
+1317 Tray Ceiling(s) Double Vanity Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+1318 Bookcases High Ceilings Soaking Tub Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1319 Bookcases Beamed Ceilings 
+1320 Vaulted Ceiling(s) Double Vanity Tile Bath Walk-In Closet(s) Master On Main Level 
+1321 Master On Main Level Tray Ceiling(s) Walk-In Closet(s) 
+1322 Bookcases Double Vanity Master On Main Level Separate Shower Soaking Tub 
+1323 Pulldown Attic Stairs, Tile Bath, Walk-In Closet(s) 
+1324 Vaulted Ceiling(s) Double Vanity Walk-In Closet(s) Roommate Plan 
+1325 High Ceilings, Double Vanity, Other, Walk-In Closet(s), Wet Bar 
+1326 Other, Roommate Plan 
+1327 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Two Story Foyer Soaking Tub Other Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1328 Bookcases Double Vanity Two Story Foyer Walk-In Closet(s) Wine Cellar 
+1329 Double Vanity High Ceilings Master On Main Level Separate Shower Walk-In Closet(s) Wet Bar 
+1330 Vaulted Ceiling(s) Double Vanity Beamed Ceilings Two Story Foyer Tile Bath Master On Main Level Split Foyer 
+1331 Pulldown Attic Stairs Master On Main Level 
+1332 Master On Main Level Pulldown Attic Stairs Separate Shower Split Bedroom Plan Walk-In Closet(s) 
+1333 Double Vanity Pulldown Attic Stairs Walk-In Closet(s) In-Law Floorplan Master On Main Level Split Bedroom Plan 
+1334 Bookcases High Ceilings Double Vanity Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1335 High Ceilings Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1336 Bookcases Double Vanity High Ceilings Master On Main Level Split Bedroom Plan Walk-In Closet(s) Wet Bar 
+1337 Tray Ceiling(s) Double Vanity Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Wet Bar Roommate Plan Split Bedroom Plan 
+1338 Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1339 Double Vanity High Ceilings Master On Main Level Split Bedroom Plan Tile Bath Walk-In Closet(s) 
+1340 Soaking Tub Split Bedroom Plan 
+1341 Tray Ceiling(s), High Ceilings, Double Vanity, Two Story Foyer, Pulldown Attic Stairs, Walk-In Closet(s), Roommate Plan, Split Bedroom Plan 
+1342 Double Vanity Two Story Foyer Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+1343 Double Vanity Master On Main Level Pulldown Attic Stairs Roommate Plan Split Bedroom Plan Walk-In Closet(s) 
+1344 Tray Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level 
+1345 Double Vanity High Ceilings In-Law Floorplan Master On Main Level 
+1346 Other Separate Shower Master On Main Level 
+1347 Tray Ceiling(s) Double Vanity Walk-In Closet(s) 
+1348 High Ceilings Double Vanity Pulldown Attic Stairs Rear Stairs Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1349 Tray Ceiling(s), High Ceilings, Double Vanity, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s) 
+1350 Master On Main Level Pulldown Attic Stairs Tile Bath 
+1351 High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level Roommate Plan 
+1352 High Ceilings Double Vanity Soaking Tub Walk-In Closet(s) Master On Main Level 
+1353 High Ceilings Soaking Tub Separate Shower Tile Bath Split Foyer 
+1354 Bookcases Two Story Foyer Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1355 Vaulted Ceiling(s) Double Vanity Separate Shower Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+1356 Separate Shower Split Bedroom Plan Split Foyer 
+1357 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) 
+1358 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Separate Shower Walk-In Closet(s) Roommate Plan 
+1359 Bookcases Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level 
+1360 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1361 Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Wet Bar Master On Main Level 
+1362 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath 
+1363 Tray Ceiling(s) High Ceilings 
+1364 Double Vanity High Ceilings Other Separate Shower Split Bedroom Plan Tray Ceiling(s) Vaulted Ceiling(s) Walk-In Closet(s) 
+1365 Bookcases Two Story Foyer Separate Shower Tile Bath Walk-In Closet(s) 
+1366 In-Law Floorplan Master On Main Level Split Bedroom Plan 
+1367 Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Whirlpool Bath 
+1368 High Ceilings Other Master On Main Level Roommate Plan 
+1369 High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1370 Tray Ceiling(s) High Ceilings Two Story Foyer Walk-In Closet(s) Split Bedroom Plan 
+1371 Bookcases Wet Bar Roommate Plan Split Bedroom Plan 
+1372 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Walk-In Closet(s) Master On Main Level 
+1373 High Ceilings Soaking Tub Separate Shower 
+1374 In-Law Floorplan 
+1375 Tray Ceiling(s) High Ceilings Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1376 Double Vanity Master On Main Level Separate Shower Walk-In Closet(s) 
+1377 High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) 
+1378 High Ceilings Master On Main Level Split Bedroom Plan Walk-In Closet(s) 
+1379 Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Soaking Tub Split Bedroom Plan Walk-In Closet(s) 
+1380 Soaking Tub Other 
+1381 In-Law Floorplan Soaking Tub Split Bedroom Plan Walk-In Closet(s) 
+1382 High Ceilings Double Vanity Two Story Foyer Walk-In Closet(s) Master On Main Level Split Foyer 
+1383 Bookcases Double Vanity Walk-In Closet(s) Wet Bar 
+1384 Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Tile Bath Split Bedroom Plan 
+1385 Bookcases Double Vanity Soaking Tub Separate Shower Master On Main Level 
+1386 Vaulted Ceiling(s) Double Vanity Two Story Foyer Soaking Tub Tile Bath Walk-In Closet(s) Whirlpool Bath 
+1387 Roommate Plan Split Bedroom Plan 
+1388 Double Vanity High Ceilings Split Bedroom Plan Walk-In Closet(s) 
+1389 Vaulted Ceiling(s) High Ceilings Other 
+1390 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1391 Double Vanity Separate Shower Master On Main Level Roommate Plan 
+1392 Tray Ceiling(s) Vaulted Ceiling(s) Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1393 Bookcases Tile Bath Walk-In Closet(s) Master On Main Level 
+1394 Double Vanity, Tile Bath, Walk-In Closet(s), Wet Bar 
+1395 High Ceilings Master On Main Level Roommate Plan Tile Bath 
+1396 Bookcases Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Split Bedroom Plan Walk-In Closet(s) 
+1397 Central Vacuum Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Rear Stairs Separate Shower Wet Bar Master On Main Level 
+1398 High Ceilings Master On Main Level Vaulted Ceiling(s) 
+1399 Double Vanity Vaulted Ceiling(s) Walk-In Closet(s) 
+1400 High Ceilings Double Vanity Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+1401 Tray Ceiling(s), Double Vanity, Separate Shower, Walk-In Closet(s), Split Bedroom Plan 
+1402 Bookcases Double Vanity Soaking Tub Separate Shower 
+1403 Bookcases Vaulted Ceiling(s) Beamed Ceilings Rear Stairs Master On Main Level 
+1404 Double Vanity High Ceilings Pulldown Attic Stairs Roommate Plan Separate Shower Soaking Tub Split Foyer Tile Bath Tray Ceiling(s) Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) 
+1405 High Ceilings Two Story Foyer Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level 
+1406 Tray Ceiling(s) Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1407 Rear Stairs Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+1408 Soaking Tub Other Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1409 Tray Ceiling(s) Double Vanity Walk-In Closet(s) Roommate Plan 
+1410 Attic Expandable Separate Shower Tile Bath Roommate Plan Split Bedroom Plan 
+1411 Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1412 Tray Ceiling(s) High Ceilings Double Vanity Other Walk-In Closet(s) 
+1413 Tray Ceiling(s) Vaulted Ceiling(s) Soaking Tub Walk-In Closet(s) Master On Main Level 
+1414 Vaulted Ceiling(s), Beamed Ceilings, Roommate Plan 
+1415 Rear Stairs Split Bedroom Plan 
+1416 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Master On Main Level 
+1417 Bookcases Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Whirlpool Bath Master On Main Level Split Bedroom Plan 
+1418 Double Vanity Other Split Bedroom Plan 
+1419 Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Soaking Tub Tray Ceiling(s) Vaulted Ceiling(s) Walk-In Closet(s) 
+1420 Rear Stairs Roommate Plan Tray Ceiling(s) Walk-In Closet(s) 
+1421 Separate Shower Walk-In Closet(s) In-Law Floorplan Roommate Plan 
+1422 Vaulted Ceiling(s) High Ceilings Master On Main Level 
+1423 Bookcases, Tray Ceiling(s), Double Vanity, Walk-In Closet(s), Split Bedroom Plan 
+1424 Master On Main Level Roommate Plan Walk-In Closet(s) 
+1425 High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1426 Pulldown Attic Stairs Separate Shower Soaking Tub Tray Ceiling(s) Vaulted Ceiling(s) Walk-In Closet(s) 
+1427 Master On Main Level Split Bedroom Plan Split Foyer Tray Ceiling(s) Vaulted Ceiling(s) 
+1428 In-Law Floorplan Master On Main Level Tray Ceiling(s) Walk-In Closet(s) Wet Bar 
+1429 Vaulted Ceiling(s) Double Vanity Beamed Ceilings Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+1430 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Two Story Foyer Soaking Tub Pulldown Attic Stairs Rear Stairs Separate Shower Tile Bath Walk-In Closet(s) Wet Bar 
+1431 Double Vanity Master On Main Level Pulldown Attic Stairs Separate Shower Soaking Tub Split Bedroom Plan Tile Bath Walk-In Closet(s) 
+1432 High Ceilings Tray Ceiling(s) Walk-In Closet(s) 
+1433 Master On Main Level Pulldown Attic Stairs Roommate Plan Split Bedroom Plan 
+1434 Bookcases Vaulted Ceiling(s) High Ceilings Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Wet Bar Whirlpool Bath 
+1435 Vaulted Ceiling(s), Double Vanity, Beamed Ceilings, Pulldown Attic Stairs, Separate Shower, Tile Bath, Walk-In Closet(s) 
+1436 Double Vanity Soaking Tub Other Pulldown Attic Stairs Roommate Plan 
+1437 Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+1438 Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Soaking Tub Tile Bath Tray Ceiling(s) Vaulted Ceiling(s) Walk-In Closet(s) 
+1439 Bookcases High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) In-Law Floorplan Master On Main Level Roommate Plan 
+1440 Tile Bath Master On Main Level Roommate Plan Split Bedroom Plan 
+1441 Double Vanity Other 
+1442 High Ceilings Two Story Foyer Walk-In Closet(s) Master On Main Level Roommate Plan 
+1443 Double Vanity Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+1444 Double Vanity In-Law Floorplan Master On Main Level Roommate Plan Walk-In Closet(s) 
+1445 Vaulted Ceiling(s) Other Walk-In Closet(s) 
+1446 Double Vanity Two Story Foyer Separate Shower Walk-In Closet(s) 
+1447 Bookcases, Master On Main Level, Roommate Plan 
+1448 Tray Ceiling(s) Separate Shower 
+1449 Attic Expandable Bookcases Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Whirlpool Bath Master On Main Level 
+1450 Double Vanity Beamed Ceilings Pulldown Attic Stairs Master On Main Level 
+1451 Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath 
+1452 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Other Walk-In Closet(s) 
+1453 High Ceilings Master On Main Level Roommate Plan Tray Ceiling(s) Walk-In Closet(s) 
+1454 High Ceilings Double Vanity Two Story Foyer Other Pulldown Attic Stairs Walk-In Closet(s) Split Bedroom Plan 
+1455 Separate Shower Tile Bath Master On Main Level Roommate Plan Split Bedroom Plan 
+1456 Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level 
+1457 Split Bedroom Plan Walk-In Closet(s) 
+1458 Vaulted Ceiling(s) Two Story Foyer Walk-In Closet(s) 
+1459 High Ceilings Beamed Ceilings Walk-In Closet(s) 
+1460 Bookcases Walk-In Closet(s) Wet Bar 
+1461 Tray Ceiling(s), High Ceilings, Double Vanity, Pulldown Attic Stairs, Walk-In Closet(s), Split Bedroom Plan 
+1462 Other Pulldown Attic Stairs Tile Bath 
+1463 High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Roommate Plan Split Bedroom Plan 
+1464 Bookcases High Ceilings Double Vanity 
+1465 Bookcases High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan 
+1466 Vaulted Ceiling(s) High Ceilings Walk-In Closet(s) 
+1467 High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan 
+1468 High Ceilings Other Master On Main Level 
+1469 In-Law Floorplan Master On Main Level Other Separate Shower Walk-In Closet(s) 
+1470 Beamed Ceilings Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Soaking Tub Split Bedroom Plan Two Story Foyer Walk-In Closet(s) 
+1471 High Ceilings Two Story Foyer Separate Shower 
+1472 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Two Story Foyer Separate Shower Tile Bath Split Foyer 
+1473 Bookcases High Ceilings Double Vanity Separate Shower Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1474 Tray Ceiling(s) High Ceilings Double Vanity Other Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Whirlpool Bath Roommate Plan Split Bedroom Plan 
+1475 Roommate Plan Split Bedroom Plan Walk-In Closet(s) 
+1476 Tray Ceiling(s) High Ceilings Other Walk-In Closet(s) 
+1477 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Other Walk-In Closet(s) 
+1478 Bookcases High Ceilings Double Vanity Separate Shower 
+1479 Pulldown Attic Stairs, Walk-In Closet(s), Wet Bar, Split Bedroom Plan 
+1480 Tray Ceiling(s) High Ceilings Two Story Foyer Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+1481 Double Vanity Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+1482 High Ceilings Pulldown Attic Stairs Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+1483 Tray Ceiling(s), High Ceilings, Double Vanity, Pulldown Attic Stairs, Walk-In Closet(s), Master On Main Level, Roommate Plan, Split Bedroom Plan 
+1484 Bookcases Vaulted Ceiling(s) High Ceilings Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1485 Double Vanity Other Tile Bath Walk-In Closet(s) 
+1486 Bookcases Double Vanity High Ceilings Pulldown Attic Stairs Walk-In Closet(s) 
+1487 Vaulted Ceiling(s) Double Vanity Tile Bath Walk-In Closet(s) In-Law Floorplan 
+1488 Bookcases Double Vanity Two Story Foyer Separate Shower Walk-In Closet(s) 
+1489 High Ceilings Double Vanity Separate Shower Walk-In Closet(s) Whirlpool Bath In-Law Floorplan Master On Main Level Split Bedroom Plan 
+1490 Vaulted Ceiling(s) High Ceilings Pulldown Attic Stairs 
+1491 Pulldown Attic Stairs Split Bedroom Plan 
+1492 Tray Ceiling(s) High Ceilings Double Vanity Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1493 Bookcases Double Vanity High Ceilings Pulldown Attic Stairs Sauna Separate Shower Tray Ceiling(s) Walk-In Closet(s) 
+1494 Bookcases Vaulted Ceiling(s) High Ceilings Pulldown Attic Stairs Separate Shower Wet Bar 
+1495 Bookcases Pulldown Attic Stairs Master On Main Level 
+1496 Bookcases Double Vanity Walk-In Closet(s) Master On Main Level 
+1497 Bookcases, High Ceilings, Master On Main Level 
+1498 High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1499 High Ceilings Tile Bath Walk-In Closet(s) 
+1500 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1501 Bookcases High Ceilings Double Vanity Pulldown Attic Stairs Rear Stairs Walk-In Closet(s) 
+1502 Tile Bath Walk-In Closet(s) Whirlpool Bath Master On Main Level 
+1503 Other, Tile Bath, Master On Main Level 
+1504 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) In-Law Floorplan Master On Main Level 
+1505 Double Vanity Roommate Plan Tray Ceiling(s) Walk-In Closet(s) 
+1506 Tray Ceiling(s), High Ceilings, Double Vanity 
+1507 Tray Ceiling(s) Walk-In Closet(s) 
+1508 Master On Main Level Pulldown Attic Stairs 
+1509 Bookcases Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1510 Bookcases High Ceilings Two Story Foyer Walk-In Closet(s) Whirlpool Bath Master On Main Level 
+1511 Soaking Tub Roommate Plan 
+1512 Double Vanity Other Pulldown Attic Stairs Master On Main Level 
+1513 Vaulted Ceiling(s) Separate Shower Walk-In Closet(s) 
+1514 High Ceilings Other Walk-In Closet(s) Master On Main Level 
+1515 Beamed Ceilings Double Vanity Master On Main Level Pulldown Attic Stairs 
+1516 High Ceilings Double Vanity Other 
+1517 Double Vanity, Walk-In Closet(s), Split Bedroom Plan 
+1518 High Ceilings Pulldown Attic Stairs Separate Shower Soaking Tub 
+1519 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Rear Stairs Separate Shower Walk-In Closet(s) Whirlpool Bath 
+1520 Soaking Tub Separate Shower Tile Bath 
+1521 Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Tile Bath Tray Ceiling(s) Walk-In Closet(s) 
+1522 Double Vanity Pulldown Attic Stairs Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+1523 Tray Ceiling(s) Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Master On Main Level Split Bedroom Plan 
+1524 Other Pulldown Attic Stairs Roommate Plan Walk-In Closet(s) 
+1525 High Ceilings Other Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1526 Soaking Tub, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s), Split Bedroom Plan 
+1527 Separate Shower Soaking Tub Split Bedroom Plan Walk-In Closet(s) Wine Cellar 
+1528 Vaulted Ceiling(s) Soaking Tub Separate Shower Walk-In Closet(s) 
+1529 High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Roommate Plan 
+1530 Bookcases Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+1531 Other, Tile Bath, Walk-In Closet(s) 
+1532 Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Roommate Plan 
+1533 Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Tray Ceiling(s) Walk-In Closet(s) 
+1534 Double Vanity High Ceilings Roommate Plan Two Story Foyer Walk-In Closet(s) 
+1535 Vaulted Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+1536 High Ceilings Double Vanity Beamed Ceilings Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+1537 Double Vanity In-Law Floorplan 
+1538 Pulldown Attic Stairs Separate Shower Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) 
+1539 Bookcases High Ceilings Master On Main Level Split Bedroom Plan Tile Bath Walk-In Closet(s) 
+1540 High Ceilings, Double Vanity, Walk-In Closet(s), Master On Main Level 
+1541 Tray Ceiling(s) Double Vanity Soaking Tub Master On Main Level Split Bedroom Plan 
+1542 Bookcases Vaulted Ceiling(s) High Ceilings Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level 
+1543 Tile Bath In-Law Floorplan Master On Main Level 
+1544 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1545 High Ceilings Double Vanity Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan 
+1546 Attic Expandable High Ceilings Pulldown Attic Stairs Master On Main Level 
+1547 Tray Ceiling(s) Double Vanity Two Story Foyer Separate Shower Walk-In Closet(s) 
+1548 Vaulted Ceiling(s) Other Tile Bath Walk-In Closet(s) Master On Main Level 
+1549 Double Vanity, Two Story Foyer, Pulldown Attic Stairs, Walk-In Closet(s), Master On Main Level, Roommate Plan, Split Bedroom Plan 
+1550 Rear Stairs Walk-In Closet(s) In-Law Floorplan 
+1551 Separate Shower Walk-In Closet(s) Master On Main Level 
+1552 Central Vacuum Double Vanity High Ceilings Separate Shower Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) 
+1553 Double Vanity High Ceilings Tile Bath Tray Ceiling(s) Vaulted Ceiling(s) Walk-In Closet(s) 
+1554 Double Vanity, Soaking Tub, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s) 
+1555 Master On Main Level Other 
+1556 Double Vanity High Ceilings Master On Main Level Walk-In Closet(s) 
+1557 Bookcases High Ceilings In-Law Floorplan Pulldown Attic Stairs Roommate Plan Soaking Tub 
+1558 Double Vanity Master On Main Level Rear Stairs Separate Shower Soaking Tub 
+1559 Pulldown Attic Stairs Separate Shower Master On Main Level Split Bedroom Plan 
+1560 Bookcases Double Vanity High Ceilings Master On Main Level Roommate Plan Separate Shower Soaking Tub Walk-In Closet(s) Wet Bar Wine Cellar 
+1561 High Ceilings Pulldown Attic Stairs Double Vanity Split Foyer Walk-In Closet(s) 
+1562 Tray Ceiling(s) Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1563 Double Vanity Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+1564 Vaulted Ceiling(s) High Ceilings Double Vanity Tile Bath Walk-In Closet(s) Master On Main Level 
+1565 Attic Expandable Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath In-Law Floorplan Master On Main Level Roommate Plan Split Bedroom Plan 
+1566 Bookcases, Vaulted Ceiling(s), Walk-In Closet(s) 
+1567 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1568 High Ceilings Beamed Ceilings Tile Bath 
+1569 Pulldown Attic Stairs Separate Shower Master On Main Level 
+1570 Bookcases Double Vanity High Ceilings Separate Shower Soaking Tub Tile Bath Walk-In Closet(s) 
+1571 High Ceilings Soaking Tub Separate Shower Roommate Plan Wine Cellar 
+1572 Other Vaulted Ceiling(s) Walk-In Closet(s) 
+1573 Double Vanity High Ceilings Master On Main Level Roommate Plan Walk-In Closet(s) 
+1574 High Ceilings Other Tile Bath Walk-In Closet(s) 
+1575 Tray Ceiling(s) Soaking Tub Separate Shower Roommate Plan 
+1576 High Ceilings Pulldown Attic Stairs Separate Shower Tray Ceiling(s) Vaulted Ceiling(s) 
+1577 High Ceilings, Two Story Foyer, Other, Rear Stairs, Walk-In Closet(s) 
+1578 Bookcases High Ceilings Master On Main Level Split Bedroom Plan Whirlpool Bath 
+1579 High Ceilings Roommate Plan Split Bedroom Plan 
+1580 Separate Shower Walk-In Closet(s) Roommate Plan 
+1581 Vaulted Ceiling(s), High Ceilings, Double Vanity, Two Story Foyer, Rear Stairs, Separate Shower, Tile Bath, Walk-In Closet(s), Wet Bar, Master On Main Level, Wine Cellar 
+1582 Tray Ceiling(s) High Ceilings Double Vanity Separate Shower Walk-In Closet(s) In-Law Floorplan Master On Main Level Roommate Plan Split Bedroom Plan 
+1583 Vaulted Ceiling(s) High Ceilings Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+1584 Soaking Tub Separate Shower Walk-In Closet(s) 
+1585 Bookcases Master On Main Level Pulldown Attic Stairs Roommate Plan Split Bedroom Plan Walk-In Closet(s) 
+1586 Double Vanity In-Law Floorplan Roommate Plan 
+1587 Tray Ceiling(s) Two Story Foyer Soaking Tub Pulldown Attic Stairs 
+1588 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer 
+1589 High Ceilings, Beamed Ceilings, Master On Main Level 
+1590 Roommate Plan Tile Bath Walk-In Closet(s) 
+1591 High Ceilings Split Bedroom Plan Tile Bath Tray Ceiling(s) Walk-In Closet(s) 
+1592 Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower 
+1593 Double Vanity Beamed Ceilings 
+1594 In-Law Floorplan Rear Stairs Roommate Plan Walk-In Closet(s) 
+1595 High Ceilings Double Vanity Other Walk-In Closet(s) Master On Main Level Roommate Plan 
+1596 Double Vanity Two Story Foyer Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) 
+1597 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1598 Tray Ceiling(s) Double Vanity Pulldown Attic Stairs Walk-In Closet(s) 
+1599 Bookcases Tray Ceiling(s) Two Story Foyer Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level Wine Cellar 
+1600 Bookcases Tray Ceiling(s) Double Vanity Walk-In Closet(s) In-Law Floorplan Roommate Plan Split Bedroom Plan 
+1601 Vaulted Ceiling(s) High Ceilings Other Walk-In Closet(s) Roommate Plan 
+1602 High Ceilings Soaking Tub Roommate Plan 
+1603 Vaulted Ceiling(s) Master On Main Level Roommate Plan 
+1604 Bookcases Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan 
+1605 Rear Stairs 
+1606 High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+1607 Bookcases Vaulted Ceiling(s) High Ceilings Beamed Ceilings Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level 
+1608 Pulldown Attic Stairs, Master On Main Level 
+1609 Attic Expandable Double Vanity Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+1610 Other Separate Shower 
+1611 Double Vanity High Ceilings Other Walk-In Closet(s) 
+1612 Double Vanity High Ceilings Master On Main Level Roommate Plan Separate Shower Soaking Tub Tray Ceiling(s) Walk-In Closet(s) 
+1613 Double Vanity Separate Shower Tile Bath Walk-In Closet(s) 
+1614 Pulldown Attic Stairs Separate Shower Soaking Tub Tray Ceiling(s) Walk-In Closet(s) 
+1615 Double Vanity High Ceilings Roommate Plan Separate Shower 
+1616 Rear Stairs, Walk-In Closet(s), In-Law Floorplan 
+1617 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath 
+1618 Vaulted Ceiling(s) Double Vanity Other Separate Shower Walk-In Closet(s) 
+1619 Double Vanity In-Law Floorplan Separate Shower Soaking Tub Tile Bath Walk-In Closet(s) 
+1620 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Other Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan Split Foyer 
+1621 Double Vanity, Pulldown Attic Stairs, Tile Bath, Walk-In Closet(s), Master On Main Level 
+1622 Rear Stairs Tile Bath 
+1623 Tray Ceiling(s) Walk-In Closet(s) Roommate Plan 
+1624 High Ceilings, Two Story Foyer, In-Law Floorplan, Master On Main Level 
+1625 Beamed Ceilings Master On Main Level Walk-In Closet(s) 
+1626 Pulldown Attic Stairs Roommate Plan Split Bedroom Plan 
+1627 Pulldown Attic Stairs Separate Shower Soaking Tub Tray Ceiling(s) 
+1628 Vaulted Ceiling(s) Tile Bath 
+1629 Bookcases High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1630 Double Vanity High Ceilings Other Roommate Plan Separate Shower Soaking Tub Split Bedroom Plan Tile Bath Walk-In Closet(s) 
+1631 Vaulted Ceiling(s), High Ceilings, Double Vanity, Two Story Foyer, Soaking Tub, Pulldown Attic Stairs, Walk-In Closet(s) 
+1632 Bookcases Split Bedroom Plan Walk-In Closet(s) 
+1633 Double Vanity High Ceilings Roommate Plan Separate Shower Soaking Tub Vaulted Ceiling(s) Walk-In Closet(s) 
+1634 Bookcases Double Vanity Master On Main Level Walk-In Closet(s) Wet Bar 
+1635 High Ceilings Master On Main Level Pulldown Attic Stairs Soaking Tub Tray Ceiling(s) Vaulted Ceiling(s) Walk-In Closet(s) 
+1636 Bookcases Pulldown Attic Stairs Separate Shower Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) Wet Bar 
+1637 High Ceilings Double Vanity Pulldown Attic Stairs Roommate Plan Split Bedroom Plan 
+1638 Bookcases, Double Vanity 
+1639 Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower 
+1640 High Ceilings Two Story Foyer Walk-In Closet(s) 
+1641 Bookcases Tile Bath Master On Main Level Roommate Plan 
+1642 Vaulted Ceiling(s) Walk-In Closet(s) 
+1643 Vaulted Ceiling(s) Double Vanity Separate Shower Master On Main Level 
+1644 Pulldown Attic Stairs Separate Shower Soaking Tub Two Story Foyer Walk-In Closet(s) 
+1645 Pulldown Attic Stairs Tile Bath Roommate Plan 
+1646 Walk-In Closet(s), Split Bedroom Plan 
+1647 Tray Ceiling(s) High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Master On Main Level Roommate Plan Split Bedroom Plan 
+1648 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Two Story Foyer Pulldown Attic Stairs Walk-In Closet(s) 
+1649 High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+1650 High Ceilings Double Vanity Other Walk-In Closet(s) In-Law Floorplan 
+1651 Double Vanity Tile Bath Roommate Plan 
+1652 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+1653 Vaulted Ceiling(s) High Ceilings Master On Main Level Split Bedroom Plan 
+1654 Bookcases Tray Ceiling(s) Rear Stairs Walk-In Closet(s) Master On Main Level 
+1655 Beamed Ceilings Bookcases Double Vanity High Ceilings Roommate Plan Separate Shower Soaking Tub Split Bedroom Plan 
+1656 Bookcases Double Vanity Tile Bath Walk-In Closet(s) 
+1657 Vaulted Ceiling(s) Double Vanity Two Story Foyer Walk-In Closet(s) 
+1658 Double Vanity Rear Stairs Separate Shower Walk-In Closet(s) 
+1659 Double Vanity High Ceilings Tray Ceiling(s) Two Story Foyer 
+1660 High Ceilings Master On Main Level Soaking Tub Vaulted Ceiling(s) Walk-In Closet(s) 
+1661 Bookcases High Ceilings Soaking Tub Pulldown Attic Stairs 
+1662 Bookcases Tray Ceiling(s) High Ceilings Walk-In Closet(s) Wet Bar Master On Main Level 
+1663 Other Split Bedroom Plan 
+1664 Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Soaking Tub Tile Bath Two Story Foyer Walk-In Closet(s) 
+1665 Double Vanity High Ceilings Pulldown Attic Stairs Roommate Plan Separate Shower Soaking Tub Walk-In Closet(s) 
+1666 High Ceilings Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan 
+1667 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan 
+1668 Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1669 Double Vanity Rear Stairs Separate Shower 
+1670 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Master On Main Level Roommate Plan Split Bedroom Plan Split Foyer 
+1671 Tray Ceiling(s) Two Story Foyer Master On Main Level 
+1672 Double Vanity High Ceilings Roommate Plan Separate Shower Walk-In Closet(s) 
+1673 Separate Shower 
+1674 Double Vanity Pulldown Attic Stairs Roommate Plan Split Bedroom Plan Tile Bath Tray Ceiling(s) Walk-In Closet(s) Wet Bar 
+1675 Bookcases Tray Ceiling(s) Double Vanity Two Story Foyer Pulldown Attic Stairs Walk-In Closet(s) In-Law Floorplan 
+1676 Central Vacuum Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Rear Stairs Separate Shower Tile Bath Walk-In Closet(s) Wet Bar Whirlpool Bath In-Law Floorplan Master On Main Level 
+1677 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Separate Shower Tile Bath Walk-In Closet(s) Wet Bar Whirlpool Bath In-Law Floorplan 
+1678 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Rear Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+1679 Attic Expandable Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+1680 High Ceilings Double Vanity Separate Shower Master On Main Level 
+1681 Double Vanity High Ceilings Separate Shower Soaking Tub 
+1682 Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Tile Bath Walk-In Closet(s) Whirlpool Bath In-Law Floorplan 
+1683 Other Roommate Plan Split Bedroom Plan 
+1684 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) 
+1685 Soaking Tub Roommate Plan Split Bedroom Plan 
+1686 Tray Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Roommate Plan 
+1687 Master On Main Level Soaking Tub 
+1688 High Ceilings Separate Shower Master On Main Level Roommate Plan 
+1689 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Soaking Tub Walk-In Closet(s) 
+1690 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Beamed Ceilings Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1691 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+1692 High Ceilings In-Law Floorplan Walk-In Closet(s) 
+1693 Tray Ceiling(s) High Ceilings Double Vanity Separate Shower Walk-In Closet(s) Master On Main Level Roommate Plan 
+1694 Walk-In Closet(s) High Ceilings Other 
+1695 Pulldown Attic Stairs Master On Main Level Roommate Plan Split Bedroom Plan 
+1696 Tile Bath Split Foyer 
+1697 Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan 
+1698 Beamed Ceilings Soaking Tub Master On Main Level Roommate Plan 
+1699 High Ceilings Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level Roommate Plan 
+1700 Walk-In Closet(s) Vaulted Ceiling(s) 
+1701 Tray Ceiling(s) Double Vanity Two Story Foyer Tile Bath Walk-In Closet(s) Master On Main Level 
+1702 High Ceilings Master On Main Level Tile Bath Walk-In Closet(s) 
+1703 Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Split Bedroom Plan Tile Bath Walk-In Closet(s) 
+1704 Double Vanity Two Story Foyer Other Pulldown Attic Stairs Walk-In Closet(s) 
+1705 High Ceilings Double Vanity Walk-In Closet(s) Master On Main Level 
+1706 Double Vanity High Ceilings Separate Shower Tray Ceiling(s) Walk-In Closet(s) Whirlpool Bath 
+1707 High Ceilings Roommate Plan Separate Shower Walk-In Closet(s) 
+1708 Tray Ceiling(s) Vaulted Ceiling(s) Soaking Tub Walk-In Closet(s) Master On Main Level Roommate Plan 
+1709 Tray Ceiling(s) Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Split Bedroom Plan 
+1710 Bookcases Rear Stairs Tile Bath Wet Bar 
+1711 High Ceilings Double Vanity Master On Main Level 
+1712 Vaulted Ceiling(s) Split Foyer 
+1713 Tray Ceiling(s) Double Vanity Two Story Foyer Soaking Tub Walk-In Closet(s) 
+1714 Vaulted Ceiling(s) 
+1715 High Ceilings Two Story Foyer Pulldown Attic Stairs Walk-In Closet(s) 
+1716 Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Master On Main Level 
+1717 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Split Foyer 
+1718 Bookcases High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) 
+1719 Double Vanity High Ceilings Pulldown Attic Stairs Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+1720 Vaulted Ceiling(s) Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1721 Bookcases Central Vacuum Double Vanity High Ceilings Master On Main Level Pulldown Attic Stairs Tray Ceiling(s) Walk-In Closet(s) 
+1722 Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+1723 Bookcases High Ceilings Double Vanity Tile Bath Walk-In Closet(s) 
+1724 Double Vanity, Other, Walk-In Closet(s) 
+1725 Pulldown Attic Stairs Rear Stairs Tile Bath 
+1726 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Separate Shower Walk-In Closet(s) In-Law Floorplan Split Bedroom Plan 
+1727 Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs 
+1728 Bookcases High Ceilings Double Vanity Walk-In Closet(s) Master On Main Level 
+1729 Double Vanity Walk-In Closet(s) Wet Bar 
+1730 Double Vanity High Ceilings Two Story Foyer 
+1731 Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Rear Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+1732 Bookcases High Ceilings Master On Main Level Roommate Plan 
+1733 Rear Stairs Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) 
+1734 High Ceilings Master On Main Level Pulldown Attic Stairs Split Bedroom Plan Walk-In Closet(s) 
+1735 Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Whirlpool Bath Split Bedroom Plan 
+1736 High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Split Foyer 
+1737 High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level Roommate Plan 
+1738 Two Story Foyer Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1739 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+1740 Vaulted Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level 
+1741 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Separate Shower Tile Bath Walk-In Closet(s) 
+1742 High Ceilings, Separate Shower, Roommate Plan 
+1743 Bookcases, Pulldown Attic Stairs, Master On Main Level, Split Bedroom Plan 
+1744 Pulldown Attic Stairs Master On Main Level Split Foyer 
+1745 Double Vanity Soaking Tub Separate Shower 
+1746 Double Vanity High Ceilings Master On Main Level Separate Shower Soaking Tub Split Bedroom Plan Tile Bath Walk-In Closet(s) 
+1747 Vaulted Ceiling(s) Other Tile Bath Walk-In Closet(s) 
+1748 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) Wet Bar 
+1749 Vaulted Ceiling(s) Double Vanity Pulldown Attic Stairs Walk-In Closet(s) 
+1750 Vaulted Ceiling(s) Double Vanity Separate Shower Walk-In Closet(s) 
+1751 Vaulted Ceiling(s) High Ceilings Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level 
+1752 Double Vanity High Ceilings In-Law Floorplan Roommate Plan Separate Shower Soaking Tub Split Bedroom Plan Tray Ceiling(s) Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) 
+1753 Double Vanity, Walk-In Closet(s) 
+1754 Master On Main Level Pulldown Attic Stairs Separate Shower Tray Ceiling(s) Walk-In Closet(s) 
+1755 High Ceilings Double Vanity Pulldown Attic Stairs Split Bedroom Plan 
+1756 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level 
+1757 Bookcases Double Vanity High Ceilings Master On Main Level Pulldown Attic Stairs Tray Ceiling(s) Walk-In Closet(s) 
+1758 Bookcases Double Vanity Master On Main Level Roommate Plan Tile Bath 
+1759 Double Vanity Soaking Tub Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1760 Pulldown Attic Stairs Walk-In Closet(s) In-Law Floorplan Roommate Plan Split Bedroom Plan 
+1761 Double Vanity High Ceilings Pulldown Attic Stairs Roommate Plan Separate Shower Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) Whirlpool Bath 
+1762 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Two Story Foyer Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Split Bedroom Plan Split Foyer 
+1763 Vaulted Ceiling(s) Double Vanity Walk-In Closet(s) In-Law Floorplan Master On Main Level Split Bedroom Plan 
+1764 High Ceilings, Walk-In Closet(s) 
+1765 Pulldown Attic Stairs, Tile Bath, Master On Main Level 
+1766 Two Story Foyer 
+1767 Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1768 Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Wet Bar 
+1769 Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Soaking Tub Tile Bath Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) 
+1770 Tray Ceiling(s) High Ceilings Two Story Foyer Other Walk-In Closet(s) 
+1771 High Ceilings Double Vanity Beamed Ceilings Walk-In Closet(s) Split Bedroom Plan 
+1772 High Ceilings Other Pulldown Attic Stairs 
+1773 Bookcases Tray Ceiling(s) High Ceilings Pulldown Attic Stairs Walk-In Closet(s) Split Bedroom Plan 
+1774 Vaulted Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1775 Double Vanity Walk-In Closet(s) Split Bedroom Plan 
+1776 Rear Stairs Walk-In Closet(s) Master On Main Level 
+1777 Soaking Tub Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level 
+1778 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Walk-In Closet(s) 
+1779 Two Story Foyer Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1780 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Tile Bath Walk-In Closet(s) Roommate Plan 
+1781 Bookcases Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Master On Main Level 
+1782 Tray Ceiling(s) High Ceilings Double Vanity Walk-In Closet(s) In-Law Floorplan 
+1783 Double Vanity, Rear Stairs, Tile Bath, In-Law Floorplan, Master On Main Level 
+1784 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1785 High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Walk-In Closet(s) 
+1786 Double Vanity, Pulldown Attic Stairs, Walk-In Closet(s), Roommate Plan 
+1787 Vaulted Ceiling(s) Master On Main Level Split Bedroom Plan 
+1788 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1789 Double Vanity High Ceilings Master On Main Level Other Tile Bath Walk-In Closet(s) 
+1790 Double Vanity Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) Whirlpool Bath 
+1791 High Ceilings Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1792 Other Walk-In Closet(s) Wet Bar Master On Main Level 
+1793 Bookcases High Ceilings Pulldown Attic Stairs Master On Main Level Roommate Plan 
+1794 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath In-Law Floorplan 
+1795 High Ceilings Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan 
+1796 High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+1797 High Ceilings Walk-In Closet(s) In-Law Floorplan Roommate Plan Split Bedroom Plan 
+1798 High Ceilings Pulldown Attic Stairs Roommate Plan Tray Ceiling(s) Walk-In Closet(s) 
+1799 Vaulted Ceiling(s) Tile Bath Walk-In Closet(s) Master On Main Level 
+1800 High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1801 Vaulted Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Master On Main Level Split Bedroom Plan 
+1802 Bookcases High Ceilings Double Vanity Soaking Tub Walk-In Closet(s) Whirlpool Bath Master On Main Level 
+1803 Bookcases, High Ceilings, Double Vanity, Soaking Tub, Separate Shower 
+1804 High Ceilings, Double Vanity, Roommate Plan 
+1805 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1806 Walk-In Closet(s) Roommate Plan 
+1807 Beamed Ceilings Roommate Plan Walk-In Closet(s) 
+1808 Double Vanity, Tile Bath, Walk-In Closet(s), Master On Main Level 
+1809 Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+1810 Tray Ceiling(s) Vaulted Ceiling(s) Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level Roommate Plan Split Foyer 
+1811 Bookcases Double Vanity Master On Main Level Pulldown Attic Stairs Roommate Plan Separate Shower Soaking Tub Walk-In Closet(s) 
+1812 Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1813 High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1814 Tray Ceiling(s), Soaking Tub, Pulldown Attic Stairs, Tile Bath, Walk-In Closet(s) 
+1815 Vaulted Ceiling(s) High Ceilings Double Vanity Tile Bath Walk-In Closet(s) 
+1816 Other Pulldown Attic Stairs 
+1817 Bookcases Double Vanity Separate Shower Walk-In Closet(s) 
+1818 Master On Main Level Separate Shower Walk-In Closet(s) 
+1819 Tray Ceiling(s) High Ceilings Tile Bath Roommate Plan 
+1820 Double Vanity High Ceilings Master On Main Level Separate Shower 
+1821 High Ceilings Double Vanity Tile Bath 
+1822 High Ceilings Separate Shower Walk-In Closet(s) 
+1823 Walk-In Closet(s), Roommate Plan 
+1824 Pulldown Attic Stairs Roommate Plan Split Bedroom Plan Walk-In Closet(s) 
+1825 Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level 
+1826 Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Walk-In Closet(s) 
+1827 Tray Ceiling(s) Double Vanity Two Story Foyer Pulldown Attic Stairs Walk-In Closet(s) In-Law Floorplan 
+1828 Master On Main Level Other Pulldown Attic Stairs 
+1829 Double Vanity Other Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+1830 High Ceilings Pulldown Attic Stairs In-Law Floorplan Master On Main Level 
+1831 Separate Shower Soaking Tub Tray Ceiling(s) Walk-In Closet(s) 
+1832 Pulldown Attic Stairs Tile Bath In-Law Floorplan Master On Main Level Roommate Plan 
+1833 Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan 
+1834 Attic Expandable Walk-In Closet(s) 
+1835 Double Vanity High Ceilings Master On Main Level Pulldown Attic Stairs Roommate Plan Tray Ceiling(s) Walk-In Closet(s) 
+1836 High Ceilings, Double Vanity, Other, Walk-In Closet(s) 
+1837 High Ceilings Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+1838 High Ceilings Double Vanity Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1839 High Ceilings Master On Main Level Other Roommate Plan Walk-In Closet(s) 
+1840 High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Master On Main Level 
+1841 Double Vanity Pulldown Attic Stairs Rear Stairs Walk-In Closet(s) 
+1842 High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs 
+1843 Vaulted Ceiling(s) Other Separate Shower Walk-In Closet(s) Wet Bar 
+1844 Tray Ceiling(s) Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1845 Vaulted Ceiling(s) Double Vanity Separate Shower Walk-In Closet(s) Master On Main Level 
+1846 In-Law Floorplan Master On Main Level Other Roommate Plan Walk-In Closet(s) 
+1847 Separate Shower Soaking Tub Tile Bath Walk-In Closet(s) 
+1848 Walk-In Closet(s) Wine Cellar 
+1849 High Ceilings Double Vanity Two Story Foyer Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1850 Master On Main Level Walk-In Closet(s) Wet Bar 
+1851 Wet Bar Roommate Plan 
+1852 Double Vanity Two Story Foyer Separate Shower 
+1853 Vaulted Ceiling(s) High Ceilings Soaking Tub Tile Bath Walk-In Closet(s) Master On Main Level Split Foyer 
+1854 Vaulted Ceiling(s) Beamed Ceilings Master On Main Level 
+1855 Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+1856 Double Vanity High Ceilings In-Law Floorplan Pulldown Attic Stairs Separate Shower Soaking Tub Split Foyer Tile Bath Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) 
+1857 Vaulted Ceiling(s) Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+1858 Central Vacuum, Tray Ceiling(s), Double Vanity, Two Story Foyer, Walk-In Closet(s), In-Law Floorplan 
+1859 Double Vanity Split Bedroom Plan Walk-In Closet(s) 
+1860 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) Walk-In Closet(s) Master On Main Level 
+1861 Double Vanity Master On Main Level Rear Stairs Separate Shower Soaking Tub Tray Ceiling(s) Walk-In Closet(s) 
+1862 High Ceilings Rear Stairs Roommate Plan Split Bedroom Plan 
+1863 Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+1864 Double Vanity, Walk-In Closet(s), Roommate Plan, Split Bedroom Plan 
+1865 Double Vanity Other Walk-In Closet(s) 
+1866 High Ceilings Walk-In Closet(s) Wine Cellar 
+1867 Other Roommate Plan Tile Bath 
+1868 High Ceilings, Soaking Tub, Pulldown Attic Stairs, Walk-In Closet(s) 
+1869 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Roommate Plan Split Bedroom Plan 
+1870 Master On Main Level Roommate Plan Separate Shower 
+1871 Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level 
+1872 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+1873 High Ceilings Pulldown Attic Stairs Walk-In Closet(s) 
+1874 Tray Ceiling(s) Double Vanity Beamed Ceilings Pulldown Attic Stairs Rear Stairs Walk-In Closet(s) Split Bedroom Plan 
+1875 Double Vanity Two Story Foyer Other Separate Shower Walk-In Closet(s) 
+1876 Tray Ceiling(s) Double Vanity 
+1877 Two Story Foyer Walk-In Closet(s) 
+1878 Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s) 
+1879 Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1880 Tray Ceiling(s) Separate Shower Walk-In Closet(s) 
+1881 High Ceilings Double Vanity Master On Main Level Other 
+1882 Bookcases Double Vanity Two Story Foyer Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Split Foyer 
+1883 Other Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan 
+1884 Tray Ceiling(s) High Ceilings Walk-In Closet(s) 
+1885 Master On Main Level Separate Shower Soaking Tub Tray Ceiling(s) Vaulted Ceiling(s) Walk-In Closet(s) 
+1886 Soaking Tub Tile Bath Master On Main Level 
+1887 Double Vanity Pulldown Attic Stairs Separate Shower Soaking Tub 
+1888 Double Vanity Pulldown Attic Stairs Separate Shower Soaking Tub Two Story Foyer 
+1889 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Whirlpool Bath Roommate Plan 
+1890 Tray Ceiling(s) Vaulted Ceiling(s) Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1891 Double Vanity High Ceilings Pulldown Attic Stairs Tray Ceiling(s) Walk-In Closet(s) 
+1892 Attic Expandable Tray Ceiling(s) High Ceilings Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+1893 High Ceilings Double Vanity Two Story Foyer In-Law Floorplan 
+1894 Tray Ceiling(s) High Ceilings Master On Main Level 
+1895 Tray Ceiling(s) Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) 
+1896 Tray Ceiling(s), Double Vanity, Two Story Foyer, Walk-In Closet(s), Split Bedroom Plan 
+1897 Walk-In Closet(s), Wet Bar 
+1898 Double Vanity Master On Main Level 
+1899 Soaking Tub, Separate Shower, Walk-In Closet(s), Master On Main Level 
+1900 Tray Ceiling(s) Double Vanity Separate Shower Tile Bath Master On Main Level 
+1901 Bookcases High Ceilings Double Vanity Two Story Foyer 
+1902 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Tile Bath Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+1903 High Ceilings Roommate Plan Split Bedroom Plan Walk-In Closet(s) 
+1904 Walk-In Closet(s) In-Law Floorplan Roommate Plan 
+1905 Bookcases Double Vanity High Ceilings Master On Main Level Rear Stairs 
+1906 Vaulted Ceiling(s) Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level 
+1907 Double Vanity Master On Main Level Tray Ceiling(s) Walk-In Closet(s) 
+1908 Double Vanity Tile Bath Walk-In Closet(s) Master On Main Level 
+1909 High Ceilings, Double Vanity, Soaking Tub, Pulldown Attic Stairs, Tile Bath, Walk-In Closet(s) 
+1910 Bookcases Separate Shower Walk-In Closet(s) Master On Main Level 
+1911 Tile Bath, Walk-In Closet(s), Roommate Plan 
+1912 Vaulted Ceiling(s) Double Vanity Beamed Ceilings 
+1913 Double Vanity High Ceilings Roommate Plan Tile Bath Walk-In Closet(s) 
+1914 Tray Ceiling(s) High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan 
+1915 Soaking Tub 
+1916 Double Vanity High Ceilings Master On Main Level Pulldown Attic Stairs Tray Ceiling(s) Walk-In Closet(s) 
+1917 Vaulted Ceiling(s), Double Vanity 
+1918 Double Vanity Roommate Plan Separate Shower 
+1919 Bookcases Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Master On Main Level Split Bedroom Plan 
+1920 Double Vanity High Ceilings In-Law Floorplan Other Pulldown Attic Stairs Separate Shower Soaking Tub Split Bedroom Plan Tile Bath Tray Ceiling(s) Walk-In Closet(s) 
+1921 Vaulted Ceiling(s) High Ceilings Pulldown Attic Stairs Separate Shower Tile Bath Master On Main Level 
+1922 Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level 
+1923 Double Vanity Separate Shower 
+1924 Bookcases High Ceilings Walk-In Closet(s) 
+1925 Tile Bath, Roommate Plan 
+1926 Master On Main Level Separate Shower 
+1927 Double Vanity Two Story Foyer Separate Shower Walk-In Closet(s) Split Foyer 
+1928 Tray Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+1929 Double Vanity Pulldown Attic Stairs Separate Shower 
+1930 Double Vanity Separate Shower Split Foyer Two Story Foyer Walk-In Closet(s) 
+1931 Two Story Foyer Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Wet Bar 
+1932 High Ceilings Pulldown Attic Stairs Master On Main Level 
+1933 Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+1934 Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1935 Vaulted Ceiling(s), Double Vanity, Tile Bath, Walk-In Closet(s), Master On Main Level 
+1936 High Ceilings Separate Shower Soaking Tub Walk-In Closet(s) 
+1937 Tray Ceiling(s) Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level 
+1938 Vaulted Ceiling(s) High Ceilings Double Vanity Separate Shower Walk-In Closet(s) 
+1939 Bookcases In-Law Floorplan Other Pulldown Attic Stairs Roommate Plan Split Bedroom Plan 
+1940 High Ceilings Double Vanity Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1941 Tray Ceiling(s) Whirlpool Bath 
+1942 Tray Ceiling(s), High Ceilings, Double Vanity, Two Story Foyer, Soaking Tub, Separate Shower, Walk-In Closet(s) 
+1943 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath 
+1944 High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) 
+1945 Double Vanity Split Bedroom Plan 
+1946 Vaulted Ceiling(s) Two Story Foyer Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1947 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Other Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath 
+1948 High Ceilings, Double Vanity, Soaking Tub, Pulldown Attic Stairs, Separate Shower, Tile Bath, Walk-In Closet(s), Roommate Plan 
+1949 Master On Main Level Split Bedroom Plan 
+1950 Vaulted Ceiling(s) Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+1951 Bookcases Vaulted Ceiling(s) High Ceilings Tile Bath 
+1952 Bookcases Separate Shower Walk-In Closet(s) 
+1953 Vaulted Ceiling(s) Walk-In Closet(s) Wet Bar Master On Main Level 
+1954 Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+1955 Vaulted Ceiling(s) Tile Bath Split Foyer 
+1956 Two Story Foyer Walk-In Closet(s) Master On Main Level 
+1957 Bookcases High Ceilings Double Vanity Soaking Tub Tile Bath Walk-In Closet(s) Roommate Plan 
+1958 Master On Main Level Other Soaking Tub Walk-In Closet(s) 
+1959 Vaulted Ceiling(s) Other Walk-In Closet(s) Master On Main Level 
+1960 High Ceilings Master On Main Level Roommate Plan Separate Shower Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+1961 Bookcases Tray Ceiling(s) High Ceilings Two Story Foyer Walk-In Closet(s) 
+1962 Tray Ceiling(s), Vaulted Ceiling(s), Double Vanity, Soaking Tub, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s), Master On Main Level 
+1963 Vaulted Ceiling(s) Double Vanity Soaking Tub Other Separate Shower Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+1964 Bookcases, Double Vanity, Wet Bar 
+1965 Beamed Ceilings Double Vanity Master On Main Level Walk-In Closet(s) 
+1966 Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+1967 Tray Ceiling(s), Vaulted Ceiling(s), High Ceilings, Double Vanity, Beamed Ceilings, Soaking Tub, Pulldown Attic Stairs, Tile Bath, Walk-In Closet(s), Master On Main Level 
+1968 Double Vanity Two Story Foyer 
+1969 Master On Main Level Sauna Separate Shower Tile Bath 
+1970 Bookcases Soaking Tub Master On Main Level 
+1971 Pulldown Attic Stairs Master On Main Level Roommate Plan 
+1972 Bookcases, Tray Ceiling(s), Double Vanity, Soaking Tub, Separate Shower, Tile Bath, Walk-In Closet(s) 
+1973 Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+1974 Bookcases Master On Main Level Split Bedroom Plan Walk-In Closet(s) 
+1975 Vaulted Ceiling(s), Double Vanity, Soaking Tub, Separate Shower, Walk-In Closet(s) 
+1976 Soaking Tub Walk-In Closet(s) Master On Main Level Split Foyer 
+1977 High Ceilings Bookcases Soaking Tub In-Law Floorplan Separate Shower Walk-In Closet(s) 
+1978 Vaulted Ceiling(s) High Ceilings Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+1979 Vaulted Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower 
+1980 Bookcases Double Vanity High Ceilings Separate Shower Tile Bath Tray Ceiling(s) Walk-In Closet(s) Wet Bar 
+1981 High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Split Bedroom Plan 
+1982 Pulldown Attic Stairs Separate Shower Tile Bath Master On Main Level Roommate Plan Split Bedroom Plan 
+1983 Tray Ceiling(s) Double Vanity Separate Shower Walk-In Closet(s) In-Law Floorplan 
+1984 Bookcases, Walk-In Closet(s), Master On Main Level 
+1985 Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Wine Cellar 
+1986 Double Vanity 
+1987 Soaking Tub Pulldown Attic Stairs Separate Shower Roommate Plan 
+1988 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+1989 High Ceilings Roommate Plan Separate Shower Soaking Tub Wine Cellar 
+1990 High Ceilings Double Vanity Beamed Ceilings Two Story Foyer Rear Stairs Walk-In Closet(s) In-Law Floorplan 
+1991 Bookcases Tray Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+1992 Vaulted Ceiling(s) Soaking Tub Pulldown Attic Stairs Walk-In Closet(s) 
+1993 Other Tile Bath Walk-In Closet(s) 
+1994 Other Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+1995 Double Vanity High Ceilings Master On Main Level Pulldown Attic Stairs Separate Shower Tray Ceiling(s) Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) Whirlpool Bath 
+1996 Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath 
+1997 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+1998 Double Vanity Other Separate Shower 
+1999 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) Whirlpool Bath 
+2000 Tray Ceiling(s) High Ceilings Pulldown Attic Stairs Walk-In Closet(s) 
+2001 Other In-Law Floorplan Roommate Plan Split Bedroom Plan 
+2002 Bookcases Vaulted Ceiling(s) High Ceilings Double Vanity Other Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Whirlpool Bath In-Law Floorplan 
+2003 High Ceilings Double Vanity Two Story Foyer Soaking Tub Walk-In Closet(s) 
+2004 Bookcases High Ceilings 
+2005 Master On Main Level Roommate Plan Split Bedroom Plan Walk-In Closet(s) 
+2006 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+2007 Master On Main Level Roommate Plan Split Bedroom Plan Tile Bath Walk-In Closet(s) 
+2008 Double Vanity Roommate Plan 
+2009 High Ceilings Soaking Tub Separate Shower Walk-In Closet(s) 
+2010 Vaulted Ceiling(s) Double Vanity Walk-In Closet(s) Master On Main Level 
+2011 Pulldown Attic Stairs Walk-In Closet(s) Master On Main Level 
+2012 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Separate Shower 
+2013 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan 
+2014 Other Walk-In Closet(s) 
+2015 Master On Main Level Split Bedroom Plan Walk-In Closet(s) 
+2016 Bookcases, Double Vanity, Soaking Tub, Tile Bath, Walk-In Closet(s) 
+2017 Bookcases Master On Main Level Two Story Foyer Walk-In Closet(s) 
+2018 Soaking Tub Tile Bath Walk-In Closet(s) 
+2019 Bookcases Roommate Plan Walk-In Closet(s) 
+2020 Tray Ceiling(s) High Ceilings Soaking Tub Walk-In Closet(s) Roommate Plan Split Bedroom Plan 
+2021 Double Vanity Walk-In Closet(s) Whirlpool Bath Master On Main Level 
+2022 Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan 
+2023 High Ceilings Two Story Foyer Other Rear Stairs Walk-In Closet(s) 
+2024 Bookcases Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath 
+2025 Master On Main Level Roommate Plan 
+2026 Bookcases Master On Main Level Other Roommate Plan Walk-In Closet(s) Wine Cellar 
+2027 Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level Roommate Plan 
+2028 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) 
+2029 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Soaking Tub 
+2030 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+2031 Tile Bath, Walk-In Closet(s), Master On Main Level 
+2032 Bookcases Double Vanity High Ceilings Roommate Plan Soaking Tub Tile Bath Walk-In Closet(s) 
+2033 Vaulted Ceiling(s), Other, Walk-In Closet(s) 
+2034 Central Vacuum Double Vanity Soaking Tub Walk-In Closet(s) 
+2035 Two Story Foyer Separate Shower 
+2036 Vaulted Ceiling(s) High Ceilings Rear Stairs Separate Shower Master On Main Level 
+2037 High Ceilings, Soaking Tub, Separate Shower 
+2038 High Ceilings Soaking Tub Vaulted Ceiling(s) 
+2039 Walk-In Closet(s), In-Law Floorplan, Master On Main Level 
+2040 Master On Main Level Other Rear Stairs 
+2041 Tray Ceiling(s) Soaking Tub Pulldown Attic Stairs Walk-In Closet(s) 
+2042 Bookcases Beamed Ceilings Tile Bath In-Law Floorplan Split Bedroom Plan 
+2043 Beamed Ceilings Double Vanity High Ceilings Tray Ceiling(s) Walk-In Closet(s) 
+2044 Vaulted Ceiling(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+2045 Attic Expandable High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) 
+2046 Double Vanity Walk-In Closet(s) 
+2047 Tray Ceiling(s), Vaulted Ceiling(s), Master On Main Level 
+2048 Double Vanity High Ceilings Pulldown Attic Stairs 
+2049 Two Story Foyer Soaking Tub Pulldown Attic Stairs Roommate Plan 
+2050 Double Vanity Whirlpool Bath 
+2051 Bookcases, Tray Ceiling(s), High Ceilings, Double Vanity, Two Story Foyer, Soaking Tub, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s), Roommate Plan 
+2052 Double Vanity High Ceilings Roommate Plan Walk-In Closet(s) 
+2053 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Other Separate Shower Walk-In Closet(s) 
+2054 Tray Ceiling(s), Vaulted Ceiling(s), High Ceilings, Double Vanity, Two Story Foyer, Soaking Tub, Separate Shower, Walk-In Closet(s), Wet Bar 
+2055 Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level 
+2056 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Master On Main Level 
+2057 Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+2058 Vaulted Ceiling(s) Double Vanity Wet Bar 
+2059 Bookcases Vaulted Ceiling(s) Double Vanity Rear Stairs Separate Shower Walk-In Closet(s) Wet Bar Whirlpool Bath 
+2060 High Ceilings Pulldown Attic Stairs Roommate Plan Split Bedroom Plan Walk-In Closet(s) 
+2061 Double Vanity High Ceilings Other Tray Ceiling(s) Walk-In Closet(s) 
+2062 Bookcases Soaking Tub Separate Shower Roommate Plan 
+2063 Double Vanity Two Story Foyer Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) In-Law Floorplan 
+2064 Walk-In Closet(s) Split Foyer 
+2065 Bookcases Tray Ceiling(s) High Ceilings Walk-In Closet(s) Split Bedroom Plan 
+2066 High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Roommate Plan 
+2067 Bookcases Vaulted Ceiling(s) Double Vanity Separate Shower Walk-In Closet(s) Whirlpool Bath 
+2068 Tray Ceiling(s) Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+2069 Double Vanity Separate Shower Soaking Tub 
+2070 High Ceilings Double Vanity Beamed Ceilings Two Story Foyer Other Rear Stairs Separate Shower Walk-In Closet(s) Whirlpool Bath In-Law Floorplan Master On Main Level 
+2071 High Ceilings Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+2072 Bookcases, High Ceilings, Master On Main Level, Split Foyer 
+2073 Beamed Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) 
+2074 High Ceilings Master On Main Level Tray Ceiling(s) Walk-In Closet(s) Wet Bar 
+2075 Bookcases Double Vanity Pulldown Attic Stairs Tile Bath Walk-In Closet(s) 
+2076 Bookcases, High Ceilings, Walk-In Closet(s) 
+2077 Bookcases Master On Main Level Separate Shower Walk-In Closet(s) 
+2078 High Ceilings Pulldown Attic Stairs Split Bedroom Plan Walk-In Closet(s) 
+2079 Vaulted Ceiling(s) Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+2080 Double Vanity Pulldown Attic Stairs Soaking Tub Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) 
+2081 Attic Expandable Tray Ceiling(s) Pulldown Attic Stairs Tile Bath Roommate Plan 
+2082 Bookcases Vaulted Ceiling(s) High Ceilings Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Whirlpool Bath 
+2083 Double Vanity Separate Shower Split Bedroom Plan 
+2084 Master On Main Level Separate Shower Soaking Tub Walk-In Closet(s) 
+2085 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Rear Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+2086 Other Walk-In Closet(s) In-Law Floorplan 
+2087 Double Vanity Other Tile Bath Split Bedroom Plan 
+2088 Vaulted Ceiling(s), Walk-In Closet(s) 
+2089 Bookcases Tray Ceiling(s) Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level 
+2090 Vaulted Ceiling(s), Two Story Foyer, Soaking Tub, Pulldown Attic Stairs, Separate Shower, Tile Bath, Walk-In Closet(s) 
+2091 Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+2092 Tray Ceiling(s) Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Split Bedroom Plan 
+2093 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Other Walk-In Closet(s) 
+2094 Bookcases Double Vanity High Ceilings Master On Main Level Pulldown Attic Stairs Separate Shower Soaking Tub Tray Ceiling(s) Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) 
+2095 In-Law Floorplan Roommate Plan 
+2096 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath 
+2097 Tray Ceiling(s), High Ceilings, Double Vanity, Walk-In Closet(s), Split Bedroom Plan 
+2098 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Roommate Plan 
+2099 Two Story Foyer, Other, Walk-In Closet(s) 
+2100 Master On Main Level Walk-In Closet(s) 
+2101 Pulldown Attic Stairs Tile Bath 
+2102 Pulldown Attic Stairs Soaking Tub 
+2103 Bookcases, Beamed Ceilings, Tile Bath, In-Law Floorplan, Split Bedroom Plan 
+2104 Vaulted Ceiling(s), Master On Main Level 
+2105 High Ceilings Beamed Ceilings Soaking Tub Tile Bath Whirlpool Bath 
+2106 Bookcases Double Vanity Separate Shower Tile Bath 
+2107 Bookcases, Tray Ceiling(s), High Ceilings, Double Vanity, Soaking Tub, Walk-In Closet(s), Whirlpool Bath, Roommate Plan 
+2108 Other, Split Bedroom Plan 
+2109 High Ceilings Two Story Foyer Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan 
+2110 Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Separate Shower Walk-In Closet(s) Master On Main Level 
+2111 Master On Main Level Rear Stairs Roommate Plan 
+2112 Bookcases Rear Stairs Walk-In Closet(s) Split Bedroom Plan 
+2113 Tray Ceiling(s), Double Vanity, Tile Bath, Master On Main Level, Roommate Plan, Split Bedroom Plan 
+2114 High Ceilings Soaking Tub Separate Shower Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+2115 Bookcases Rear Stairs 
+2116 High Ceilings Rear Stairs Walk-In Closet(s) 
+2117 Double Vanity Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+2118 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) 
+2119 Double Vanity Separate Shower Walk-In Closet(s) In-Law Floorplan Master On Main Level 
+2120 High Ceilings Double Vanity Split Bedroom Plan 
+2121 Tray Ceiling(s) Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+2122 Double Vanity High Ceilings Roommate Plan Split Bedroom Plan Vaulted Ceiling(s) Walk-In Closet(s) 
+2123 Separate Shower Tray Ceiling(s) Walk-In Closet(s) 
+2124 Bookcases, High Ceilings, Rear Stairs, Walk-In Closet(s), In-Law Floorplan 
+2125 Bookcases Tray Ceiling(s) Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+2126 High Ceilings Master On Main Level 
+2127 Separate Shower Split Bedroom Plan 
+2128 Beamed Ceilings, Separate Shower, Roommate Plan, Split Bedroom Plan 
+2129 Double Vanity Master On Main Level Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+2130 Other, Roommate Plan, Split Bedroom Plan 
+2131 Bookcases, Double Vanity, Walk-In Closet(s) 
+2132 Bookcases Beamed Ceilings Separate Shower Walk-In Closet(s) Roommate Plan 
+2133 Other Tile Bath Walk-In Closet(s) Master On Main Level 
+2134 Attic Expandable Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+2135 Tray Ceiling(s) High Ceilings Double Vanity Separate Shower Walk-In Closet(s) 
+2136 Bookcases Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Soaking Tub Rear Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+2137 Tile Bath Walk-In Closet(s) Master On Main Level 
+2138 High Ceilings Soaking Tub Separate Shower Master On Main Level 
+2139 Vaulted Ceiling(s), Double Vanity, Pulldown Attic Stairs, Separate Shower, Master On Main Level 
+2140 Walk-In Closet(s) 
+2141 Double Vanity Two Story Foyer Soaking Tub Separate Shower 
+2142 Two Story Foyer Separate Shower Walk-In Closet(s) 
+2143 Bookcases High Ceilings Double Vanity Walk-In Closet(s) Split Bedroom Plan 
+2144 Tray Ceiling(s), High Ceilings, Double Vanity, Two Story Foyer, Pulldown Attic Stairs, Separate Shower, Tile Bath, Walk-In Closet(s), In-Law Floorplan 
+2145 Tray Ceiling(s) Two Story Foyer Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level 
+2146 Bookcases High Ceilings Double Vanity Rear Stairs Separate Shower Walk-In Closet(s) Wet Bar In-Law Floorplan Master On Main Level Wine Cellar 
+2147 Double Vanity Two Story Foyer Soaking Tub Other 
+2148 High Ceilings Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Master On Main Level 
+2149 Tray Ceiling(s) Double Vanity Walk-In Closet(s) Split Bedroom Plan 
+2150 Bookcases Split Bedroom Plan 
+2151 Double Vanity High Ceilings Master On Main Level Separate Shower Walk-In Closet(s) 
+2152 Bookcases Double Vanity High Ceilings Separate Shower Tray Ceiling(s) Walk-In Closet(s) 
+2153 Attic Expandable Bookcases Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Whirlpool Bath In-Law Floorplan Master On Main Level Roommate Plan Split Bedroom Plan 
+2154 Double Vanity Master On Main Level Roommate Plan 
+2155 Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+2156 Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Walk-In Closet(s) 
+2157 Pulldown Attic Stairs Walk-In Closet(s) Split Foyer 
+2158 Central Vacuum Bookcases High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) 
+2159 Separate Shower, Roommate Plan 
+2160 High Ceilings, Walk-In Closet(s), Master On Main Level, Roommate Plan 
+2161 Bookcases High Ceilings Master On Main Level Tile Bath Tray Ceiling(s) Vaulted Ceiling(s) Walk-In Closet(s) 
+2162 Double Vanity High Ceilings Separate Shower Soaking Tub Split Bedroom Plan Two Story Foyer Walk-In Closet(s) 
+2163 Double Vanity Two Story Foyer Sauna Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+2164 Bookcases Tray Ceiling(s) 
+2165 Double Vanity High Ceilings Master On Main Level Roommate Plan 
+2166 Bookcases, Tray Ceiling(s), Vaulted Ceiling(s), High Ceilings, Double Vanity, Separate Shower, Tile Bath, Walk-In Closet(s), Roommate Plan, Split Bedroom Plan 
+2167 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Separate Shower Walk-In Closet(s) Whirlpool Bath 
+2168 High Ceilings Two Story Foyer Separate Shower Walk-In Closet(s) Master On Main Level 
+2169 High Ceilings Soaking Tub Separate Shower Tile Bath 
+2170 Master On Main Level Pulldown Attic Stairs Separate Shower Soaking Tub Walk-In Closet(s) 
+2171 Bookcases, Vaulted Ceiling(s), High Ceilings, Soaking Tub, Pulldown Attic Stairs, Walk-In Closet(s), Roommate Plan, Split Bedroom Plan 
+2172 Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower 
+2173 Tray Ceiling(s) Two Story Foyer Pulldown Attic Stairs Separate Shower Master On Main Level 
+2174 Double Vanity High Ceilings Other Roommate Plan 
+2175 Bookcases Master On Main Level Pulldown Attic Stairs Split Bedroom Plan 
+2176 Master On Main Level, Roommate Plan 
+2177 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+2178 Double Vanity Master On Main Level Separate Shower Tile Bath Walk-In Closet(s) 
+2179 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Other Roommate Plan 
+2180 High Ceilings Double Vanity Separate Shower Tile Bath Walk-In Closet(s) Split Bedroom Plan 
+2181 High Ceilings In-Law Floorplan 
+2182 Tray Ceiling(s) Walk-In Closet(s) Split Bedroom Plan 
+2183 Central Vacuum Vaulted Ceiling(s) Double Vanity Two Story Foyer Separate Shower Roommate Plan 
+2184 Tray Ceiling(s) Double Vanity Two Story Foyer Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) 
+2185 High Ceilings, Double Vanity, Master On Main Level 
+2186 Pulldown Attic Stairs Double Vanity High Ceilings 
+2187 Walk-In Closet(s) In-Law Floorplan Master On Main Level 
+2188 Double Vanity Pulldown Attic Stairs Walk-In Closet(s) Split Bedroom Plan 
+2189 Tray Ceiling(s) Double Vanity Walk-In Closet(s) In-Law Floorplan 
+2190 Tray Ceiling(s) Separate Shower Whirlpool Bath Master On Main Level 
+2191 Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Soaking Tub Split Bedroom Plan Tile Bath Tray Ceiling(s) Walk-In Closet(s) 
+2192 Bookcases Vaulted Ceiling(s) Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) 
+2193 Bookcases Roommate Plan Split Bedroom Plan Tray Ceiling(s) Walk-In Closet(s) 
+2194 Double Vanity Master On Main Level Roommate Plan Split Bedroom Plan 
+2195 Double Vanity Pulldown Attic Stairs Tray Ceiling(s) Walk-In Closet(s) 
+2196 High Ceilings Split Bedroom Plan Tile Bath Walk-In Closet(s) 
+2197 High Ceilings Master On Main Level Split Bedroom Plan 
+2198 Double Vanity High Ceilings Roommate Plan Separate Shower Tray Ceiling(s) Walk-In Closet(s) 
+2199 Attic Expandable Tray Ceiling(s) High Ceilings Two Story Foyer Walk-In Closet(s) 
+2200 Two Story Foyer Tile Bath 
+2201 Vaulted Ceiling(s) Beamed Ceilings Walk-In Closet(s) Wet Bar Master On Main Level 
+2202 High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Walk-In Closet(s) 
+2203 Tray Ceiling(s) Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) 
+2204 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Roommate Plan 
+2205 Bookcases Tile Bath Master On Main Level 
+2206 Tray Ceiling(s) Vaulted Ceiling(s) Double Vanity Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level 
+2207 High Ceilings Double Vanity Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Roommate Plan 
+2208 Double Vanity High Ceilings Soaking Tub Vaulted Ceiling(s) Walk-In Closet(s) 
+2209 Bookcases Vaulted Ceiling(s) Double Vanity Two Story Foyer Separate Shower Tile Bath Walk-In Closet(s) Wet Bar In-Law Floorplan Roommate Plan Split Bedroom Plan 
+2210 Double Vanity Master On Main Level Pulldown Attic Stairs Separate Shower Soaking Tub Split Bedroom Plan 
+2211 Double Vanity High Ceilings Separate Shower Soaking Tub Split Foyer Tile Bath Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) 
+2212 Soaking Tub Separate Shower Master On Main Level Split Bedroom Plan 
+2213 Double Vanity Walk-In Closet(s) Roommate Plan 
+2214 Bookcases In-Law Floorplan Master On Main Level 
+2215 Tray Ceiling(s) Soaking Tub Separate Shower Walk-In Closet(s) Split Bedroom Plan 
+2216 High Ceilings, Walk-In Closet(s), Master On Main Level, Split Bedroom Plan 
+2217 Tray Ceiling(s) Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+2218 High Ceilings Master On Main Level Rear Stairs 
+2219 Tray Ceiling(s) Double Vanity Two Story Foyer Soaking Tub Separate Shower Walk-In Closet(s) 
+2220 Vaulted Ceiling(s) Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+2221 Vaulted Ceiling(s), Double Vanity, Separate Shower, Walk-In Closet(s) 
+2222 Tray Ceiling(s) Double Vanity Separate Shower Walk-In Closet(s) 
+2223 Bookcases Vaulted Ceiling(s) Master On Main Level 
+2224 Attic Expandable High Ceilings Separate Shower Tile Bath Walk-In Closet(s) 
+2225 Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Whirlpool Bath 
+2226 Attic Expandable, Double Vanity, Soaking Tub, Separate Shower, Tile Bath, Walk-In Closet(s), Wet Bar, Split Bedroom Plan 
+2227 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+2228 Bookcases Double Vanity Tile Bath Master On Main Level Roommate Plan 
+2229 High Ceilings Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) 
+2230 In-Law Floorplan Roommate Plan Split Bedroom Plan 
+2231 Vaulted Ceiling(s), High Ceilings 
+2232 Attic Expandable Tile Bath In-Law Floorplan 
+2233 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) 
+2234 Pulldown Attic Stairs Tile Bath Master On Main Level 
+2235 Vaulted Ceiling(s) Double Vanity Beamed Ceilings Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) In-Law Floorplan Master On Main Level Roommate Plan 
+2236 High Ceilings, Two Story Foyer, Walk-In Closet(s) 
+2237 Other, Tile Bath 
+2238 Attic Expandable High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower 
+2239 High Ceilings Soaking Tub 
+2240 Pulldown Attic Stairs Separate Shower Split Bedroom Plan Walk-In Closet(s) 
+2241 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Two Story Foyer Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath 
+2242 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan Split Bedroom Plan 
+2243 Bookcases, Tile Bath, Roommate Plan 
+2244 Bookcases Double Vanity Split Foyer Two Story Foyer Soaking Tub Master On Main Level Separate Shower Tile Bath Walk-In Closet(s) 
+2245 Bookcases Pulldown Attic Stairs Master On Main Level Split Bedroom Plan 
+2246 Double Vanity, Pulldown Attic Stairs, Rear Stairs 
+2247 Tray Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Walk-In Closet(s) 
+2248 Soaking Tub Walk-In Closet(s) In-Law Floorplan Split Bedroom Plan 
+2249 Master On Main Level Pulldown Attic Stairs Walk-In Closet(s) 
+2250 Tray Ceiling(s) Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) 
+2251 Two Story Foyer Walk-In Closet(s) Whirlpool Bath 
+2252 Vaulted Ceiling(s) Pulldown Attic Stairs Rear Stairs Walk-In Closet(s) Roommate Plan 
+2253 Central Vacuum Other 
+2254 Double Vanity High Ceilings Separate Shower Soaking Tub Walk-In Closet(s) 
+2255 Double Vanity High Ceilings Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+2256 Bookcases, High Ceilings, Soaking Tub, Separate Shower, Tile Bath, Roommate Plan, Split Bedroom Plan 
+2257 Tray Ceiling(s) Vaulted Ceiling(s) Pulldown Attic Stairs Master On Main Level 
+2258 Central Vacuum Bookcases High Ceilings Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Whirlpool Bath Master On Main Level 
+2259 Double Vanity, Pulldown Attic Stairs, Separate Shower, Walk-In Closet(s), Master On Main Level 
+2260 Vaulted Ceiling(s) High Ceilings Walk-In Closet(s) Master On Main Level 
+2261 Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Walk-In Closet(s) Roommate Plan 
+2262 Double Vanity High Ceilings Pulldown Attic Stairs Walk-In Closet(s) 
+2263 Bookcases Master On Main Level Walk-In Closet(s) 
+2264 Split Foyer 
+2265 Bookcases, Double Vanity, Two Story Foyer, Soaking Tub, Walk-In Closet(s), In-Law Floorplan 
+2266 Two Story Foyer Soaking Tub Other Separate Shower 
+2267 Tray Ceiling(s) High Ceilings Double Vanity Two Story Foyer Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) In-Law Floorplan 
+2268 Double Vanity Soaking Tub Other Walk-In Closet(s) Split Bedroom Plan 
+2269 Rear Stairs Roommate Plan 
+2270 Walk-In Closet(s) Whirlpool Bath 
+2271 Bookcases, Other, Master On Main Level 
+2272 High Ceilings Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+2273 Vaulted Ceiling(s) High Ceilings Double Vanity Beamed Ceilings Two Story Foyer Soaking Tub Rear Stairs Separate Shower Tile Bath Walk-In Closet(s) Wet Bar Master On Main Level 
+2274 Attic Expandable, Tray Ceiling(s), High Ceilings, Double Vanity, Soaking Tub, Tile Bath, Roommate Plan, Split Bedroom Plan 
+2275 Central Vacuum Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Separate Shower Tile Bath Walk-In Closet(s) 
+2276 Roommate Plan Wet Bar 
+2277 High Ceilings, Double Vanity, Two Story Foyer, Pulldown Attic Stairs, Separate Shower, Tile Bath, Walk-In Closet(s) 
+2278 Two Story Foyer Tile Bath Master On Main Level Split Bedroom Plan Split Foyer 
+2279 Other Walk-In Closet(s) Master On Main Level Split Bedroom Plan 
+2280 Pulldown Attic Stairs Separate Shower Soaking Tub Tray Ceiling(s) Two Story Foyer Walk-In Closet(s) 
+2281 Double Vanity, Walk-In Closet(s), Master On Main Level, Roommate Plan 
+2282 Tray Ceiling(s) 
+2283 High Ceilings Walk-In Closet(s) Roommate Plan 
+2284 Other Rear Stairs Master On Main Level 
+2285 Double Vanity Roommate Plan Split Bedroom Plan 
+2286 Bookcases High Ceilings Roommate Plan 
+2287 Bookcases Double Vanity Separate Shower Walk-In Closet(s) Master On Main Level 
+2288 Other 
+2289 Tray Ceiling(s), High Ceilings, Double Vanity, Two Story Foyer, Pulldown Attic Stairs, Separate Shower, Tile Bath, Walk-In Closet(s) 
+2290 Tray Ceiling(s) Double Vanity Two Story Foyer Soaking Tub Pulldown Attic Stairs Separate Shower Walk-In Closet(s) Whirlpool Bath 
+2291 Other Roommate Plan Walk-In Closet(s) 
+2292 Bookcases Double Vanity High Ceilings In-Law Floorplan Split Bedroom Plan Tile Bath Tray Ceiling(s) Two Story Foyer Vaulted Ceiling(s) Walk-In Closet(s) 
+2293 Bookcases Rear Stairs Roommate Plan Split Bedroom Plan 
+2294 Pulldown Attic Stairs Tile Bath Walk-In Closet(s) Master On Main Level Roommate Plan 
+2295 Other Pulldown Attic Stairs Roommate Plan 
+2296 Tray Ceiling(s) Vaulted Ceiling(s) High Ceilings Double Vanity Pulldown Attic Stairs Separate Shower Walk-In Closet(s) 
+2297 Tray Ceiling(s) Walk-In Closet(s) In-Law Floorplan Master On Main Level 
+2298 High Ceilings Other 
+2299 High Ceilings, Walk-In Closet(s), Roommate Plan 
+2300 Double Vanity High Ceilings Separate Shower Walk-In Closet(s) 
+2301 Tray Ceiling(s) Double Vanity Soaking Tub Separate Shower Walk-In Closet(s) Roommate Plan 
+2302 Bookcases Tray Ceiling(s) High Ceilings Double Vanity Soaking Tub Pulldown Attic Stairs Separate Shower Tile Bath Walk-In Closet(s) Whirlpool Bath Roommate Plan 
+2303 Bookcases In-Law Floorplan 
+2304 High Ceilings Walk-In Closet(s) Master On Main Level 
+2305 Pulldown Attic Stairs Walk-In Closet(s) In-Law Floorplan 
+2306 Bookcases High Ceilings Double Vanity Beamed Ceilings Pulldown Attic Stairs Walk-In Closet(s) Roommate Plan Split Bedroom Plan Wine Cellar 
+2307 High Ceilings Roommate Plan 

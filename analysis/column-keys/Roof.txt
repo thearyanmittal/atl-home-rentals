@@ -1,0 +1,29 @@
+0 Composition Other 
+1 Concrete Tile 
+2 Slate Tile 
+3 Tin 
+4 Composition Concrete Other 
+5 Composition, Tile 
+6 Concrete Other Tar/Gravel 
+7 Composition, Other 
+8 Composition Tar/Gravel 
+9 Other Wood 
+10 Tile 
+11 Composition 
+12 Other, Tar/Gravel 
+13 Other Slate 
+14 Other 
+15 Metal 
+16 Tar/Gravel 
+17 Wood 
+18 Composition Tile 
+19 Metal Slate 
+20 Composition Tile Wood 
+21 Composition Wood 
+22 Composition Other Tar/Gravel 
+23 Slate 
+24 Composition Slate 
+25 Composition Metal 
+26 Other Tar/Gravel 
+27 Concrete 
+28 Composition Concrete 

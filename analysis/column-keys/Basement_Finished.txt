@@ -1,0 +1,5 @@
+0 Unknown 
+1 Partial Finished 
+2 Unfinished 
+3 Full Finished 
+4 None or Crawl 

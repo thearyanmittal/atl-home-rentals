@@ -1,0 +1,5 @@
+0 Exterior 
+1 Unknown 
+2 Unclear 
+3 Both 
+4 Interior 

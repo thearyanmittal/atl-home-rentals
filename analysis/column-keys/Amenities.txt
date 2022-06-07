@@ -1,0 +1,1158 @@
+0 Pool Sidewalks Walk To Shopping 
+1 Park Playground Pool Sidewalks Street Lights Swim Team Tennis Team 
+2 Pool, Sidewalks, Walk To Shopping 
+3 Clubhouse Fitness Center Gated Sidewalks Street Lights Walk To Shopping 
+4 Clubhouse Gated Park Fitness Center Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools 
+5 Pool Tennis Team 
+6 Playground, Pool 
+7 Clubhouse Park Pool Sidewalks Street Lights Tennis Court(s) 
+8 Pool Tennis Court(s) Walk To Shopping 
+9 Park Playground Pool Sidewalks Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+10 None Sidewalks 
+11 Pool Sidewalks Swim Team Walk To Schools Walk To Shopping 
+12 Fitness Center Gated Guest Lodging Pool Walk To Public Transit Walk To Schools Walk To Shopping 
+13 Clubhouse Gated Park Fitness Center Pool Swim Team Walk To Public Transit Walk To Shopping 
+14 Clubhouse Pool Street Lights 
+15 Playground Pool Walk To Shopping 
+16 Park, Playground, Pool, Street Lights, Walk To Public Transit, Walk To Schools 
+17 Park Playground Pool Sidewalks Walk To Schools Walk To Shopping 
+18 Park, Walk To Public Transit, Walk To Shopping 
+19 Sidewalks Walk To Public Transit 
+20 Pool Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+21 Park Fitness Center Pool Walk To Public Transit Walk To Shopping 
+22 Street Lights, Walk To Public Transit 
+23 Pool Sidewalks Walk To Public Transit Walk To Shopping 
+24 Clubhouse Gated Golf Pool 
+25 Gated Pool Walk To Public Transit Walk To Shopping 
+26 Park Pool Street Lights 
+27 Clubhouse Park Fitness Center Playground Pool Street Lights Tennis Court(s) 
+28 Park Playground Sidewalks Walk To Schools Walk To Shopping 
+29 Clubhouse Park Fitness Center Pool Walk To Public Transit Walk To Shopping 
+30 Clubhouse Fitness Center Pool Street Lights 
+31 Clubhouse Gated Fitness Center Pool Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+32 Golf Park Sidewalks Street Lights Walk To Schools Walk To Shopping 
+33 Clubhouse Gated Playground Pool Sidewalks Walk To Schools Walk To Shopping 
+34 Sidewalks, Street Lights, Walk To Shopping 
+35 Clubhouse Gated Fitness Center Walk To Public Transit 
+36 Sidewalks Walk To Schools 
+37 Street Lights Swim Team Tennis Court(s) Walk To Schools 
+38 Fitness Center Pool Walk To Public Transit Walk To Schools Walk To Shopping 
+39 Clubhouse, Gated, Park, Fitness Center, Pool, Sidewalks, Street Lights, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+40 Gated Pool 
+41 Playground Pool Sidewalks Street Lights 
+42 Clubhouse Gated Golf Park Fitness Center Playground Pool Street Lights Swim Team Tennis Court(s) Tennis Team 
+43 Clubhouse Gated Golf Marina Playground Pool 
+44 Clubhouse Fitness Center Pool Street Lights Walk To Shopping 
+45 Park Sidewalks Street Lights Walk To Public Transit Walk To Schools 
+46 Playground Sidewalks Tennis Court(s) 
+47 Gated Sidewalks Walk To Public Transit Walk To Shopping 
+48 Clubhouse Sidewalks Street Lights Walk To Shopping 
+49 Street Lights, Walk To Public Transit, Walk To Schools 
+50 Gated Fitness Center Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+51 Lake Pool Sidewalks 
+52 Park Playground Sidewalks Tennis Court(s) Walk To Public Transit Walk To Shopping 
+53 Clubhouse Playground Pool Sidewalks Swim Team Tennis Court(s) 
+54 Gated Sidewalks Walk To Shopping 
+55 Gated Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+56 Park Playground Street Lights Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+57 Gated Park Pool 
+58 Pool Sidewalks Walk To Schools 
+59 Pool Street Lights Swim Team Tennis Court(s) Walk To Schools Walk To Shopping 
+60 Park Fitness Center Sidewalks Walk To Public Transit 
+61 Clubhouse Park Playground Sidewalks Street Lights 
+62 Clubhouse Park Playground Pool Sidewalks Street Lights 
+63 Clubhouse Golf Playground Pool Sidewalks Street Lights 
+64 Clubhouse Fitness Center Pool Racquetball Tennis Court(s) Walk To Public Transit Walk To Shopping 
+65 Gated Pool Sidewalks Tennis Court(s) 
+66 Gated Park Street Lights Walk To Public Transit Walk To Schools 
+67 Playground Sidewalks Walk To Schools Walk To Shopping 
+68 Playground, Pool, Sidewalks, Street Lights, Walk To Shopping 
+69 Park Street Lights Tennis Court(s) 
+70 Playground Pool Tennis Court(s) 
+71 Clubhouse Fitness Center Sidewalks Walk To Public Transit 
+72 Lake Park Fitness Center Playground Pool Sidewalks Stable(s) Street Lights Swim Team Walk To Schools Walk To Shopping 
+73 Park Sidewalks Street Lights Walk To Public Transit 
+74 Clubhouse Fitness Center Gated Pool Sidewalks Walk To Shopping 
+75 Clubhouse Park Fitness Center Playground Pool Sidewalks Swim Team 
+76 Clubhouse, Gated, Pool 
+77 Clubhouse, Playground, Pool, Sidewalks, Street Lights 
+78 Park Playground Sidewalks Street Lights Walk To Public Transit 
+79 Park Fitness Center Sidewalks Street Lights Walk To Public Transit 
+80 Pool Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+81 Park, Pool, Sidewalks, Street Lights, Tennis Court(s), Walk To Public Transit, Walk To Schools, Walk To Shopping 
+82 Clubhouse Fitness Center Pool Sidewalks Walk To Public Transit Walk To Shopping 
+83 Clubhouse Fitness Center Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+84 Park, Playground, Pool, Swim Team, Tennis Court(s), Walk To Schools, Walk To Shopping 
+85 Clubhouse 
+86 Gated Golf Park Playground Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+87 Clubhouse Gated Park Fitness Center Playground Walk To Public Transit Walk To Schools Walk To Shopping 
+88 Clubhouse Fitness Center Gated Pool Street Lights Walk To Schools Walk To Shopping 
+89 Park Playground Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools 
+90 Clubhouse Lake Playground Pool Tennis Court(s) Walk To Schools 
+91 Gated, Street Lights, Walk To Schools, Walk To Shopping 
+92 Gated Street Lights Walk To Schools Walk To Shopping 
+93 Clubhouse Park Walk To Shopping 
+94 Gated Park Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+95 Fitness Center Gated Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+96 Fitness Center Playground Sidewalks Walk To Public Transit 
+97 Gated Fitness Center Pool Tennis Court(s) Walk To Public Transit 
+98 Fitness Center Park Pool Sidewalks Walk To Schools Walk To Shopping 
+99 Clubhouse, Pool, Sidewalks, Street Lights, Tennis Court(s), Walk To Schools, Walk To Shopping 
+100 Clubhouse Gated Fitness Center Pool Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+101 Park, Playground, Pool, Street Lights 
+102 Walk To Public Transit Walk To Schools Street Lights 
+103 Playground Pool Sidewalks Tennis Court(s) Walk To Schools 
+104 Lake Park Playground Street Lights Walk To Schools 
+105 Pool, Street Lights, Tennis Court(s) 
+106 Sidewalks Walk To Schools Walk To Shopping 
+107 Golf Park Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+108 Park Fitness Center Playground Pool Street Lights Walk To Schools Walk To Shopping 
+109 Park Sidewalks 
+110 Sidewalks Walk To Shopping 
+111 Clubhouse Pool Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+112 Playground, Street Lights 
+113 Golf, Park, Playground, Sidewalks, Street Lights, Tennis Court(s), Walk To Public Transit, Walk To Shopping 
+114 Clubhouse Park Fitness Center Pool Sidewalks Street Lights Walk To Shopping 
+115 Gated Park Fitness Center Pool 
+116 Fitness Center Sidewalks Walk To Public Transit Walk To Shopping 
+117 Clubhouse, Gated, Pool, Sidewalks, Street Lights, Walk To Shopping 
+118 Clubhouse Playground Pool Street Lights Swim Team Walk To Schools Walk To Shopping 
+119 Clubhouse Gated Pool 
+120 Clubhouse Gated Playground Pool Street Lights Tennis Court(s) 
+121 Park Playground Sidewalks Walk To Public Transit Walk To Shopping 
+122 Clubhouse Park Playground Pool Sidewalks Street Lights Walk To Schools Walk To Shopping 
+123 Fitness Center Playground Pool Tennis Court(s) 
+124 Clubhouse Fitness Center Gated Sidewalks Tennis Court(s) Walk To Public Transit Walk To Schools 
+125 Pool Tennis Court(s) Walk To Schools Walk To Shopping 
+126 Park, Playground, Pool, Street Lights, Walk To Public Transit 
+127 Clubhouse, Park, Pool, Sidewalks, Street Lights 
+128 Golf Lake Tennis Court(s) 
+129 Sidewalks Street Lights Walk To Schools Walk To Shopping 
+130 Clubhouse Lake Park Playground Pool Tennis Court(s) 
+131 Clubhouse Park Pool Sidewalks Street Lights Swim Team Tennis Court(s) Walk To Schools 
+132 Clubhouse Golf Park Fitness Center Playground Pool Street Lights Swim Team Tennis Team 
+133 Clubhouse Fitness Center Lake Park Pool Sidewalks Street Lights Tennis Court(s) 
+134 Clubhouse Lake Playground Pool Sidewalks Street Lights Tennis Court(s) 
+135 Clubhouse Gated Guest Lodging Fitness Center Walk To Shopping 
+136 None Pool Street Lights Tennis Court(s) 
+137 Fitness Center Walk To Public Transit Walk To Schools Walk To Shopping Sidewalks Street Lights Park 
+138 Clubhouse Park Playground Pool Sidewalks 
+139 Clubhouse Gated Fitness Center Pool Sidewalks Walk To Shopping 
+140 Boat/Camper/Van Prkg Street Lights Walk To Schools 
+141 Pool Sidewalks 
+142 Clubhouse Park Playground Pool Sidewalks Walk To Shopping 
+143 Clubhouse Gated Pool Walk To Public Transit Walk To Schools Walk To Shopping 
+144 None, Park 
+145 Clubhouse Park Playground Pool 
+146 Clubhouse, Gated, Fitness Center, Pool, Street Lights, Walk To Shopping 
+147 Clubhouse Gated Fitness Center Playground Sidewalks Tennis Court(s) 
+148 Sidewalks Street Lights Walk To Shopping 
+149 Park, Sidewalks, Street Lights, Walk To Public Transit 
+150 Lake Park Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+151 Gated Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+152 Park Tennis Court(s) 
+153 Clubhouse Fitness Center Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+154 Gated Playground Pool Sidewalks Street Lights Walk To Shopping 
+155 Park Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+156 Pool Street Lights Walk To Schools 
+157 Clubhouse Fitness Center Park Playground Pool Sidewalks Street Lights Swim Team Tennis Court(s) 
+158 Sidewalks Street Lights 
+159 Clubhouse Lake Playground Pool Sidewalks Tennis Court(s) 
+160 Clubhouse, Park, Playground, Pool, Sidewalks, Street Lights, Tennis Court(s) 
+161 Clubhouse Lake Fitness Center Pool Street Lights Tennis Court(s) Walk To Shopping 
+162 Playground Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+163 Clubhouse Fitness Center Pool Tennis Court(s) 
+164 Lake Park Playground Pool Sidewalks Street Lights Swim Team Tennis Court(s) Walk To Schools Walk To Shopping 
+165 Clubhouse Fitness Center Pool Sidewalks Street Lights Walk To Shopping 
+166 Clubhouse Gated Fitness Center Sidewalks Street Lights Walk To Shopping 
+167 Park Pool Sidewalks Tennis Court(s) 
+168 Clubhouse, Gated, Fitness Center, Pool, Sidewalks, Walk To Public Transit, Walk To Shopping 
+169 Lake Sidewalks Street Lights 
+170 Park Playground Sidewalks Street Lights 
+171 Clubhouse Playground Pool Tennis Court(s) Walk To Schools Walk To Shopping 
+172 Playground Street Lights Walk To Public Transit Walk To Shopping 
+173 Airport/Runway Sidewalks Street Lights Walk To Public Transit 
+174 Park Playground Sidewalks Walk To Public Transit Walk To Schools 
+175 Clubhouse Pool Street Lights Walk To Schools Walk To Shopping 
+176 Sidewalks Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+177 Clubhouse Fitness Center Gated Park Pool Walk To Public Transit Walk To Shopping 
+178 Pool, Sidewalks, Street Lights, Walk To Schools, Walk To Shopping 
+179 Pool Sidewalks Street Lights Swim Team Walk To Public Transit Walk To Schools Walk To Shopping 
+180 Playground Pool Sidewalks Walk To Schools Walk To Shopping 
+181 Fitness Center Gated Walk To Public Transit Park Pool Playground Walk To Shopping Sidewalks Street Lights 
+182 Pool, Street Lights, Tennis Court(s), Walk To Shopping 
+183 Golf Playground Walk To Schools Walk To Shopping 
+184 Fitness Center Pool Street Lights 
+185 Park, Fitness Center, Sidewalks, Street Lights, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+186 Walk To Public Transit Walk To Shopping 
+187 Lake None Park Sidewalks Street Lights Walk To Schools Walk To Shopping 
+188 Clubhouse Gated Park Pool Sidewalks Street Lights Tennis Court(s) Walk To Public Transit 
+189 Gated Sidewalks Walk To Schools 
+190 Clubhouse Lake Playground Pool Tennis Court(s) 
+191 Clubhouse Pool 
+192 Park Playground Pool 
+193 Clubhouse Fitness Center Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+194 Street Lights, Walk To Schools 
+195 Pool, Sidewalks, Tennis Court(s) 
+196 Golf, Park, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+197 Walk To Schools 
+198 Gated Pool Walk To Shopping 
+199 Playground Tennis Court(s) 
+200 Gated, Fitness Center, Pool 
+201 None Walk To Public Transit 
+202 Clubhouse, Playground, Pool 
+203 Airport/Runway Park Playground Street Lights Walk To Public Transit Walk To Shopping 
+204 Gated Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Shopping 
+205 Playground Sidewalks Street Lights Walk To Shopping 
+206 Gated Pool Walk To Public Transit Walk To Schools Walk To Shopping 
+207 Clubhouse Fitness Center Pool Tennis Court(s) Walk To Shopping 
+208 Clubhouse Fitness Center Gated Pool Sidewalks Street Lights Walk To Shopping 
+209 Playground, Pool, Tennis Court(s), Walk To Shopping 
+210 Park, Sidewalks, Walk To Shopping 
+211 Clubhouse Tennis Court(s) Walk To Public Transit Walk To Shopping 
+212 None Pool 
+213 Clubhouse Fitness Center Lake Pool Street Lights Tennis Court(s) Walk To Shopping 
+214 Clubhouse Gated Park Fitness Center Pool Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+215 Playground, Tennis Court(s) 
+216 Playground Pool Street Lights Tennis Court(s) 
+217 Park Pool Sidewalks Street Lights Tennis Court(s) 
+218 Gated Pool Tennis Court(s) Walk To Shopping 
+219 Clubhouse, Playground, Pool, Sidewalks, Street Lights, Walk To Schools, Walk To Shopping 
+220 Guest Lodging Fitness Center Pool Walk To Shopping 
+221 Clubhouse Park Playground Pool Sidewalks Tennis Court(s) 
+222 Clubhouse Park Street Lights Walk To Public Transit Walk To Shopping 
+223 Clubhouse Gated Guest Lodging Fitness Center Pool Sidewalks Street Lights 
+224 Gated Fitness Center Pool Street Lights Walk To Shopping 
+225 Park, Sidewalks, Street Lights 
+226 Clubhouse Gated Pool Sidewalks Street Lights Walk To Shopping 
+227 Boat/Camper/Van Prkg Clubhouse Gated Lake Marina Sidewalks Street Lights Tennis Court(s) 
+228 Golf, Playground, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+229 Clubhouse, Pool, Walk To Schools 
+230 Clubhouse, Pool, Sidewalks, Walk To Public Transit, Walk To Shopping 
+231 Pool, Sidewalks, Street Lights, Walk To Public Transit, Walk To Shopping 
+232 Park Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Shopping 
+233 Park, Sidewalks, Walk To Public Transit, Walk To Shopping 
+234 Fitness Center Pool Walk To Public Transit Walk To Shopping 
+235 Park, Pool, Sidewalks, Street Lights, Walk To Public Transit, Walk To Shopping 
+236 Clubhouse Gated Lake Park Playground Pool Sidewalks Street Lights Swim Team Tennis Court(s) Tennis Team Walk To Shopping 
+237 Clubhouse Playground 
+238 Park Sidewalks Walk To Shopping 
+239 Clubhouse Pool Sidewalks Street Lights Tennis Court(s) Walk To Public Transit Walk To Shopping 
+240 Clubhouse Gated Park Playground Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+241 Clubhouse Lake Playground Pool Sidewalks Street Lights 
+242 Park Pool 
+243 Pool, Street Lights 
+244 Clubhouse Lake Pool Tennis Court(s) 
+245 Clubhouse Gated Fitness Center Pool Street Lights Walk To Schools Walk To Shopping 
+246 Pool Street Lights Walk To Shopping 
+247 Clubhouse Lake Park Playground Pool Swim Team Tennis Court(s) Walk To Schools 
+248 None Pool Sidewalks Street Lights 
+249 Gated Fitness Center Pool Street Lights Walk To Public Transit Walk To Shopping 
+250 Clubhouse Fitness Center Gated Park Pool Tennis Court(s) Walk To Schools 
+251 Clubhouse Gated Fitness Center Pool Tennis Court(s) Walk To Shopping 
+252 Sidewalks, Street Lights, Walk To Schools, Walk To Shopping 
+253 Playground Sidewalks Walk To Public Transit Walk To Shopping 
+254 Park 
+255 Park Sidewalks Street Lights Walk To Schools 
+256 Fitness Center Pool Racquetball Sidewalks Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+257 Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+258 Clubhouse Playground Pool Swim Team Tennis Court(s) Walk To Schools 
+259 Walk To Shopping 
+260 Pool Street Lights Walk To Public Transit Walk To Shopping 
+261 Clubhouse Sidewalks Walk To Public Transit Walk To Shopping 
+262 Gated Park Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+263 Pool Street Lights Walk To Public Transit 
+264 Clubhouse Gated Golf Pool Sidewalks Tennis Court(s) Walk To Shopping 
+265 Clubhouse Playground Pool Street Lights 
+266 Clubhouse Gated Pool Sidewalks Street Lights 
+267 Clubhouse Gated Playground Pool Sidewalks Street Lights 
+268 Clubhouse Gated Pool Street Lights Tennis Court(s) Walk To Shopping 
+269 Clubhouse Pool Sidewalks Walk To Public Transit Walk To Shopping 
+270 Park Playground Walk To Public Transit Walk To Shopping 
+271 Clubhouse Lake Fitness Center Pool Tennis Court(s) 
+272 Guest Lodging, Fitness Center, Pool, Street Lights, Tennis Court(s), Walk To Schools, Walk To Shopping 
+273 Pool Sidewalks Street Lights Tennis Court(s) Walk To Shopping 
+274 Pool Sidewalks Street Lights Tennis Court(s) 
+275 Clubhouse Lake Park Street Lights Walk To Schools Walk To Shopping 
+276 Clubhouse Gated Fitness Center Pool Sidewalks Street Lights Walk To Shopping 
+277 Lake, Park, Sidewalks, Street Lights, Walk To Schools, Walk To Shopping 
+278 Clubhouse, Gated, Fitness Center, Playground, Pool, Street Lights, Tennis Court(s), Walk To Public Transit, Walk To Schools, Walk To Shopping 
+279 Park, Playground, Pool, Street Lights, Swim Team, Tennis Court(s), Walk To Public Transit, Walk To Schools, Walk To Shopping 
+280 Clubhouse Playground Sidewalks Street Lights 
+281 Playground Pool Sidewalks Tennis Court(s) 
+282 Clubhouse Lake Sidewalks Tennis Court(s) Walk To Schools 
+283 Park, Sidewalks, Street Lights, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+284 Playground Pool Swim Team Tennis Court(s) Walk To Schools Walk To Shopping 
+285 Park Playground Pool Street Lights Walk To Public Transit 
+286 Playground Pool Street Lights Walk To Schools Walk To Shopping 
+287 Lake Park Playground Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+288 Gated Guest Lodging Fitness Center Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+289 Clubhouse Playground Pool Swim Team Tennis Court(s) 
+290 Park Playground Pool Walk To Schools 
+291 Gated Park Playground Pool Street Lights Walk To Public Transit Walk To Shopping 
+292 Clubhouse Lake Fitness Center Playground Pool Sidewalks Tennis Court(s) Walk To Schools Walk To Shopping 
+293 Clubhouse Gated Fitness Center Pool Walk To Schools Walk To Shopping 
+294 Gated Sidewalks Street Lights Walk To Shopping 
+295 Clubhouse Playground Pool Street Lights Swim Team Tennis Court(s) 
+296 Gated 
+297 Clubhouse Fitness Center Playground Pool Street Lights Tennis Court(s) Walk To Public Transit Walk To Shopping 
+298 Gated Fitness Center Pool Walk To Schools Walk To Shopping 
+299 Park Sidewalks Walk To Public Transit 
+300 Park Sidewalks Walk To Schools Walk To Shopping 
+301 Lake Sidewalks 
+302 Lake Park Fitness Center Playground Pool Sidewalks Walk To Shopping 
+303 Gated Pool Sidewalks Street Lights Tennis Court(s) Walk To Shopping 
+304 Fitness Center Guest Lodging Pool Sidewalks Tennis Court(s) 
+305 Park Pool Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+306 Clubhouse Park Pool Walk To Public Transit Walk To Shopping 
+307 Clubhouse Park Pool Sidewalks Tennis Court(s) 
+308 Gated Golf Guest Lodging Park Fitness Center Pool Tennis Court(s) 
+309 Park Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+310 Tennis Court(s) 
+311 Park Walk To Schools Walk To Shopping 
+312 Clubhouse Gated Pool Sidewalks 
+313 Clubhouse, Lake, Park, Playground, Pool, Sidewalks, Street Lights, Swim Team, Tennis Court(s), Tennis Team 
+314 Gated Pool Sidewalks 
+315 Fitness Center, Pool, Walk To Schools, Walk To Shopping 
+316 None Sidewalks Street Lights 
+317 Clubhouse Park Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+318 Park Playground Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+319 Walk To Public Transit Sidewalks Walk To Shopping 
+320 Clubhouse Pool Retirement Community Sidewalks Street Lights 
+321 Clubhouse, Gated, Pool, Sidewalks, Street Lights, Walk To Schools, Walk To Shopping 
+322 Boat/Camper/Van Prkg Lake 
+323 Fitness Center Gated Park Pool Sidewalks Walk To Public Transit Walk To Shopping 
+324 Park, Playground, Sidewalks, Street Lights 
+325 Clubhouse Lake Fitness Center Pool Street Lights Tennis Court(s) Walk To Public Transit Walk To Shopping 
+326 Fitness Center Gated Park Playground Pool Street Lights Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+327 Clubhouse Pool Tennis Court(s) Walk To Schools Walk To Shopping 
+328 Park, Street Lights, Walk To Public Transit, Walk To Shopping 
+329 Walk To Schools Walk To Shopping 
+330 Fitness Center Pool Sidewalks Street Lights 
+331 Park Pool Street Lights Walk To Schools Walk To Shopping 
+332 Clubhouse Park Street Lights Walk To Schools Walk To Shopping 
+333 Gated Pool Sidewalks Street Lights Walk To Shopping 
+334 Lake, Street Lights, Walk To Shopping 
+335 Playground, Pool, Sidewalks, Street Lights, Walk To Schools, Walk To Shopping 
+336 Clubhouse, Gated, Golf, Park, Playground, Sidewalks 
+337 Clubhouse, Pool 
+338 Park Playground Pool Street Lights Swim Team Tennis Court(s) Walk To Shopping 
+339 Clubhouse Fitness Center Playground Pool Tennis Court(s) 
+340 Pool Walk To Public Transit 
+341 Sidewalks Stable(s) Street Lights 
+342 Playground, Pool, Sidewalks, Street Lights, Tennis Court(s), Walk To Schools, Walk To Shopping 
+343 Gated, Street Lights 
+344 Sidewalks Street Lights Pool Playground 
+345 Clubhouse Pool Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+346 Lake Park Playground Pool Sidewalks Tennis Court(s) 
+347 Fitness Center Gated Pool Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+348 Clubhouse, Gated, Fitness Center, Sidewalks, Street Lights, Walk To Shopping 
+349 Clubhouse Park Playground Pool Sidewalks Swim Team Tennis Court(s) Walk To Public Transit Walk To Shopping 
+350 Clubhouse Playground Street Lights 
+351 Gated Fitness Center Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+352 Clubhouse Guest Lodging Park Fitness Center Pool Walk To Public Transit Walk To Shopping 
+353 Gated Guest Lodging Fitness Center Pool Walk To Public Transit Walk To Shopping 
+354 Park Fitness Center Pool Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+355 Playground Pool Sidewalks Street Lights Walk To Schools Walk To Shopping 
+356 Clubhouse Golf Lake Park Playground Pool Sidewalks Street Lights Tennis Court(s) 
+357 Pool, Swim Team, Tennis Court(s), Walk To Schools 
+358 Clubhouse Lake Park Fitness Center Playground Pool Sidewalks Street Lights 
+359 Park, Playground, Sidewalks, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+360 Golf Playground Street Lights 
+361 Clubhouse Park Playground Pool Tennis Court(s) Walk To Schools Walk To Shopping 
+362 Clubhouse Playground Pool Sidewalks 
+363 Lake Park Playground Sidewalks Street Lights Tennis Court(s) 
+364 None Street Lights 
+365 Clubhouse Fitness Center Pool Sidewalks Street Lights 
+366 Clubhouse Street Lights Walk To Public Transit 
+367 Park Walk To Shopping 
+368 Tennis Court(s) Pool 
+369 Gated Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+370 Park, Playground, Pool, Street Lights, Swim Team, Tennis Court(s), Walk To Shopping 
+371 Sidewalks, Street Lights, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+372 Fitness Center Guest Lodging Pool Walk To Public Transit Walk To Schools Walk To Shopping 
+373 Playground Pool Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+374 Lake, Playground, Pool, Sidewalks 
+375 Gated Park Playground Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+376 Clubhouse Fitness Center Gated Pool Sidewalks Tennis Court(s) Walk To Schools Walk To Shopping 
+377 Clubhouse Playground Pool 
+378 Clubhouse Fitness Center Gated Pool Tennis Court(s) Walk To Public Transit Walk To Shopping 
+379 Clubhouse Gated Pool Sidewalks Walk To Public Transit Walk To Shopping 
+380 Clubhouse Fitness Center Gated Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+381 Clubhouse Fitness Center Guest Lodging Pool Sidewalks Street Lights Tennis Court(s) Walk To Shopping 
+382 Gated Park Sidewalks Walk To Public Transit Walk To Shopping 
+383 Park, Playground, Sidewalks, Street Lights, Walk To Public Transit, Walk To Shopping 
+384 Fitness Center Gated Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+385 Gated Fitness Center Pool Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+386 Clubhouse Golf Lake Park Playground Street Lights Tennis Court(s) 
+387 Fitness Center Gated Pool 
+388 Clubhouse Gated Pool Tennis Court(s) 
+389 Clubhouse, Park, Street Lights, Walk To Public Transit, Walk To Shopping 
+390 Clubhouse, Pool, Sidewalks, Street Lights 
+391 Clubhouse, Playground, Pool, Tennis Court(s) 
+392 Playground Pool Sidewalks Street Lights Swim Team Tennis Court(s) 
+393 Golf Playground Retirement Community Street Lights 
+394 Playground, Sidewalks, Street Lights 
+395 Clubhouse, Gated, Golf, Lake, Playground, Pool, Sidewalks, Street Lights, Tennis Court(s) 
+396 Clubhouse Lake Playground Street Lights Walk To Public Transit 
+397 Gated Fitness Center Pool 
+398 Clubhouse Park Playground Pool Sidewalks Street Lights Swim Team Tennis Court(s) 
+399 Golf Park Playground Pool Sidewalks Stable(s) Swim Team Walk To Schools 
+400 Clubhouse Pool Sidewalks 
+401 Park Playground Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+402 Gated Lake Park 
+403 Park Playground Walk To Public Transit Walk To Schools Walk To Shopping 
+404 Lake Walk To Schools 
+405 Lake Park Pool Sidewalks Street Lights Walk To Schools Walk To Shopping 
+406 Clubhouse Fitness Center Playground Pool Sidewalks Street Lights Tennis Court(s) 
+407 Gated Fitness Center Pool Sidewalks Street Lights 
+408 Playground Pool Street Lights Swim Team Tennis Court(s) 
+409 Walk To Public Transit, Walk To Shopping 
+410 Clubhouse Golf Park Playground Pool Sidewalks Street Lights Swim Team Tennis Court(s) Walk To Schools 
+411 Golf Park Playground Pool Sidewalks Stable(s) Street Lights Swim Team Tennis Court(s) 
+412 Clubhouse Fitness Center Gated Pool 
+413 Park Playground Pool Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+414 Gated Park Fitness Center Playground Pool Walk To Public Transit Walk To Schools Walk To Shopping 
+415 Clubhouse Golf Fitness Center Playground Pool Sidewalks Street Lights Tennis Court(s) 
+416 Clubhouse Lake Fitness Center Playground Pool Street Lights Tennis Court(s) Walk To Public Transit Walk To Shopping 
+417 Clubhouse Pool Sidewalks Street Lights 
+418 Clubhouse Fitness Center Gated Pool Walk To Schools Walk To Shopping 
+419 Pool, Tennis Court(s), Walk To Schools, Walk To Shopping 
+420 Clubhouse Gated Playground Pool Sidewalks Street Lights Walk To Public Transit 
+421 Clubhouse Pool Sidewalks Tennis Court(s) Walk To Schools 
+422 Lake Street Lights Walk To Shopping 
+423 Clubhouse Fitness Center Golf Playground Pool Sidewalks Street Lights Tennis Court(s) 
+424 Clubhouse Fitness Center Gated 
+425 Clubhouse, Gated, Fitness Center, Pool 
+426 Clubhouse Park Pool 
+427 Clubhouse Lake Park Playground Pool Street Lights Tennis Court(s) 
+428 Playground, Sidewalks, Tennis Court(s), Walk To Schools, Walk To Shopping 
+429 Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+430 Gated Fitness Center Street Lights Walk To Public Transit Walk To Shopping 
+431 Pool Street Lights 
+432 Gated Park 
+433 Clubhouse Playground Pool Sidewalks Street Lights Walk To Shopping 
+434 Pool Walk To Shopping Walk To Schools Walk To Public Transit 
+435 Clubhouse Gated Fitness Center Pool Walk To Public Transit Walk To Shopping 
+436 Clubhouse Lake Park Playground Pool Sidewalks Street Lights 
+437 Sidewalks Street Lights Swim Team 
+438 Clubhouse Park Pool Sidewalks 
+439 Park Pool Walk To Schools 
+440 Pool Tennis Court(s) 
+441 Clubhouse Park Fitness Center Playground Pool Sidewalks Street Lights Tennis Court(s) 
+442 Clubhouse Park Playground Pool Sidewalks Tennis Court(s) Walk To Shopping 
+443 Clubhouse Street Lights 
+444 Playground Sidewalks Street Lights Swim Team 
+445 Fitness Center Park Sidewalks Street Lights Walk To Public Transit 
+446 Clubhouse Park Sidewalks Swim Team Tennis Court(s) Walk To Schools Walk To Shopping 
+447 Clubhouse Fitness Center Pool Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+448 Clubhouse Golf Lake Park Pool Tennis Court(s) 
+449 Pool Sidewalks Street Lights 
+450 Playground Pool 
+451 Pool Sidewalks Tennis Court(s) 
+452 Clubhouse, Lake, Playground, Pool, Sidewalks, Street Lights, Tennis Court(s) 
+453 Clubhouse Gated Playground Pool Tennis Court(s) 
+454 Clubhouse Fitness Center Pool Sidewalks 
+455 Clubhouse Fitness Center Gated Walk To Public Transit 
+456 Sidewalks, Walk To Public Transit 
+457 Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+458 Clubhouse Lake Park Pool Street Lights Swim Team Tennis Court(s) 
+459 Clubhouse Pool Sidewalks Street Lights Walk To Shopping 
+460 Street Lights Walk To Shopping 
+461 Street Lights 
+462 Clubhouse Park Fitness Center Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+463 Clubhouse Gated Lake Playground Pool Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+464 Gated Park Sidewalks Street Lights Walk To Shopping 
+465 Clubhouse Gated Fitness Center Pool Sidewalks Street Lights Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+466 Clubhouse Gated Golf Park Playground 
+467 Clubhouse Gated Fitness Center Pool Sidewalks Street Lights Tennis Court(s) Walk To Shopping 
+468 Walk To Public Transit Walk To Schools Walk To Shopping 
+469 Gated Pool Street Lights Walk To Shopping 
+470 Lake Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Shopping 
+471 Park Walk To Public Transit Walk To Shopping 
+472 Clubhouse Fitness Center Gated Pool Walk To Public Transit Walk To Schools Walk To Shopping 
+473 Playground Street Lights 
+474 Park Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+475 Park Fitness Center Sidewalks Street Lights Walk To Schools Walk To Shopping 
+476 Clubhouse Golf Lake Park Fitness Center Playground Pool Retirement Community Sidewalks Street Lights Tennis Court(s) 
+477 Clubhouse Park Fitness Center Playground Pool Sidewalks Walk To Schools 
+478 Park Playground Street Lights 
+479 Park, Fitness Center, Playground, Walk To Public Transit, Walk To Shopping 
+480 Playground Sidewalks Street Lights 
+481 Fitness Center Pool Walk To Schools Walk To Shopping 
+482 Pool 
+483 Lake Park Playground Street Lights 
+484 Clubhouse Fitness Center Playground Pool 
+485 Gated Pool Sidewalks Walk To Shopping 
+486 Street Lights, Walk To Schools, Walk To Shopping 
+487 Clubhouse Playground Pool Street Lights Tennis Team 
+488 Pool Walk To Schools Walk To Shopping 
+489 Gated Walk To Public Transit Walk To Schools Walk To Shopping 
+490 Gated Playground Pool Sidewalks Street Lights Tennis Court(s) 
+491 Playground Street Lights Walk To Schools Walk To Shopping 
+492 Fitness Center Gated Pool Sidewalks Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+493 Golf Pool 
+494 Clubhouse Golf Playground Sidewalks Street Lights Swim Team Tennis Court(s) 
+495 Guest Lodging Fitness Center Sidewalks 
+496 Golf, Pool, Tennis Court(s) 
+497 Clubhouse Gated Park Street Lights Walk To Schools Walk To Shopping 
+498 Clubhouse Park Pool Street Lights Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+499 Clubhouse Gated Playground Pool Walk To Schools Walk To Shopping Sidewalks 
+500 Playground Pool Sidewalks Street Lights Walk To Shopping 
+501 Clubhouse Park Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+502 Street Lights Walk To Public Transit 
+503 Clubhouse Fitness Center Gated Golf Guest Lodging Pool Street Lights Tennis Court(s) Walk To Shopping 
+504 Lake Pool Sidewalks Street Lights Walk To Schools Walk To Shopping 
+505 Clubhouse Park Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+506 Clubhouse Park Pool Tennis Court(s) 
+507 Clubhouse Fitness Center Gated Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+508 Playground Pool Street Lights Tennis Court(s) Walk To Shopping 
+509 Lake, Playground, Pool, Tennis Court(s) 
+510 Clubhouse Fitness Center Gated Guest Lodging Pool Walk To Public Transit Walk To Shopping 
+511 Gated Sidewalks 
+512 Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+513 Clubhouse Park Playground Pool Street Lights Tennis Court(s) 
+514 Golf Street Lights 
+515 Park Playground Pool Tennis Court(s) 
+516 Park Sidewalks Street Lights Walk To Shopping 
+517 Gated Fitness Center Pool Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+518 Clubhouse Pool Tennis Court(s) Walk To Shopping 
+519 Clubhouse, Golf 
+520 Clubhouse Lake Park Playground Pool Sidewalks Street Lights Swim Team Tennis Court(s) Tennis Team 
+521 Clubhouse Fitness Center Golf Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Schools 
+522 Clubhouse Pool Sidewalks Walk To Schools Walk To Shopping 
+523 Park Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+524 Sidewalks, Walk To Shopping 
+525 Park Sidewalks Street Lights Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+526 Park Walk To Public Transit 
+527 Park Pool Tennis Court(s) 
+528 Park Playground Pool Sidewalks Street Lights Tennis Court(s) 
+529 Gated Park Playground Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+530 Clubhouse Golf Lake Pool Sidewalks Street Lights Tennis Court(s) 
+531 Clubhouse Pool Street Lights Tennis Court(s) Walk To Public Transit Walk To Shopping 
+532 Park Walk To Public Transit Walk To Schools Walk To Shopping 
+533 Boat/Camper/Van Prkg 
+534 Walk To Schools, Walk To Shopping 
+535 Gated Fitness Center Pool Street Lights Walk To Public Transit 
+536 Park Street Lights Walk To Public Transit Walk To Schools 
+537 Pool Sidewalks Street Lights Walk To Schools 
+538 Clubhouse Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+539 Fitness Center Pool Sidewalks Street Lights Walk To Shopping 
+540 Lake Playground Pool Sidewalks Street Lights Tennis Court(s) 
+541 Lake Park Playground Pool Sidewalks Tennis Court(s) Walk To Schools Walk To Shopping 
+542 Park Playground Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+543 Clubhouse Fitness Center Gated Park Pool Swim Team Walk To Public Transit Walk To Shopping 
+544 Street Lights, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+545 Fitness Center Gated Guest Lodging 
+546 Clubhouse Fitness Center Playground Pool Sidewalks Tennis Court(s) Walk To Shopping 
+547 None Walk To Schools Walk To Shopping 
+548 Gated Walk To Public Transit Pool Tennis Court(s) 
+549 Gated Fitness Center Pool Sidewalks Walk To Shopping 
+550 Clubhouse Playground Sidewalks Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+551 Park Playground Pool Street Lights Swim Team Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+552 Clubhouse Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Shopping 
+553 Guest Lodging, Fitness Center, Pool, Sidewalks, Street Lights, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+554 Clubhouse Golf Playground Pool 
+555 Park Pool Sidewalks Street Lights Tennis Court(s) Walk To Public Transit Walk To Schools 
+556 Clubhouse Lake Playground Pool 
+557 Pool Swim Team Tennis Court(s) Walk To Schools 
+558 Gated Park Pool Sidewalks Street Lights Walk To Shopping 
+559 Pool, Street Lights, Walk To Schools 
+560 None Park Sidewalks Street Lights Walk To Schools Walk To Shopping 
+561 Fitness Center Park Playground Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+562 Clubhouse Street Lights Walk To Shopping 
+563 Clubhouse Playground Pool Tennis Court(s) Walk To Schools 
+564 Playground Sidewalks Street Lights Walk To Public Transit Walk To Schools 
+565 Pool, Sidewalks, Street Lights, Tennis Court(s) 
+566 Clubhouse, Pool, Tennis Court(s) 
+567 Playground, Pool, Tennis Court(s), Walk To Schools 
+568 Clubhouse Fitness Center Gated Pool Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+569 Gated Lake Pool 
+570 Gated Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+571 Park Playground Pool Sidewalks Street Lights Swim Team Tennis Court(s) Walk To Schools 
+572 Fitness Center Pool Street Lights Walk To Shopping 
+573 Pool, Tennis Court(s) 
+574 Clubhouse Park Playground Pool Street Lights Tennis Court(s) Walk To Schools 
+575 Guest Lodging Fitness Center Pool Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+576 Clubhouse Fitness Center Gated Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+577 Pool Walk To Public Transit Walk To Schools Walk To Shopping 
+578 Gated Park Playground Sidewalks Street Lights Tennis Court(s) Walk To Public Transit 
+579 Clubhouse Gated Fitness Center Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+580 Clubhouse, Park, Playground, Pool, Sidewalks, Swim Team, Tennis Court(s), Walk To Public Transit, Walk To Shopping 
+581 Clubhouse Fitness Center Gated Park Pool Sidewalks Tennis Court(s) Walk To Schools Walk To Shopping 
+582 Sidewalks 
+583 Clubhouse, Fitness Center, Pool 
+584 Park Pool Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+585 Pool Street Lights Tennis Court(s) 
+586 Playground Sidewalks Street Lights Walk To Public Transit 
+587 Park Playground Pool Street Lights 
+588 Clubhouse Fitness Center Playground Pool Street Lights Walk To Public Transit 
+589 Lake Park Sidewalks Street Lights Walk To Schools Walk To Shopping 
+590 Clubhouse Gated Guest Lodging Park Fitness Center Pool Walk To Public Transit Walk To Shopping 
+591 Playground Pool Tennis Court(s) Walk To Schools 
+592 Clubhouse Park Playground Street Lights Tennis Court(s) Walk To Shopping 
+593 Fitness Center Sidewalks Street Lights 
+594 None Walk To Shopping 
+595 Clubhouse Fitness Center Gated Playground Pool Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+596 Playground Walk To Public Transit Walk To Schools Walk To Shopping 
+597 Clubhouse Park Playground Pool Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+598 Fitness Center Gated Guest Lodging Pool Walk To Shopping 
+599 Gated Guest Lodging Fitness Center Pool Street Lights Walk To Public Transit Walk To Shopping 
+600 Clubhouse Gated Pool Street Lights 
+601 Clubhouse Park Fitness Center Playground Pool Street Lights Tennis Court(s) Walk To Shopping 
+602 Playground, Pool, Street Lights, Tennis Court(s) 
+603 Clubhouse Fitness Center Pool Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+604 Swim Team Tennis Court(s) 
+605 Gated Fitness Center Walk To Shopping 
+606 Fitness Center Walk To Public Transit 
+607 Gated Park Sidewalks Street Lights 
+608 Clubhouse Pool Sidewalks Street Lights Walk To Public Transit 
+609 Playground Pool Street Lights 
+610 Fitness Center Gated Pool Sidewalks Walk To Public Transit Walk To Shopping 
+611 Gated Street Lights 
+612 Gated Fitness Center Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+613 Gated Park Playground Sidewalks Street Lights 
+614 Lake Park Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+615 Park, Playground, Pool, Street Lights, Swim Team, Walk To Schools, Walk To Shopping 
+616 Clubhouse Fitness Center Park Pool Sidewalks Street Lights Walk To Shopping 
+617 None Park 
+618 Clubhouse Gated Fitness Center Pool 
+619 Clubhouse Fitness Center Lake Playground Pool Tennis Court(s) Walk To Schools 
+620 Clubhouse Fitness Center Tennis Court(s) 
+621 Clubhouse, Lake, Fitness Center, Pool, Street Lights, Tennis Court(s), Walk To Public Transit, Walk To Shopping 
+622 Clubhouse Playground Pool Sidewalks Street Lights Swim Team Tennis Court(s) 
+623 Clubhouse Street Lights Swim Team Tennis Court(s) 
+624 Fitness Center Gated Golf Guest Lodging Park Pool Tennis Court(s) 
+625 Clubhouse, Golf, Lake, Park, Fitness Center, Playground, Pool, Sidewalks, Street Lights, Swim Team, Tennis Court(s), Tennis Team 
+626 Clubhouse, Gated 
+627 Clubhouse Fitness Center Gated Guest Lodging Pool 
+628 Golf 
+629 Park Playground Pool Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+630 Playground Pool Sidewalks 
+631 Clubhouse Pool Street Lights Tennis Court(s) 
+632 Fitness Center Playground Pool Tennis Court(s) Walk To Schools 
+633 Clubhouse Gated Lake Park Playground Pool Sidewalks Street Lights Tennis Court(s) 
+634 Clubhouse Fitness Center Gated Pool Walk To Shopping 
+635 None Walk To Public Transit Walk To Schools Walk To Shopping 
+636 Sidewalks Street Lights Tennis Court(s) 
+637 Airport/Runway, Sidewalks, Street Lights, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+638 Gated Sidewalks Street Lights 
+639 Park Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+640 Clubhouse Gated Walk To Public Transit Walk To Schools Walk To Shopping 
+641 Fitness Center Gated Walk To Public Transit 
+642 Gated Fitness Center Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+643 None Fitness Center Sidewalks 
+644 Lake Shared Dock 
+645 Clubhouse Fitness Center Pool Street Lights Walk To Public Transit 
+646 Clubhouse Gated Pool Swim Team 
+647 Park, Pool, Tennis Court(s) 
+648 Clubhouse Gated Fitness Center Pool Walk To Public Transit 
+649 Fitness Center Gated Pool Sidewalks Street Lights 
+650 Pool Walk To Schools 
+651 Gated Park Playground Pool Sidewalks Street Lights Walk To Shopping 
+652 Clubhouse Fitness Center Gated Park Playground Walk To Public Transit Walk To Schools Walk To Shopping 
+653 Pool, Sidewalks, Street Lights 
+654 Clubhouse Park Fitness Center Walk To Public Transit 
+655 Gated Fitness Center Pool Racquetball Street Lights Walk To Schools 
+656 Clubhouse Guest Lodging Fitness Center Pool Walk To Public Transit Walk To Shopping 
+657 Park, Sidewalks, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+658 Playground, Walk To Schools, Walk To Shopping 
+659 Clubhouse Fitness Center Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+660 Clubhouse Golf Park Fitness Center Playground Pool Sidewalks Street Lights Swim Team Tennis Court(s) Tennis Team Walk To Schools Walk To Shopping 
+661 Clubhouse Golf Fitness Center Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Schools 
+662 Park Pool Sidewalks Street Lights Walk To Shopping 
+663 Clubhouse Sidewalks 
+664 Park Playground Pool Sidewalks Street Lights 
+665 Clubhouse, Park, Fitness Center, Sidewalks, Street Lights, Walk To Public Transit, Walk To Shopping 
+666 Guest Lodging Fitness Center Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+667 Park Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+668 Park Playground Street Lights Walk To Public Transit Walk To Shopping 
+669 Pool Street Lights Walk To Schools Walk To Shopping 
+670 Clubhouse Fitness Center Playground Pool Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+671 Sidewalks Street Lights Walk To Public Transit 
+672 Clubhouse Fitness Center Park Playground Pool Retirement Community Walk To Public Transit Walk To Schools 
+673 Clubhouse Fitness Center Pool Tennis Court(s) Walk To Public Transit Walk To Shopping 
+674 Clubhouse Park Pool Sidewalks Street Lights Walk To Schools Walk To Shopping 
+675 None Sidewalks Walk To Public Transit 
+676 Clubhouse Tennis Court(s) 
+677 Park Playground 
+678 Pool Sidewalks Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+679 None, Sidewalks 
+680 Park Playground Pool Street Lights Walk To Public Transit Walk To Shopping 
+681 Golf Pool Tennis Court(s) 
+682 Clubhouse Playground Pool Sidewalks Street Lights Walk To Schools Walk To Shopping 
+683 Clubhouse Gated Golf Lake Playground Pool Street Lights Swim Team Walk To Schools Walk To Shopping 
+684 Gated Fitness Center Pool Sidewalks Tennis Court(s) Walk To Public Transit Walk To Shopping 
+685 Gated, Fitness Center, Pool, Tennis Court(s), Walk To Public Transit 
+686 None Sidewalks Walk To Shopping 
+687 Swim Team 
+688 Lake Street Lights Walk To Schools Walk To Shopping 
+689 Sidewalks Street Lights Swim Team Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+690 Park Sidewalks Street Lights 
+691 Clubhouse Pool Sidewalks Tennis Court(s) 
+692 Street Lights Walk To Schools 
+693 Clubhouse Pool Tennis Court(s) Walk To Schools 
+694 Pool Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+695 Park Pool Sidewalks 
+696 Clubhouse, Park, Street Lights, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+697 Gated, Walk To Public Transit, Walk To Shopping 
+698 Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Shopping 
+699 Street Lights Walk To Public Transit Walk To Schools 
+700 Clubhouse Park Playground Pool Walk To Schools Walk To Shopping 
+701 Golf Park Playground Pool Street Lights Tennis Court(s) 
+702 Fitness Center Gated Playground Pool 
+703 Clubhouse Gated Fitness Center Pool Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+704 Clubhouse Gated Lake Playground Pool Sidewalks Street Lights 
+705 Clubhouse Fitness Center Guest Lodging 
+706 Gated Park Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+707 Gated Pool Street Lights 
+708 Fitness Center Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+709 Golf None 
+710 Fitness Center 
+711 Gated Street Lights Walk To Shopping 
+712 Clubhouse Pool Tennis Court(s) Walk To Public Transit Walk To Shopping 
+713 Clubhouse Sidewalks Street Lights Tennis Court(s) 
+714 Clubhouse Lake Pool 
+715 Gated, Pool, Sidewalks, Street Lights 
+716 Gated Fitness Center Walk To Public Transit Walk To Shopping 
+717 Park Pool Sidewalks Street Lights Walk To Schools Walk To Shopping 
+718 Clubhouse Guest Lodging Fitness Center Pool Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+719 Fitness Center Gated Pool Walk To Public Transit Walk To Schools Walk To Shopping 
+720 Clubhouse, Pool, Street Lights 
+721 Walk To Public Transit Walk To Schools Walk To Shopping Sidewalks Park Pool 
+722 Fitness Center Pool Street Lights Tennis Court(s) Walk To Public Transit Walk To Shopping 
+723 Clubhouse Playground Pool Sidewalks Street Lights Tennis Court(s) 
+724 Clubhouse Gated Fitness Center Pool Sidewalks 
+725 Park Pool Walk To Public Transit Walk To Schools 
+726 Clubhouse Park Fitness Center Pool Tennis Court(s) Walk To Schools 
+727 Gated Guest Lodging Park Fitness Center Pool Sidewalks Walk To Schools Walk To Shopping 
+728 Fitness Center Gated Pool Sidewalks Walk To Shopping 
+729 Park, Walk To Shopping 
+730 Playground Tennis Court(s) Walk To Schools 
+731 None Walk To Schools 
+732 Gated Playground Pool Street Lights Tennis Court(s) Walk To Shopping 
+733 Clubhouse Gated Playground Sidewalks Street Lights Walk To Public Transit 
+734 Airport/Runway Street Lights 
+735 Clubhouse Fitness Center Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+736 Clubhouse Gated Fitness Center Pool Tennis Court(s) Walk To Public Transit 
+737 Clubhouse Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+738 Street Lights Swim Team 
+739 Park Street Lights Walk To Public Transit 
+740 Playground, Pool, Street Lights, Walk To Schools 
+741 Gated Pool Sidewalks Walk To Schools Walk To Shopping 
+742 Gated Playground 
+743 Park Playground Sidewalks Street Lights Walk To Public Transit Walk To Schools 
+744 Clubhouse Lake Park Playground Pool Sidewalks Street Lights Tennis Court(s) 
+745 Playground Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+746 Clubhouse Fitness Center Gated Park Playground Pool Sidewalks Street Lights Tennis Court(s) 
+747 Clubhouse Fitness Center Gated Playground Pool Sidewalks Street Lights Walk To Schools Walk To Shopping 
+748 Fitness Center Playground Pool Tennis Court(s) Walk To Shopping 
+749 Fitness Center Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+750 Gated Park Playground Sidewalks Street Lights Walk To Schools Walk To Shopping 
+751 Clubhouse Gated Fitness Center Pool Walk To Public Transit Walk To Schools Walk To Shopping 
+752 Fitness Center Pool Walk To Shopping 
+753 Playground, Pool, Street Lights, Tennis Court(s), Walk To Shopping 
+754 Sidewalks, Walk To Schools 
+755 Clubhouse Fitness Center Pool Walk To Schools Walk To Shopping 
+756 Fitness Center Gated Pool Street Lights Walk To Public Transit Walk To Shopping 
+757 Clubhouse Gated Fitness Center Walk To Public Transit Walk To Shopping 
+758 Clubhouse Sidewalks Street Lights Walk To Public Transit 
+759 Park Pool Sidewalks Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+760 Lake 
+761 Clubhouse Gated Fitness Center Pool Street Lights 
+762 Clubhouse Fitness Center Playground Pool Sidewalks Tennis Court(s) 
+763 Clubhouse, Lake, Park, Playground, Pool, Swim Team, Tennis Court(s), Walk To Schools 
+764 Clubhouse Gated Park Pool Tennis Court(s) 
+765 Clubhouse Playground Sidewalks Street Lights Tennis Court(s) 
+766 Clubhouse Fitness Center Playground Pool Street Lights Tennis Court(s) 
+767 Clubhouse Park Playground Pool Sidewalks Street Lights Tennis Court(s) 
+768 Pool, Walk To Public Transit, Walk To Shopping 
+769 Gated Walk To Public Transit 
+770 Clubhouse Gated Playground Pool Street Lights 
+771 Gated Street Lights Walk To Public Transit Walk To Schools 
+772 Playground, Pool, Street Lights, Tennis Court(s), Walk To Schools, Walk To Shopping 
+773 Playground Sidewalks Street Lights Tennis Court(s) 
+774 Clubhouse Lake Park Playground Sidewalks Street Lights 
+775 Clubhouse Park Playground Pool Tennis Court(s) 
+776 Pool Walk To Shopping 
+777 Park, Fitness Center, Pool, Sidewalks, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+778 Park Pool Walk To Schools Walk To Shopping 
+779 Gated Golf Park Playground Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+780 Clubhouse, Playground, Pool, Sidewalks, Walk To Shopping 
+781 Fitness Center Pool 
+782 Park Playground Sidewalks Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+783 Gated, Fitness Center, Pool, Sidewalks, Street Lights, Walk To Public Transit, Walk To Shopping 
+784 Clubhouse Gated Playground Sidewalks 
+785 Park, Playground, Pool, Sidewalks, Street Lights, Tennis Court(s), Walk To Public Transit, Walk To Schools, Walk To Shopping 
+786 Fitness Center Park Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+787 Street Lights, Walk To Shopping 
+788 Park, Playground, Sidewalks, Street Lights, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+789 Fitness Center Gated Guest Lodging Park Pool Sidewalks Walk To Schools Walk To Shopping 
+790 Clubhouse Fitness Center Gated Golf Lake Park Pool Tennis Court(s) Walk To Schools Walk To Shopping 
+791 Clubhouse Fitness Center Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+792 Clubhouse Guest Lodging Fitness Center Pool Sidewalks Street Lights Tennis Court(s) Walk To Shopping 
+793 Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+794 Clubhouse, Gated, Fitness Center, Pool, Sidewalks, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+795 Playground Sidewalks 
+796 Clubhouse Fitness Center Lake Pool Sidewalks Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+797 Clubhouse Gated Pool Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+798 Clubhouse Pool Walk To Schools 
+799 Pool Sidewalks Walk To Public Transit Walk To Schools 
+800 Gated Fitness Center Pool Walk To Public Transit Walk To Schools Walk To Shopping 
+801 Clubhouse, Park, Pool, Walk To Public Transit, Walk To Shopping 
+802 Clubhouse Fitness Center Gated Pool Tennis Court(s) Walk To Public Transit 
+803 Clubhouse Fitness Center Pool Sidewalks Walk To Schools 
+804 Park Playground Walk To Schools Walk To Shopping 
+805 Park Pool Street Lights Tennis Court(s) Walk To Shopping 
+806 Fitness Center, Street Lights, Walk To Public Transit, Walk To Shopping 
+807 Clubhouse Lake Park Fitness Center Playground Pool Sidewalks Street Lights Tennis Court(s) 
+808 Park, Playground, Sidewalks, Walk To Public Transit 
+809 Fitness Center Pool Sidewalks Tennis Court(s) Walk To Shopping 
+810 Clubhouse Lake Street Lights Tennis Court(s) 
+811 Clubhouse Fitness Center Guest Lodging Pool Walk To Public Transit Walk To Schools Walk To Shopping 
+812 Gated Park Playground Street Lights 
+813 Sidewalks Street Lights Walk To Schools 
+814 Golf Park Walk To Public Transit Walk To Schools Walk To Shopping 
+815 Clubhouse Gated 
+816 Fitness Center Gated Pool Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+817 Gated, Pool 
+818 Clubhouse Sidewalks Pool 
+819 Clubhouse Fitness Center Gated Park Pool 
+820 Walk To Shopping Street Lights Sidewalks Park 
+821 Clubhouse Fitness Center Pool Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+822 Clubhouse Playground Tennis Court(s) 
+823 Pool Walk To Public Transit Walk To Shopping 
+824 Clubhouse, Gated, Fitness Center, Pool, Street Lights, Walk To Public Transit, Walk To Shopping 
+825 Clubhouse Playground Sidewalks Street Lights Walk To Shopping 
+826 Pool, Street Lights, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+827 Gated Guest Lodging Fitness Center Pool Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+828 Gated Fitness Center Pool Street Lights Tennis Court(s) Walk To Public Transit Walk To Shopping 
+829 Park Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Public Transit 
+830 Park Playground Sidewalks Street Lights Walk To Shopping 
+831 Golf Park Playground Sidewalks Street Lights Tennis Court(s) Walk To Public Transit Walk To Shopping 
+832 Playground Pool Tennis Court(s) Walk To Shopping 
+833 Street Lights Walk To Public Transit Walk To Shopping 
+834 Pool, Sidewalks, Street Lights, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+835 Clubhouse Park Fitness Center Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+836 Clubhouse Gated Pool Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+837 Clubhouse Park Fitness Center Pool Sidewalks Walk To Public Transit Walk To Shopping 
+838 Gated, Playground, Pool, Sidewalks, Street Lights, Swim Team, Tennis Court(s) 
+839 Clubhouse, Pool, Walk To Public Transit, Walk To Shopping 
+840 Park Fitness Center Pool Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+841 Fitness Center, Pool, Street Lights 
+842 Fitness Center, Playground, Sidewalks, Walk To Public Transit 
+843 Clubhouse Pool Walk To Schools Walk To Shopping 
+844 Clubhouse Park Fitness Center Playground Pool Racquetball Sidewalks Street Lights Tennis Court(s) 
+845 Gated, Guest Lodging, Fitness Center, Pool, Street Lights, Walk To Public Transit, Walk To Shopping 
+846 Clubhouse Gated Park Fitness Center Pool Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+847 Clubhouse Golf Park 
+848 Park Playground Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+849 Golf, Pool, Street Lights, Tennis Court(s) 
+850 Playground Street Lights Tennis Court(s) Walk To Public Transit 
+851 Gated Park Pool Walk To Public Transit Walk To Schools Walk To Shopping 
+852 Gated Pool Tennis Court(s) Walk To Public Transit Walk To Shopping 
+853 Park Playground Street Lights Walk To Schools 
+854 Clubhouse Fitness Center Gated Park Pool Sidewalks 
+855 Clubhouse Playground Pool Street Lights Swim Team Tennis Court(s) Walk To Shopping 
+856 Gated Walk To Shopping 
+857 Clubhouse, Gated, Park, Fitness Center, Pool 
+858 Clubhouse Park Pool Sidewalks Street Lights Walk To Shopping 
+859 Clubhouse Gated Fitness Center Playground Pool Walk To Shopping 
+860 Clubhouse, Park, Sidewalks, Street Lights, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+861 Clubhouse Pool Tennis Court(s) 
+862 Lake Park Pool 
+863 Fitness Center Gated Park Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+864 Clubhouse Park Fitness Center Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Shopping 
+865 Lake Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+866 Clubhouse Fitness Center Pool Sidewalks Walk To Public Transit 
+867 Clubhouse Fitness Center Pool Sidewalks Street Lights Walk To Public Transit 
+868 Playground Pool Sidewalks Swim Team Tennis Court(s) Walk To Schools 
+869 Park Playground Tennis Court(s) Walk To Shopping 
+870 Boat/Camper/Van Prkg Clubhouse Gated Playground Pool 
+871 Clubhouse Gated Fitness Center Pool Street Lights Walk To Public Transit Walk To Shopping 
+872 Golf Playground 
+873 Clubhouse Fitness Center Gated Pool Racquetball Tennis Court(s) Walk To Public Transit Walk To Shopping 
+874 Clubhouse Gated Playground Pool Sidewalks Street Lights Tennis Court(s) 
+875 Clubhouse Fitness Center Park Pool Walk To Public Transit Walk To Shopping 
+876 Clubhouse Fitness Center Pool Walk To Shopping 
+877 Clubhouse Gated Playground Pool 
+878 Clubhouse Golf Park Fitness Center Playground Pool Tennis Court(s) Walk To Public Transit 
+879 Lake Park Playground Pool Tennis Court(s) Walk To Schools Walk To Shopping Shared Dock 
+880 Golf, Lake, Tennis Court(s) 
+881 Clubhouse Playground Pool Sidewalks Tennis Court(s) Walk To Shopping 
+882 Clubhouse Pool Sidewalks Street Lights Tennis Court(s) 
+883 Clubhouse Fitness Center Walk To Public Transit Pool Walk To Shopping Sidewalks Street Lights 
+884 Park Playground Sidewalks Street Lights Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+885 Gated Park Playground Street Lights Walk To Public Transit Walk To Shopping 
+886 Clubhouse Park Playground 
+887 Clubhouse Guest Lodging Fitness Center Pool Walk To Public Transit Walk To Schools Walk To Shopping 
+888 Park Street Lights 
+889 Gated, Park, Pool 
+890 Fitness Center Park Pool 
+891 Clubhouse Lake Park Playground Street Lights 
+892 Walk To Shopping Sidewalks Street Lights 
+893 Pool Sidewalks Walk To Schools Walk To Shopping 
+894 Park Pool Tennis Court(s) Walk To Schools 
+895 Pool Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+896 Clubhouse Park Walk To Public Transit Walk To Schools Walk To Shopping 
+897 Clubhouse Gated Fitness Center Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+898 Clubhouse, Gated, Golf, Park, Playground 
+899 Park Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+900 Fitness Center Street Lights Walk To Public Transit Walk To Shopping 
+901 Clubhouse Fitness Center Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Shopping 
+902 Park Sidewalks Walk To Public Transit Walk To Shopping 
+903 Gated Street Lights Walk To Public Transit 
+904 Park, Playground, Pool, Street Lights, Walk To Public Transit, Walk To Shopping 
+905 Playground Sidewalks Swim Team Tennis Court(s) 
+906 Airport/Runway Golf Park Playground Sidewalks Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+907 Clubhouse Lake Walk To Schools Walk To Shopping 
+908 Gated Pool Sidewalks Street Lights 
+909 Clubhouse Golf Walk To Schools Walk To Shopping 
+910 Clubhouse Pool Swim Team Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+911 Gated Playground Pool Sidewalks Walk To Shopping 
+912 Boat/Camper/Van Prkg Park Playground 
+913 Park, Street Lights 
+914 Playground Street Lights Walk To Shopping 
+915 Clubhouse Lake Playground Pool Sidewalks Tennis Court(s) Walk To Schools 
+916 Walk To Public Transit Walk To Schools 
+917 Lake, Playground, Pool, Street Lights, Tennis Court(s) 
+918 Clubhouse Playground Pool Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+919 Gated Pool Sidewalks Walk To Public Transit Walk To Shopping 
+920 Clubhouse, Fitness Center, Pool, Street Lights, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+921 Park Playground Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+922 Clubhouse Park Playground Pool Sidewalks Street Lights Swim Team Tennis Court(s) Walk To Schools Walk To Shopping 
+923 Clubhouse Pool Street Lights Walk To Shopping 
+924 Playground Sidewalks Tennis Court(s) Walk To Schools Walk To Shopping 
+925 Lake Park Playground Sidewalks Street Lights 
+926 Sidewalks Swim Team Walk To Schools Walk To Shopping 
+927 Clubhouse, Park, Playground, Pool, Swim Team, Tennis Court(s), Walk To Schools, Walk To Shopping 
+928 Park, Playground, Pool, Sidewalks, Street Lights 
+929 Playground, Sidewalks, Walk To Shopping 
+930 Clubhouse Pool Sidewalks Street Lights Tennis Court(s) Walk To Shopping 
+931 Clubhouse, Gated, Park, Fitness Center, Pool, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+932 Clubhouse Gated Golf Lake Marina Playground Pool Tennis Court(s) 
+933 None Sidewalks Street Lights Walk To Shopping 
+934 Clubhouse Pool Sidewalks Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+935 Lake Playground Pool Street Lights Tennis Court(s) 
+936 Clubhouse Gated Guest Lodging Park Fitness Center Pool Sidewalks Street Lights 
+937 Gated Playground Pool Tennis Court(s) 
+938 Clubhouse Gated Golf Fitness Center Pool Sidewalks Street Lights Tennis Court(s) Tennis Team 
+939 Clubhouse Golf Fitness Center Pool Sidewalks Street Lights Swim Team Tennis Court(s) 
+940 Playground Street Lights Walk To Public Transit 
+941 Park, Walk To Public Transit 
+942 Playground Sidewalks Walk To Shopping 
+943 Clubhouse Gated Park 
+944 Clubhouse Gated Pool Walk To Shopping 
+945 Park Playground Pool Sidewalks Street Lights Walk To Schools Walk To Shopping 
+946 Clubhouse Lake Park Playground Pool Sidewalks Street Lights Swim Team Tennis Court(s) 
+947 Clubhouse Fitness Center Park Playground Pool Street Lights Tennis Court(s) 
+948 Clubhouse Gated Fitness Center Pool Sidewalks Walk To Public Transit Walk To Shopping 
+949 Clubhouse Playground Pool Sidewalks Tennis Court(s) Walk To Schools Walk To Shopping 
+950 Gated Playground Walk To Public Transit Walk To Shopping 
+951 Playground Pool Walk To Schools Walk To Shopping 
+952 Park Pool Walk To Public Transit Walk To Shopping 
+953 Clubhouse Playground Sidewalks 
+954 Clubhouse Pool Street Lights Walk To Public Transit 
+955 Clubhouse Fitness Center Gated Park Pool Walk To Public Transit Walk To Schools Walk To Shopping 
+956 Clubhouse Gated Fitness Center Pool Walk To Shopping 
+957 Lake Playground Pool Sidewalks Street Lights 
+958 Clubhouse, Gated, Fitness Center, Pool, Street Lights 
+959 Clubhouse, Gated, Park, Street Lights, Walk To Public Transit, Walk To Shopping 
+960 Lake Playground Pool Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+961 Clubhouse Fitness Center Gated Walk To Public Transit Walk To Schools Walk To Shopping 
+962 Park, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+963 Clubhouse, Playground 
+964 Pool, Walk To Public Transit 
+965 Clubhouse Fitness Center Playground Pool Street Lights Tennis Court(s) Walk To Shopping 
+966 Gated Walk To Public Transit Walk To Shopping 
+967 Gated Park Playground Pool Sidewalks Walk To Shopping 
+968 None Street Lights Walk To Shopping 
+969 Clubhouse, Playground, Pool, Sidewalks, Street Lights, Tennis Court(s) 
+970 Clubhouse Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+971 Park Pool Sidewalks Street Lights 
+972 Lake Street Lights Walk To Public Transit Walk To Shopping 
+973 Lake Park Walk To Shopping 
+974 Park Street Lights Walk To Public Transit Walk To Shopping 
+975 Clubhouse Golf Lake Marina 
+976 Clubhouse, Golf, Lake, Pool, Sidewalks, Street Lights 
+977 Fitness Center, Pool 
+978 Clubhouse Fitness Center Gated Pool Street Lights Walk To Public Transit Walk To Shopping 
+979 Clubhouse Gated Golf Lake Playground Pool Sidewalks Street Lights Tennis Court(s) 
+980 Guest Lodging Park Pool Sidewalks Street Lights 
+981 Gated Park Sidewalks Walk To Shopping 
+982 Clubhouse Fitness Center Gated Pool Sidewalks Street Lights Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+983 Lake Playground Sidewalks Walk To Schools Walk To Shopping 
+984 Clubhouse Lake 
+985 Pool Sidewalks Street Lights Walk To Shopping 
+986 Pool Sidewalks Tennis Court(s) Walk To Public Transit 
+987 Playground Pool Sidewalks Tennis Court(s) Walk To Schools Walk To Shopping 
+988 Clubhouse Gated Pool Tennis Court(s) Walk To Public Transit Walk To Shopping 
+989 Clubhouse Pool Sidewalks Tennis Court(s) Walk To Public Transit Walk To Shopping 
+990 Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Schools 
+991 Clubhouse Playground Pool Tennis Court(s) Walk To Shopping 
+992 Lake Pool Street Lights 
+993 Sidewalks, Street Lights, Walk To Public Transit, Walk To Shopping 
+994 Clubhouse, Guest Lodging, Fitness Center, Pool, Sidewalks, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+995 Gated Fitness Center Pool Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+996 Clubhouse Gated Pool Sidewalks Street Lights Walk To Schools Walk To Shopping 
+997 Street Lights Tennis Court(s) 
+998 Clubhouse Playground Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+999 Gated Fitness Center Pool Sidewalks Walk To Public Transit Walk To Shopping 
+1000 Gated Park Fitness Center Pool Walk To Public Transit 
+1001 Clubhouse Golf Lake Pool Tennis Court(s) 
+1002 Gated Park Fitness Center Pool Sidewalks Walk To Public Transit Walk To Shopping 
+1003 Playground Sidewalks Street Lights Walk To Schools 
+1004 Fitness Center Gated Golf Park Playground Pool Sidewalks Street Lights Swim Team Tennis Court(s) 
+1005 Playground Pool Street Lights Walk To Shopping 
+1006 Park Playground Walk To Public Transit Walk To Schools 
+1007 Walk To Public Transit 
+1008 Clubhouse Playground Pool Tennis Court(s) 
+1009 Clubhouse Gated Playground Pool Tennis Court(s) Walk To Shopping 
+1010 Park Playground Walk To Schools 
+1011 Clubhouse Fitness Center Playground Pool Sidewalks Street Lights Swim Team Tennis Court(s) Walk To Schools Walk To Shopping 
+1012 Lake Park Pool Street Lights Tennis Court(s) Walk To Shopping 
+1013 Park, Pool, Sidewalks 
+1014 Park Playground Street Lights Walk To Shopping 
+1015 Park Playground Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+1016 Clubhouse Golf Lake Park Fitness Center Playground Pool Sidewalks Street Lights Tennis Court(s) 
+1017 Clubhouse Golf Lake Playground Street Lights 
+1018 Golf Pool Sidewalks Street Lights Tennis Court(s) Tennis Team Walk To Shopping 
+1019 Park Playground Sidewalks Walk To Public Transit 
+1020 Clubhouse Gated Park Street Lights Walk To Public Transit Walk To Shopping 
+1021 Fitness Center, Pool, Sidewalks 
+1022 Gated Pool Walk To Schools Walk To Shopping 
+1023 Clubhouse Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+1024 Playground, Sidewalks, Street Lights, Walk To Shopping 
+1025 Street Lights, Walk To Public Transit, Walk To Shopping 
+1026 Gated Playground Pool 
+1027 Lake Park Playground Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+1028 Park Walk To Public Transit Walk To Schools 
+1029 Clubhouse, Gated, Guest Lodging, Fitness Center, Walk To Shopping 
+1030 None Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+1031 Clubhouse Gated Fitness Center Pool Sidewalks Street Lights Tennis Court(s) Walk To Public Transit Walk To Shopping 
+1032 Clubhouse Lake Fitness Center Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+1033 Clubhouse Pool Street Lights Tennis Court(s) Walk To Shopping 
+1034 Clubhouse Pool Sidewalks Street Lights Swim Team Tennis Court(s) 
+1035 Playground Pool Sidewalks Street Lights Tennis Court(s) 
+1036 Gated, Street Lights, Walk To Public Transit, Walk To Schools 
+1037 Clubhouse, Sidewalks, Walk To Public Transit, Walk To Shopping 
+1038 Lake Playground Pool Street Lights Swim Team Tennis Court(s) 
+1039 Clubhouse Gated Park Fitness Center Pool 
+1040 Clubhouse Playground Pool Street Lights Tennis Court(s) Walk To Public Transit Walk To Shopping 
+1041 Gated, Sidewalks, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+1042 Playground Pool Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+1043 Clubhouse Gated Golf Lake Fitness Center Pool Street Lights Tennis Court(s) Walk To Schools 
+1044 Clubhouse Gated Golf Playground Pool Street Lights Swim Team Tennis Court(s) 
+1045 Gated Park Sidewalks Street Lights Walk To Schools Walk To Shopping 
+1046 Lake Street Lights 
+1047 Clubhouse, Fitness Center, Playground, Pool, Street Lights, Swim Team, Tennis Court(s), Walk To Shopping 
+1048 Lake Park Street Lights 
+1049 Street Lights Walk To Schools Walk To Shopping 
+1050 Park Playground Sidewalks Street Lights Walk To Schools 
+1051 Clubhouse Fitness Center Pool Walk To Public Transit Walk To Schools Walk To Shopping 
+1052 Park Playground Street Lights Walk To Schools Walk To Shopping 
+1053 Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Schools Walk To Shopping 
+1054 Playground Pool Street Lights Swim Team Tennis Court(s) Walk To Schools Walk To Shopping 
+1055 Gated Park Pool Walk To Schools Walk To Shopping 
+1056 Playground Pool Sidewalks Street Lights Walk To Public Transit 
+1057 Fitness Center Pool Sidewalks Street Lights Walk To Public Transit 
+1058 Clubhouse Playground Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+1059 Park, Sidewalks, Street Lights, Walk To Schools, Walk To Shopping 
+1060 Clubhouse Fitness Center Gated Pool Walk To Public Transit Walk To Shopping 
+1061 Lake Playground Pool Street Lights 
+1062 Gated Pool Street Lights Tennis Court(s) Walk To Shopping 
+1063 None, Street Lights 
+1064 Park Pool Sidewalks Street Lights Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+1065 Gated Park Fitness Center Pool Sidewalks Walk To Public Transit 
+1066 Playground, Sidewalks, Walk To Schools, Walk To Shopping 
+1067 Park Street Lights Walk To Schools 
+1068 Clubhouse Golf Lake Playground Pool Tennis Court(s) Shared Dock 
+1069 Walk To Public Transit, Walk To Schools, Walk To Shopping 
+1070 Playground 
+1071 Gated Park Pool Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+1072 Clubhouse Gated Pool Sidewalks Street Lights Tennis Court(s) Walk To Shopping 
+1073 Lake Sidewalks Street Lights Tennis Court(s) 
+1074 Pool Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+1075 Playground Walk To Schools 
+1076 Gated Fitness Center Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+1077 Park Street Lights Walk To Shopping 
+1078 Clubhouse Fitness Center Gated Walk To Public Transit Walk To Shopping Street Lights Pool 
+1079 Lake Playground Pool Tennis Court(s) 
+1080 Pool Sidewalks Street Lights Walk To Schools Walk To Shopping 
+1081 Park Pool Street Lights Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+1082 Fitness Center Pool Sidewalks Walk To Public Transit Walk To Shopping 
+1083 Clubhouse Fitness Center Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Public Transit Walk To Shopping 
+1084 Sidewalks Street Lights Walk To Public Transit Walk To Schools 
+1085 Gated Lake 
+1086 Clubhouse, Fitness Center, Pool, Sidewalks, Street Lights, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+1087 Lake Playground Pool Walk To Schools Walk To Shopping 
+1088 None, Sidewalks, Street Lights 
+1089 Gated Park Playground Pool Walk To Schools Walk To Shopping 
+1090 Park, Sidewalks 
+1091 Park, Playground, Pool 
+1092 Gated, Park, Sidewalks, Street Lights, Walk To Public Transit, Walk To Schools, Walk To Shopping 
+1093 Park Playground Street Lights Walk To Public Transit Walk To Schools 
+1094 Gated Park Playground Pool Sidewalks Street Lights Walk To Schools Walk To Shopping 
+1095 Clubhouse, Fitness Center, Pool, Sidewalks, Street Lights 
+1096 Clubhouse, Gated, Playground, Pool, Tennis Court(s), Walk To Schools 
+1097 Playground Pool Street Lights Walk To Public Transit Walk To Schools 
+1098 Clubhouse Park Pool Sidewalks Street Lights 
+1099 Gated Park Walk To Schools Walk To Shopping 
+1100 Park Playground Sidewalks Street Lights Walk To Schools Walk To Shopping 
+1101 Clubhouse Fitness Center Sidewalks Walk To Schools Walk To Shopping 
+1102 Fitness Center Pool Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+1103 Clubhouse Gated Fitness Center Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+1104 Clubhouse Gated Park Fitness Center Pool Walk To Public Transit Walk To Shopping 
+1105 Clubhouse Park Pool Sidewalks Street Lights Walk To Schools 
+1106 Sidewalks, Street Lights 
+1107 Clubhouse Gated Sidewalks Street Lights 
+1108 Clubhouse, Lake, Fitness Center, Pool, Street Lights, Tennis Court(s) 
+1109 Clubhouse Playground Pool Street Lights Tennis Court(s) 
+1110 Gated Fitness Center Pool Walk To Public Transit Walk To Shopping 
+1111 Playground Park Golf Walk To Public Transit 
+1112 Park Playground Pool Street Lights Walk To Public Transit Walk To Schools 
+1113 Gated Pool Tennis Court(s) 
+1114 Gated Park Pool Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+1115 Clubhouse Golf Lake Sidewalks Street Lights Tennis Court(s) 
+1116 Clubhouse Gated Fitness Center Street Lights Walk To Public Transit Walk To Shopping 
+1117 Clubhouse Playground Pool Sidewalks Street Lights Swim Team Tennis Court(s) Tennis Team Walk To Schools 
+1118 Clubhouse Fitness Center Pool Walk To Public Transit Walk To Shopping 
+1119 Gated Guest Lodging Fitness Center Pool Walk To Shopping 
+1120 Fitness Center Gated Street Lights Walk To Public Transit Walk To Shopping 
+1121 Playground Pool Sidewalks Swim Team 
+1122 Lake, Street Lights 
+1123 Gated Sidewalks Street Lights Walk To Schools Walk To Shopping 
+1124 Playground Street Lights Walk To Schools 
+1125 Clubhouse Park Fitness Center Playground Pool Sidewalks Tennis Court(s) 
+1126 Playground Pool Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 
+1127 Park, Sidewalks, Street Lights, Walk To Public Transit, Walk To Shopping 
+1128 Fitness Center Pool Sidewalks Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+1129 Clubhouse Lake Playground Pool Sidewalks Street Lights Tennis Court(s) Walk To Schools 
+1130 Golf Street Lights Walk To Schools Walk To Shopping 
+1131 Clubhouse Fitness Center 
+1132 Clubhouse Pool Walk To Public Transit Walk To Shopping 
+1133 Park Sidewalks Street Lights Walk To Schools Walk To Shopping 
+1134 Lake Playground Sidewalks Street Lights Tennis Court(s) 
+1135 Clubhouse Gated Fitness Center Playground Pool Street Lights Tennis Court(s) Walk To Public Transit Walk To Schools Walk To Shopping 
+1136 Clubhouse Playground Pool Sidewalks Street Lights 
+1137 Golf Playground Pool Sidewalks Street Lights Tennis Court(s) 
+1138 Gated Walk To Schools Walk To Shopping 
+1139 Playground Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+1140 Gated Sidewalks Street Lights Walk To Schools 
+1141 Playground Pool Tennis Court(s) Walk To Schools Walk To Shopping 
+1142 Clubhouse Gated Pool Sidewalks Street Lights Tennis Court(s) 
+1143 Park, Fitness Center, Sidewalks, Street Lights, Walk To Public Transit 
+1144 Fitness Center Playground Street Lights Tennis Court(s) Walk To Public Transit Walk To Shopping 
+1145 Lake Pool Sidewalks Street Lights Tennis Court(s) 
+1146 Gated Fitness Center Pool Sidewalks Street Lights Walk To Public Transit 
+1147 Clubhouse Gated Pool Street Lights Walk To Public Transit Walk To Shopping 
+1148 Sidewalks Walk To Public Transit Walk To Shopping 
+1149 Clubhouse Playground Pool Sidewalks Tennis Court(s) 
+1150 Fitness Center Pool Tennis Court(s) 
+1151 Clubhouse Pool Sidewalks Walk To Shopping 
+1152 Gated Pool Sidewalks Street Lights Walk To Public Transit Walk To Shopping 
+1153 Gated Golf 
+1154 Gated Playground Pool Street Lights Walk To Public Transit Walk To Schools Walk To Shopping 
+1155 Park Street Lights Walk To Schools Walk To Shopping 
+1156 Clubhouse Golf Lake Pool Sidewalks Street Lights 
+1157 Gated Playground Sidewalks Walk To Public Transit Walk To Schools Walk To Shopping 

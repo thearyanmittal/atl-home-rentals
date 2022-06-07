@@ -1,0 +1,550 @@
+0 Carport Side/Rear Entrance 
+1 Kitchen Level Side/Rear Entrance 
+2 Attached Basement Garage Door Opener Side/Rear Entrance 
+3 Attached, Garage Door Opener, Garage, Kitchen Level, Parking Pad, Side/Rear Entrance 
+4 Assigned Garage Door Opener Garage 
+5 Attached Carport Garage Guest Off Street Over 1 Space per Unit 
+6 Basement Parking Pad 
+7 Parking Pad Side/Rear Entrance Storage Off Street 
+8 Attached Garage Garage Door Opener Kitchen Level Storage 
+9 Attached Garage Door Opener Garage Guest Kitchen Level RV/Boat Parking Side/Rear Entrance Storage 
+10 Garage Door Opener Garage Guest 
+11 Attached Garage Door Opener Garage Side/Rear Entrance 
+12 Attached Garage Door Opener Garage Guest Kitchen Level Storage 
+13 Assigned Garage Door Opener Garage Off Street 
+14 Attached Garage Garage Door Opener Kitchen Level Side/Rear Entrance Storage 
+15 Attached Garage Garage Door Opener Kitchen Level 
+16 Attached Garage Kitchen Level Off Street Over 1 Space per Unit 
+17 Attached Garage Door Opener Garage Kitchen Level Parking Pad Side/Rear Entrance 
+18 Detached Garage Kitchen Level 
+19 Attached Garage Door Opener Basement Kitchen Level Storage 
+20 Garage, Guest 
+21 Off Street Attached Kitchen Level Side/Rear Entrance Garage Parking Pad 
+22 Carport Garage Off Street Storage 
+23 Attached, Garage Door Opener, Garage, Kitchen Level, Side/Rear Entrance, Storage 
+24 Assigned Garage Garage Door Opener 
+25 Garage Garage Door Opener Parking Pad 
+26 Garage Door Opener Detached Garage Kitchen Level 
+27 Attached, Carport, Kitchen Level 
+28 Attached Carport Garage 
+29 Attached Garage Guest RV/Boat Parking Side/Rear Entrance 
+30 Garage Door Opener Carport Detached Garage 
+31 Garage Garage Door Opener Kitchen Level Off Street Side/Rear Entrance 
+32 Detached, Kitchen Level, Side/Rear Entrance 
+33 Assigned Basement Garage Garage Door Opener 
+34 Attached Garage Garage Door Opener Side/Rear Entrance 
+35 Attached Garage Door Opener Guest Kitchen Level Off Street Over 1 Space per Unit 
+36 Attached Garage Door Opener Basement Garage 
+37 Attached, Garage, None 
+38 Attached Basement Garage Parking Pad Side/Rear Entrance 
+39 Attached Garage Kitchen Level Side/Rear Entrance 
+40 Garage Door Opener, Detached 
+41 Garage Kitchen Level Parking Pad Storage Over 1 Space per Unit 
+42 Attached Garage Door Opener Garage Parking Pad Off Street Over 1 Space per Unit 
+43 Attached Carport Storage Off Street 
+44 Attached Kitchen Level Side/Rear Entrance 
+45 Assigned Carport Side/Rear Entrance Over 1 Space per Unit 
+46 Attached Detached Garage 
+47 Carport Garage Parking Pad 
+48 Garage Door Opener, Guest, Parking Pad, Side/Rear Entrance, Storage 
+49 Assigned Kitchen Level Parking Pad 
+50 Assigned Basement 
+51 Attached Garage Door Opener Garage Kitchen Level Storage 
+52 Garage Garage Door Opener Kitchen Level Off Street 
+53 Assigned, Attached, Garage Door Opener, Basement, Garage, Side/Rear Entrance 
+54 Assigned Off Street 
+55 Assigned Garage Door Opener 
+56 Attached Garage Parking Pad Storage 
+57 Garage Door Opener, Garage, Guest, Kitchen Level, Side/Rear Entrance 
+58 Assigned, Attached, Basement 
+59 Attached Garage Kitchen Level 
+60 Garage Door Opener Detached Garage 
+61 Assigned Carport Kitchen Level Off Street 
+62 Guest Parking Pad Side/Rear Entrance 
+63 Attached Garage Door Opener Garage Kitchen Level Parking Pad Side/Rear Entrance Off Street 
+64 Attached Garage Door Opener Garage Parking Pad Off Street 
+65 Garage Door Opener, Basement, Garage 
+66 Garage Door Opener Garage Guest Kitchen Level Side/Rear Entrance 
+67 Detached Off Street 
+68 Attached Garage Door Opener Garage Guest Side/Rear Entrance 
+69 Attached Carport Parking Pad 
+70 Attached Garage 
+71 Attached Garage Door Opener Basement Garage Storage 
+72 Attached Basement Garage Door Opener 
+73 Basement Carport Garage Garage Door Opener 
+74 Attached Garage Door Opener Guest 
+75 Carport Detached Kitchen Level 
+76 Garage Door Opener, Garage, Kitchen Level 
+77 Attached Garage Door Opener Garage Kitchen Level Over 1 Space per Unit 
+78 Assigned Garage Door Opener Garage Basement 
+79 Attached Garage Door Opener Garage Parking Pad Over 1 Space per Unit 
+80 Garage Garage Door Opener Guest Kitchen Level 
+81 Garage Door Opener Basement Garage Storage 
+82 Carport Guest Kitchen Level 
+83 Garage Door Opener Garage Kitchen Level 
+84 Detached Garage 
+85 Off Street Parking Pad 
+86 Assigned Kitchen Level Off Street Parking Pad 
+87 Garage Guest 
+88 Garage Door Opener Basement 
+89 Kitchen Level Parking Pad Side/Rear Entrance 
+90 Off Street Guest 
+91 Attached Garage Guest Side/Rear Entrance 
+92 Attached Carport Off Street Storage 
+93 Attached Garage Door Opener Garage Guest 
+94 Garage Side/Rear Entrance Storage 
+95 Garage Door Opener, Garage, Kitchen Level, Side/Rear Entrance 
+96 Assigned Basement Garage Guest Off Street 
+97 Attached Garage Door Opener Parking Pad 
+98 Attached Garage Garage Door Opener Off Street 
+99 Assigned Garage Door Opener Basement 
+100 Parking Pad Side/Rear Entrance 
+101 Attached, Carport, Parking Pad 
+102 Garage Kitchen Level Parking Pad Side/Rear Entrance Storage Off Street 
+103 Garage Door Opener, Kitchen Level 
+104 Garage Door Opener, Side/Rear Entrance 
+105 Attached, Basement, Garage, Parking Pad, Side/Rear Entrance 
+106 Attached, Garage Door Opener, Garage, Kitchen Level, Side/Rear Entrance 
+107 Attached Garage Off Street 
+108 Attached Garage Kitchen Level Off Street 
+109 Carport 
+110 Assigned Parking Pad Over 1 Space per Unit 
+111 Over 1 Space per Unit Attached Garage Door Opener Garage Kitchen Level 
+112 Parking Pad Storage 
+113 Garage Door Opener Detached 
+114 Attached Basement Garage Garage Door Opener 
+115 Assigned Attached Basement 
+116 Attached Garage Garage Door Opener Kitchen Level Side/Rear Entrance 
+117 Attached Garage Parking Pad Side/Rear Entrance 
+118 Attached Garage Garage Door Opener Kitchen Level RV/Boat Parking 
+119 Garage Door Opener Basement Garage RV/Boat Parking Side/Rear Entrance 
+120 Basement 
+121 Garage Door Opener Garage Parking Pad 
+122 Assigned Kitchen Level Storage Over 1 Space per Unit 
+123 Side/Rear Entrance Off Street Over 1 Space per Unit 
+124 Assigned, Garage 
+125 Attached Carport 
+126 Assigned Attached Kitchen Level Off Street Parking Pad 
+127 Assigned Garage Side/Rear Entrance 
+128 Attached Carport Detached Kitchen Level 
+129 Attached Garage Garage Door Opener 
+130 Carport Garage Off Street 
+131 Attached, Garage, Side/Rear Entrance 
+132 Attached Garage Door Opener Side/Rear Entrance 
+133 Attached Garage Garage Door Opener Side/Rear Entrance Storage 
+134 Garage Garage Door Opener Kitchen Level Side/Rear Entrance 
+135 Attached Guest Kitchen Level 
+136 Attached Garage Door Opener Garage 
+137 Parking Pad Parking Shed 
+138 Garage Door Opener, Garage, Guest 
+139 Assigned Garage Door Opener Garage Kitchen Level 
+140 Garage Door Opener Detached Garage Off Street 
+141 Attached Kitchen Level 
+142 Carport Garage Garage Door Opener Guest Kitchen Level 
+143 Assigned Detached Garage Off Street Side/Rear Entrance 
+144 Attached, Garage Door Opener, Garage, Kitchen Level, Parking Pad 
+145 Assigned Basement Garage Guest 
+146 Carport Detached Parking Pad Parking Shed 
+147 Garage Door Opener, Garage, Kitchen Level, Off Street, Parking Pad 
+148 Attached Garage Side/Rear Entrance 
+149 Attached Garage Door Opener Kitchen Level 
+150 Attached Garage Door Opener Garage Kitchen Level Off Street 
+151 Detached, Parking Pad 
+152 Garage Door Opener Garage Off Street 
+153 Kitchen Level RV/Boat Parking 
+154 Garage Off Street 
+155 Attached, Basement, Garage, Side/Rear Entrance 
+156 Off Street, Over 1 Space per Unit, Parking Pad 
+157 Carport Kitchen Level Off Street Parking Pad 
+158 Attached, Garage Door Opener, Kitchen Level, Parking Pad 
+159 Assigned Garage Door Opener Parking Shed Off Street 
+160 Over 1 Space per Unit Attached Garage Door Opener Garage 
+161 Basement, Garage, Side/Rear Entrance 
+162 Attached Garage Off Street Over 1 Space per Unit 
+163 Attached Garage Door Opener Basement Garage Parking Pad 
+164 Parking Shed 
+165 Carport Kitchen Level Over 1 Space per Unit 
+166 Kitchen Level, Off Street 
+167 Guest Kitchen Level 
+168 Attached Garage Door Opener Garage Parking Pad Side/Rear Entrance Basement 
+169 Assigned Garage Door Opener Guest 
+170 Attached Garage Door Opener Garage Kitchen Level Parking Pad 
+171 Assigned Kitchen Level Parking Pad Off Street Over 1 Space per Unit 
+172 Attached, Garage Door Opener, Garage, Side/Rear Entrance 
+173 Attached Garage Door Opener Basement Garage Side/Rear Entrance 
+174 Detached Garage Kitchen Level Storage 
+175 Over 1 Space per Unit Guest Parking Pad 
+176 Attached Garage Door Opener Garage Over 1 Space per Unit 
+177 Attached Garage Door Opener Garage Parking Pad Side/Rear Entrance Off Street 
+178 Attached Garage Kitchen Level Side/Rear Entrance Over 1 Space per Unit 
+179 Attached Garage Door Opener Garage Storage Basement 
+180 Garage Guest Storage Off Street 
+181 Assigned, Garage Door Opener 
+182 Attached Garage Door Opener Garage Guest Kitchen Level Off Street 
+183 Attached, Garage Door Opener, Garage, Parking Pad, Side/Rear Entrance 
+184 Garage Kitchen Level Storage 
+185 Garage Door Opener Detached Garage Guest Kitchen Level Off Street Parking Pad Side/Rear Entrance 
+186 Assigned, Parking Pad 
+187 Attached Garage Door Opener Off Street Parking Pad 
+188 Kitchen Level Over 1 Space per Unit 
+189 Carport Detached Garage Garage Door Opener Kitchen Level 
+190 Assigned Garage Kitchen Level Side/Rear Entrance 
+191 Assigned Garage Basement 
+192 Assigned Attached Carport Garage 
+193 Assigned Attached Garage Kitchen Level 
+194 Garage Door Opener Garage Parking Pad Off Street 
+195 Carport Garage Garage Door Opener Kitchen Level 
+196 Garage Garage Door Opener 
+197 None 
+198 Garage Kitchen Level 
+199 Attached Garage Kitchen Level RV/Boat Parking Side/Rear Entrance Storage 
+200 Garage Door Opener Attached Garage 
+201 Over 1 Space per Unit Parking Pad 
+202 Carport Off Street 
+203 Garage Door Opener Basement Garage 
+204 Garage Door Opener Basement Garage Side/Rear Entrance 
+205 Assigned Attached Garage Door Opener Garage Guest Storage 
+206 Garage Door Opener Garage Kitchen Level Off Street Over 1 Space per Unit Parking Pad 
+207 Basement Garage Garage Door Opener Kitchen Level 
+208 Garage Door Opener Guest Parking Pad Side/Rear Entrance Storage 
+209 Attached Garage Door Opener Garage Guest Kitchen Level 
+210 Garage Door Opener Garage Kitchen Level RV/Boat Parking 
+211 Off Street Over 1 Space per Unit Parking Pad 
+212 Attached Garage Door Opener Kitchen Level Side/Rear Entrance 
+213 Attached, Garage, Parking Pad 
+214 Garage Door Opener Basement Garage Guest Side/Rear Entrance 
+215 Garage Garage Door Opener Side/Rear Entrance 
+216 Attached Carport Guest Kitchen Level 
+217 Side/Rear Entrance Off Street 
+218 Kitchen Level Storage 
+219 Assigned, Garage, Guest 
+220 Garage Attached 
+221 Detached, Garage, Side/Rear Entrance 
+222 Attached Garage Door Opener Garage Off Street 
+223 Attached 
+224 Guest, Parking Pad, Storage 
+225 Detached Parking Pad Parking Shed 
+226 Assigned Carport 
+227 Assigned Garage Door Opener Basement Garage 
+228 Assigned Garage Door Opener Basement Guest 
+229 Garage Door Opener, Kitchen Level, Side/Rear Entrance 
+230 Detached Garage Kitchen Level Side/Rear Entrance 
+231 Attached Garage Kitchen Level Storage 
+232 Basement, Garage 
+233 Assigned, Garage Door Opener, Basement 
+234 Carport Kitchen Level 
+235 Assigned, Attached, Garage, Guest, Side/Rear Entrance 
+236 Attached Garage Door Opener Garage Parking Pad 
+237 Garage Door Opener, Garage, RV/Boat Parking, Side/Rear Entrance 
+238 Detached Garage Garage Door Opener Off Street 
+239 Garage Door Opener Detached Parking Pad Side/Rear Entrance 
+240 Parking Pad Off Street 
+241 Attached, Garage Door Opener, Basement, Garage, Off Street, Side/Rear Entrance 
+242 Assigned Attached Guest 
+243 Garage Door Opener Side/Rear Entrance 
+244 Attached Storage 
+245 Attached Garage Door Opener Garage Guest Kitchen Level Off Street Storage 
+246 Attached, Basement, Garage 
+247 Garage, Kitchen Level, Side/Rear Entrance 
+248 Carport Detached Garage Garage Door Opener 
+249 Assigned Storage 
+250 Garage Door Opener Parking Pad Side/Rear Entrance 
+251 Garage Parking Pad Off Street 
+252 Attached Garage Parking Pad 
+253 Garage Door Opener Garage Kitchen Level Side/Rear Entrance Storage 
+254 Attached Garage Kitchen Level Parking Pad 
+255 Kitchen Level Parking Pad 
+256 Kitchen Level Off Street Side/Rear Entrance 
+257 Garage Door Opener Garage Kitchen Level Off Street 
+258 Assigned Over 1 Space per Unit 
+259 Assigned, Guest 
+260 Attached, Kitchen Level, Side/Rear Entrance 
+261 Attached Garage Garage Door Opener Kitchen Level Off Street 
+262 Assigned Attached 
+263 Detached Parking Pad 
+264 Carport Garage 
+265 Guest 
+266 Detached Garage Garage Door Opener 
+267 Garage Door Opener Garage Guest Kitchen Level Off Street RV/Boat Parking 
+268 Attached Carport Kitchen Level Off Street 
+269 Carport Parking Pad 
+270 Assigned Detached Garage Off Street 
+271 Parking Pad Side/Rear Entrance Off Street 
+272 Basement, Garage, Guest, Off Street, Side/Rear Entrance 
+273 Parking Pad 
+274 Garage Garage Door Opener Parking Pad Side/Rear Entrance 
+275 Attached Garage Kitchen Level Over 1 Space per Unit 
+276 Garage Door Opener Garage Guest Kitchen Level Storage 
+277 Garage Door Opener 
+278 Attached Garage Door Opener Kitchen Level Parking Pad 
+279 Assigned Garage Garage Door Opener Off Street 
+280 Assigned Off Street Parking Pad 
+281 Carport Side/Rear Entrance Off Street 
+282 Garage Door Opener Basement Guest 
+283 Assigned Basement Side/Rear Entrance 
+284 Assigned, Attached, Basement, Garage 
+285 Attached Garage Side/Rear Entrance Basement 
+286 Attached Carport Guest Off Street Parking Pad Side/Rear Entrance Storage Basement 
+287 Garage Door Opener Garage Side/Rear Entrance 
+288 Attached, Garage Door Opener, Basement, Garage, Storage 
+289 Attached Garage Garage Door Opener Kitchen Level Parking Pad 
+290 Attached, Garage, Kitchen Level 
+291 Assigned, Attached 
+292 Garage Kitchen Level Side/Rear Entrance 
+293 Assigned Garage Kitchen Level Off Street 
+294 Assigned Garage Guest Over 1 Space per Unit 
+295 Garage Door Opener, Garage 
+296 Carport Guest Kitchen Level Side/Rear Entrance Storage 
+297 Carport Guest 
+298 Garage Door Opener Kitchen Level 
+299 Attached Garage Door Opener Garage Kitchen Level 
+300 Kitchen Level Off Street 
+301 Assigned Garage Kitchen Level 
+302 Assigned Garage Off Street 
+303 Detached 
+304 Parking Pad Over 1 Space per Unit 
+305 Garage Side/Rear Entrance 
+306 Carport Detached Parking Pad Off Street 
+307 Assigned Parking Pad 
+308 Attached Garage RV/Boat Parking 
+309 Carport Kitchen Level Parking Pad 
+310 Carport Kitchen Level Off Street 
+311 Garage Parking Pad 
+312 Attached, Garage Door Opener, Garage, Guest 
+313 Detached Side/Rear Entrance Off Street Over 1 Space per Unit 
+314 Assigned Parking Pad Side/Rear Entrance 
+315 Kitchen Level Off Street Over 1 Space per Unit 
+316 Attached Basement Guest Kitchen Level RV/Boat Parking Side/Rear Entrance Storage 
+317 Carport Detached Off Street 
+318 Attached Carport Kitchen Level Side/Rear Entrance 
+319 Attached Detached Garage Parking Pad 
+320 Garage Door Opener, Garage, Parking Pad 
+321 Garage Door Opener Garage Side/Rear Entrance Basement 
+322 Assigned Attached Garage Over 1 Space per Unit Storage 
+323 Carport Basement Garage Storage 
+324 Garage Door Opener Garage Guest Storage 
+325 Kitchen Level, Parking Pad, Side/Rear Entrance 
+326 Attached, Garage Door Opener, Garage, Kitchen Level 
+327 Guest Parking Pad Over 1 Space per Unit 
+328 Attached Garage Kitchen Level Parking Pad Side/Rear Entrance Off Street 
+329 Garage Door Opener Parking Pad 
+330 Over 1 Space per Unit Garage Door Opener Garage Kitchen Level 
+331 Attached, Garage Door Opener, Garage, Side/Rear Entrance, Storage 
+332 Attached Garage Door Opener Detached Garage Kitchen Level Side/Rear Entrance 
+333 Assigned, Basement 
+334 Off Street 
+335 Carport Detached 
+336 Garage Door Opener Detached Garage Storage 
+337 Attached Basement Garage Side/Rear Entrance 
+338 Attached, Kitchen Level 
+339 Attached, Garage Door Opener, Kitchen Level, Side/Rear Entrance 
+340 Assigned Attached Garage Guest Side/Rear Entrance 
+341 Assigned Attached Garage 
+342 Garage Door Opener Carport Garage Kitchen Level 
+343 Garage 
+344 Attached Garage Door Opener 
+345 Assigned Detached 
+346 Assigned Garage 
+347 Carport Parking Pad Side/Rear Entrance 
+348 Assigned Garage Over 1 Space per Unit 
+349 Off Street Parking Pad Side/Rear Entrance 
+350 Garage Door Opener Garage 
+351 Basement Garage Garage Door Opener 
+352 Attached Garage Garage Door Opener Guest Side/Rear Entrance 
+353 Garage Door Opener, Detached, Garage, Storage 
+354 Basement Garage Garage Door Opener Side/Rear Entrance 
+355 Over 1 Space per Unit Assigned Kitchen Level Storage 
+356 Over 1 Space per Unit Off Street 
+357 Assigned Attached Garage Storage Over 1 Space per Unit 
+358 Attached Garage Guest Kitchen Level Side/Rear Entrance 
+359 Carport Garage Kitchen Level Storage Off Street 
+360 Garage Door Opener Garage Kitchen Level Side/Rear Entrance Off Street 
+361 Kitchen Level Side/Rear Entrance Off Street 
+362 Attached Garage Door Opener Garage Guest Kitchen Level Side/Rear Entrance 
+363 Attached Garage Door Opener Guest Kitchen Level Side/Rear Entrance 
+364 Guest Over 1 Space per Unit Parking Pad Storage 
+365 Attached Garage Garage Door Opener Parking Pad 
+366 Attached Garage Door Opener Garage Side/Rear Entrance Storage 
+367 Assigned, Attached, Garage 
+368 Attached, Garage Door Opener, Basement, Garage, Kitchen Level 
+369 Assigned, Attached, Garage Door Opener, Garage 
+370 Assigned Detached Garage Door Opener 
+371 Assigned Attached Garage Door Opener Garage Side/Rear Entrance 
+372 Attached Garage Door Opener Garage Kitchen Level RV/Boat Parking Side/Rear Entrance Off Street 
+373 RV/Boat Parking 
+374 Assigned, Attached, Garage Door Opener, Basement, Garage 
+375 Assigned Guest Over 1 Space per Unit 
+376 Attached Detached Kitchen Level 
+377 Assigned Garage Door Opener Basement Storage 
+378 Attached Carport Kitchen Level Parking Pad 
+379 Carport Garage Garage Door Opener 
+380 Attached Garage Door Opener Basement Garage Guest Kitchen Level Side/Rear Entrance Storage 
+381 Attached, Garage Door Opener 
+382 Attached, Garage, Guest 
+383 Attached, Garage, Off Street 
+384 Over 1 Space per Unit 
+385 Attached Garage Door Opener Garage Kitchen Level Off Street Side/Rear Entrance 
+386 Garage Door Opener Kitchen Level Side/Rear Entrance 
+387 Assigned Garage Door Opener Garage Side/Rear Entrance Off Street 
+388 Garage Door Opener, Garage, Side/Rear Entrance 
+389 Assigned Attached Garage Guest 
+390 Assigned 
+391 None Off Street 
+392 Detached Garage Garage Door Opener Kitchen Level 
+393 Attached, Garage Door Opener, Basement, Garage, Side/Rear Entrance 
+394 Garage Door Opener Garage Kitchen Level Off Street Parking Pad 
+395 Attached Garage Door Opener Basement Garage Guest Parking Pad Side/Rear Entrance 
+396 Attached Garage Door Opener Garage Guest Kitchen Level RV/Boat Parking 
+397 Carport, Kitchen Level, Parking Pad 
+398 Attached Carport Garage Garage Door Opener Kitchen Level 
+399 Attached Garage Guest 
+400 Attached Carport Kitchen Level Storage 
+401 Over 1 Space per Unit Attached Garage Kitchen Level 
+402 Attached Side/Rear Entrance 
+403 Attached Basement Garage Garage Door Opener Off Street Parking Pad Side/Rear Entrance 
+404 Assigned Garage Guest 
+405 Attached, Garage, Kitchen Level, RV/Boat Parking, Side/Rear Entrance, Storage 
+406 Basement Side/Rear Entrance 
+407 Attached, Garage 
+408 Attached, Guest 
+409 Attached Garage Door Opener Garage Kitchen Level Side/Rear Entrance 
+410 Attached Garage Garage Door Opener Guest Kitchen Level RV/Boat Parking 
+411 Parking Pad, Parking Shed 
+412 Kitchen Level 
+413 Attached, Side/Rear Entrance 
+414 Carport, Kitchen Level 
+415 Attached Garage Guest Kitchen Level 
+416 Attached Detached Garage Kitchen Level Side/Rear Entrance 
+417 Assigned Attached Garage Door Opener Garage Kitchen Level 
+418 Detached Kitchen Level Side/Rear Entrance 
+419 Garage Garage Door Opener Guest 
+420 Assigned Parking Pad Off Street 
+421 Attached Garage Door Opener Garage Kitchen Level Side/Rear Entrance Over 1 Space per Unit 
+422 Attached, Basement 
+423 Basement Garage Guest Side/Rear Entrance 
+424 Attached Garage Door Opener Garage Basement 
+425 Off Street Side/Rear Entrance 
+426 Garage Garage Door Opener Kitchen Level Parking Pad 
+427 Basement, Garage, Storage 
+428 Attached, Garage, Kitchen Level, Side/Rear Entrance 
+429 Side/Rear Entrance 
+430 Attached Basement Garage Garage Door Opener Side/Rear Entrance 
+431 Attached Garage Door Opener Garage Kitchen Level Off Street Storage 
+432 Garage Door Opener, Detached, Kitchen Level 
+433 Garage Door Opener Garage Guest Kitchen Level 
+434 Kitchen Level Over 1 Space per Unit Parking Pad 
+435 Attached Garage Door Opener Detached Garage Kitchen Level Parking Pad RV/Boat Parking Side/Rear Entrance Storage 
+436 Attached Carport Kitchen Level Parking Pad Side/Rear Entrance 
+437 Assigned Kitchen Level Off Street 
+438 Garage Door Opener Carport Garage 
+439 Assigned Attached Garage Door Opener Garage 
+440 Garage Garage Door Opener Off Street 
+441 Assigned, Attached, Garage Door Opener 
+442 Attached Garage Parking Pad Side/Rear Entrance Storage 
+443 Assigned Attached Garage Garage Door Opener 
+444 Kitchen Level, Parking Pad 
+445 Off Street, Parking Pad 
+446 Carport Detached Garage 
+447 Carport Kitchen Level Side/Rear Entrance 
+448 Attached Garage Door Opener Basement 
+449 Storage 
+450 Attached Carport Off Street 
+451 Assigned Attached Garage Door Opener Guest Kitchen Level Off Street Over 1 Space per Unit 
+452 Detached Garage Garage Door Opener Storage 
+453 Garage Door Opener Garage Kitchen Level Side/Rear Entrance 
+454 Garage Door Opener Detached Kitchen Level 
+455 Garage Door Opener Garage Kitchen Level Storage 
+456 Attached, Carport 
+457 Off Street Over 1 Space per Unit 
+458 Garage, Kitchen Level 
+459 Attached Garage Kitchen Level Side/Rear Entrance Storage 
+460 Assigned Garage Guest Off Street 
+461 Assigned Kitchen Level 
+462 Garage Door Opener Basement Garage Side/Rear Entrance Off Street 
+463 Guest Parking Pad 
+464 Over 1 Space per Unit Assigned 
+465 Garage Off Street Parking Pad 
+466 Basement Garage Storage 
+467 Detached Garage Off Street 
+468 Detached Parking Shed 
+469 Attached Carport Kitchen Level 
+470 Assigned Off Street Over 1 Space per Unit 
+471 Assigned Garage Storage 
+472 Carport Detached Kitchen Level Storage 
+473 Assigned Attached Off Street 
+474 Assigned Basement Garage Door Opener 
+475 Attached Basement Garage Over 1 Space per Unit 
+476 Garage Door Opener Kitchen Level Parking Pad Off Street 
+477 Attached Parking Pad 
+478 Assigned, Guest, Storage 
+479 Carport, Garage, Off Street, Storage 
+480 Attached, Garage Door Opener, Basement, Garage 
+481 Assigned Carport Detached Guest Off Street Over 1 Space per Unit 
+482 Attached Garage Door Opener Guest Kitchen Level 
+483 Assigned Attached Garage Door Opener Garage Guest Off Street 
+484 Kitchen Level Parking Pad Off Street 
+485 Carport Detached Kitchen Level Side/Rear Entrance 
+486 Garage Storage 
+487 Assigned Attached Garage Garage Door Opener Side/Rear Entrance 
+488 Garage Garage Door Opener Kitchen Level 
+489 Basement Garage Side/Rear Entrance 
+490 Carport Parking Pad Side/Rear Entrance Off Street 
+491 Kitchen Level Off Street Parking Pad 
+492 Attached Kitchen Level Side/Rear Entrance Off Street 
+493 Attached Basement Garage Garage Door Opener Parking Pad Storage 
+494 Garage Door Opener Garage Parking Pad Side/Rear Entrance 
+495 Attached Garage Door Opener Garage Kitchen Level RV/Boat Parking Side/Rear Entrance Storage 
+496 Attached Parking Pad Off Street 
+497 Attached Guest Kitchen Level Parking Pad 
+498 Carport, Detached 
+499 Attached Garage Door Opener Basement Garage Off Street 
+500 Assigned Attached Garage Door Opener Basement Garage Guest 
+501 Garage Door Opener Garage Over 1 Space per Unit 
+502 Assigned, Garage Door Opener, Garage 
+503 Assigned Guest 
+504 Basement Garage Guest Off Street 
+505 Garage Kitchen Level Parking Pad 
+506 Guest Off Street 
+507 Garage, Parking Pad 
+508 Assigned Kitchen Level Parking Pad Off Street 
+509 Attached Garage Door Opener Garage Storage 
+510 Detached, Garage 
+511 Detached Garage Parking Pad 
+512 Assigned Attached Garage Door Opener Garage Parking Pad 
+513 Assigned, Garage Door Opener, Basement, Storage 
+514 Attached, Garage Door Opener, Garage 
+515 Garage Door Opener Carport Detached Garage Kitchen Level 
+516 Attached Garage Door Opener Garage Kitchen Level Side/Rear Entrance Off Street 
+517 Attached Basement 
+518 Garage Door Opener Garage Kitchen Level Parking Pad 
+519 Assigned Attached Garage Off Street 
+520 Attached Garage Storage 
+521 Assigned Parking Shed 
+522 Attached Basement Garage Garage Door Opener Parking Pad Side/Rear Entrance 
+523 Carport, Parking Pad 
+524 Assigned, Basement, Garage 
+525 Attached Carport Basement Guest Parking Pad Side/Rear Entrance Storage Off Street 
+526 Attached Carport Parking Pad Off Street 
+527 Detached Guest Kitchen Level 
+528 Attached Garage Door Opener Kitchen Level Storage 
+529 Attached Garage Door Opener Garage Kitchen Level Side/Rear Entrance Storage 
+530 Garage Door Opener, Garage, Over 1 Space per Unit 
+531 Attached, Garage Door Opener, Basement, Garage, Parking Pad 
+532 Attached Garage Door Opener Garage Side/Rear Entrance Off Street 
+533 Garage Guest Off Street 
+534 Guest Side/Rear Entrance 
+535 Detached Kitchen Level 
+536 Assigned Basement Garage 
+537 Garage Door Opener, Basement, Garage, Side/Rear Entrance 
+538 Garage Door Opener Garage Guest Side/Rear Entrance Basement 
+539 Attached Basement Garage 
+540 Carport Off Street Parking Pad Side/Rear Entrance 
+541 Garage Guest Off Street Storage 
+542 Basement Garage 
+543 Detached Kitchen Level Parking Pad 
+544 Basement Garage Guest Off Street Side/Rear Entrance 
+545 Guest Over 1 Space per Unit 
+546 Carport Garage Kitchen Level 
+547 Off Street Storage 
+548 Garage Door Opener Garage Attached 
+549 Assigned, Storage 

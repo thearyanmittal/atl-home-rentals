@@ -1,0 +1,158 @@
+0 Level None 
+1 Cul-De-Sac Level Other 
+2 Cul-De-Sac Level Open Lot 
+3 Greenbelt, Level, Private 
+4 Cul-De-Sac, Level 
+5 Level Sloped Other 
+6 Greenbelt Private Sloped 
+7 Greenbelt Private 
+8 Level Private Sloped 
+9 Private Sloped Zero Lot Line 
+10 Private Zero Lot Line 
+11 Level 
+12 Cul-De-Sac Greenbelt Level Private Waterfall 
+13 Level, Private, Sloped 
+14 None City Lot 
+15 Zero Lot Line 
+16 Level Open Lot 
+17 City Lot Sloped 
+18 Waterfall Zero Lot Line 
+19 Cul-De-Sac Sloped Steep Slope 
+20 Private, Sloped 
+21 City Lot Open Lot 
+22 Level, Sloped 
+23 Cul-De-Sac Greenbelt Level 
+24 City Lot Corner Lot Private 
+25 Corner Lot Level Other 
+26 Cul-De-Sac, Private 
+27 City Lot Other 
+28 Corner Lot Cul-De-Sac Level Sloped 
+29 Cul-De-Sac, Greenbelt, Private 
+30 Cul-De-Sac Private 
+31 Corner Lot Level Open Lot Other Private 
+32 Corner Lot Level Open Lot Private Other 
+33 Corner Lot City Lot 
+34 Cul-De-Sac Level 
+35 City Lot 
+36 None, Private 
+37 Corner Lot Other 
+38 Open Lot Private City Lot 
+39 Cul-De-Sac Private City Lot 
+40 City Lot Greenbelt Private 
+41 Private Sloped 
+42 Level Private Zero Lot Line 
+43 Greenbelt Level Sloped 
+44 Level Zero Lot Line 
+45 Level, Open Lot 
+46 Cul-De-Sac, Private, Sloped 
+47 Other Private Level Cul-De-Sac 
+48 Corner Lot Open Lot Private 
+49 Corner Lot, Cul-De-Sac 
+50 Cul-De-Sac Sloped 
+51 Level City Lot 
+52 Other Sloped 
+53 Greenbelt 
+54 Cul-De-Sac Level Sloped 
+55 Steep Slope 
+56 None 
+57 Other Zero Lot Line 
+58 Level, None 
+59 Corner Lot Level 
+60 Pasture Private 
+61 Level Steep Slope 
+62 None Other 
+63 Corner Lot, Private 
+64 Greenbelt, Level, Open Lot, Private 
+65 Corner Lot Level Private Other 
+66 Corner Lot Greenbelt Sloped 
+67 Level Private 
+68 Greenbelt Private City Lot 
+69 Open Lot City Lot 
+70 Level Private City Lot Other 
+71 Corner Lot Cul-De-Sac Level Private 
+72 Greenbelt Level Private 
+73 Corner Lot Level City Lot 
+74 Corner Lot Sloped 
+75 City Lot Corner Lot Level Private 
+76 City Lot Private Sloped 
+77 Cul-De-Sac Greenbelt 
+78 Corner Lot Open Lot 
+79 Corner Lot, Cul-De-Sac, Level 
+80 Cul-De-Sac Level Private Zero Lot Line 
+81 Cul-De-Sac Private Other 
+82 Level Other 
+83 City Lot Corner Lot Level 
+84 Other Private 
+85 City Lot Level Private 
+86 Cul-De-Sac Steep Slope 
+87 Private 
+88 Corner Lot Level Sloped 
+89 Corner Lot Level None 
+90 Level Other Private 
+91 Open Lot Private Sloped 
+92 City Lot Zero Lot Line 
+93 Corner Lot, Greenbelt 
+94 City Lot Private 
+95 Cul-De-Sac Other 
+96 Cul-De-Sac Greenbelt Private 
+97 Corner Lot Level Other Private 
+98 Greenbelt, Private 
+99 Corner Lot Level Private Sloped 
+100 Cul-De-Sac Greenbelt Level Private 
+101 Corner Lot Level Open Lot 
+102 Corner Lot Private Sloped 
+103 Private Steep Slope 
+104 Level Open Lot Zero Lot Line 
+105 None Sloped 
+106 Cul-De-Sac, Level, Private 
+107 Corner Lot, Level, Private 
+108 Corner Lot, Level 
+109 Sloped Other 
+110 Corner Lot Level Waterfall 
+111 City Lot None 
+112 Level Sloped 
+113 Private Sloped City Lot 
+114 Corner Lot Cul-De-Sac Level Private Sloped 
+115 Open Lot Private 
+116 Pasture 
+117 Corner Lot Cul-De-Sac Private 
+118 Cul-De-Sac Other Private 
+119 Corner Lot Greenbelt 
+120 Corner Lot Zero Lot Line 
+121 Corner Lot Level Private 
+122 Cul-De-Sac Level Private Sloped 
+123 Corner Lot 
+124 Greenbelt Level Open Lot Private 
+125 Level None Zero Lot Line 
+126 Open Lot 
+127 Corner Lot, Private, Sloped 
+128 Corner Lot Cul-De-Sac 
+129 Corner Lot, Cul-De-Sac, Level, Private 
+130 Cul-De-Sac 
+131 Corner Lot Cul-De-Sac Level 
+132 Cul-De-Sac Level Private 
+133 Private Other 
+134 Private City Lot 
+135 City Lot Corner Lot 
+136 Level Private Other 
+137 Corner Lot Other Sloped 
+138 City Lot Level 
+139 Level, Private 
+140 Other 
+141 Corner Lot Level Private City Lot 
+142 Level Pasture 
+143 Cul-De-Sac Open Lot Private 
+144 Corner Lot Private 
+145 City Lot Level Open Lot Private 
+146 Cul-De-Sac Private Sloped 
+147 Other Pasture 
+148 Level Open Lot Other 
+149 Greenbelt Level 
+150 Level Open Lot Private 
+151 Sloped Zero Lot Line 
+152 None Private 
+153 Open Lot Sloped 
+154 Corner Lot Private City Lot 
+155 Sloped City Lot 
+156 Level Private City Lot 
+157 Sloped 

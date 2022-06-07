@@ -1,0 +1,186 @@
+0 POWDERSPRINGS 
+1 Berkeley Lake 
+2 Palmetto 
+3 Duluith 
+4 Grayson 
+5 stonecrest 
+6 Stone Mountain 
+7 decatur 
+8 Canton 
+9 Rex 
+10 Stonecrest 
+11 Winston 
+12 East point 
+13 ALPHARETTA 
+14 TYRONE 
+15 LAWRENCEVILLE 
+16 Rockdale 
+17 Forest Park 
+18 Conyers 
+19 Holly Springs 
+20 Milton 
+21 CUMMING 
+22 PEACHTREE CITY 
+23 Chamblee 
+24 Suawnee 
+25 BROOKH 
+26 lithonia 
+27 PEACHC 
+28 Alpharetta 
+29 DOUGLASVILLE 
+30 ELLENWOOD 
+31 Athens 
+32 Villa Rica 
+33 Sandy springs 
+34 HOSCTN 
+35 peachtree city 
+36 Ambassador 
+37 Johns Creek 
+38 McDonouh 
+39 Union City 
+40 dDOUGLASVILLE 
+41 DORAVI 
+42 Killian Hill 
+43 Avondale Estate 
+44 CLARKSTON 
+45 Jones Creek 
+46 RIVERD 
+47 DECATR 
+48 Woodstock 
+49 College Park 
+50 fairburn 
+51 ROSWEL 
+52 MCDONO 
+53 Clarkston 
+54 Kennesaw 
+55 LITHONIA 
+56 McDonough 
+57 CUMMIN 
+58 Monticello 
+59 Morrow 
+60 Vinings 
+61 CONYERS 
+62 Snellville 
+63 lawrenceville 
+64 Scottdale 
+65 ALPHAR 
+66 SOUTH FULTON 
+67 Cumming 
+68 Hapeville 
+69 Sugar Hill 
+70 Hampton 
+71 Lithonia 
+72 Acworth 
+73 Hoschton 
+74 Sugar hill 
+75 Atlanta 
+76 East Poin 
+77 Locust Grove 
+78 Tyrone 
+79 ATLANTA 
+80 Chattahoochee Hills 
+81 BUFORD 
+82 gainesville 
+83 Dunwoody 
+84 Dacula 
+85 BROOKHAVEN 
+86 Smyrna30082-0000 
+87 Brooks 
+88 Smyrna 
+89 Logansville 
+90 Stockbridge 
+91 Suwnee 
+92 FAIRBURN 
+93 Gainesville 
+94 Norcross 
+95 Suwanee Georgia 30024 
+96 Pine Lake 
+97 HOSCHTON 
+98 Ball Ground 
+99 AUSTEL 
+100 smyrna 
+101 loganville 
+102 SNELLVILLE 
+103 MORROW 
+104 AUSTELL 
+105 Conley 
+106 Braselton 
+107 UNION CITY 
+108 Brookhaven 
+109 SMYRNA 
+110 Tucker 
+111 Duluth 
+112 Roswell 
+113 CANTON 
+114 WOODSTOCK 
+115 Peachyree City 
+116 LITHON 
+117 Douglasville 
+118 East Point 
+119 Peachtree city 
+120 Peachtree Corners 
+121 STONE MOUNTAIN 
+122 atlanta 
+123 Lithia Springs 
+124 buford 
+125 LAWREN 
+126 JOHCRK 
+127 Loganville 
+128 Fayetteville 
+129 ACWORTH 
+130 Doraville 
+131 MCDONOUGH 
+132 Avondale Estates 
+133 Fairburn 
+134 Lilburn 
+135 marietta 
+136 Powder Springs 
+137 Mcdonough 
+138 LOGANVILLE 
+139 Austell 
+140 Bethlehem 
+141 Chattahoochee Hill 
+142 EAST POINT 
+143 BRASEL 
+144 Fayette 
+145 Decatur 
+146 SUWANE 
+147 Covington 
+148 Neely Ave 
+149 Auburn 
+150 peachtree corners 
+151 KENNESAW 
+152 peachtree City 
+153 Jonesboro 
+154 alpharetta 
+155 marrow 
+156 Lawrenceville 
+157 Buford 
+158 Marietta 
+159 LITHIA SPRINGS 
+160 Lawrencville 
+161 ROSWELL 
+162 MABLETON 
+163 BRASELTON 
+164 ATLANT 
+165 AUBURN 
+166 Mableton 
+167 Riverdale 
+168 Monroe 
+169 PEACHT 
+170 South Fulton 
+171 Dougasville 
+172 Sandy Springs 
+173 Ellenwood 
+174 fayetteville 
+175 Peachtree City 
+176 DECATUR 
+177 Lake City 
+178 NORCRO 
+179 MARIETTA 
+180 test 
+181 Jefferson 
+182 Suwanee 
+183 Union  City 
+184 SUWANEE 
+185 MARIET 

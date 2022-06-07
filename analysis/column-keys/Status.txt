@@ -1,0 +1,6 @@
+0 Price Change 
+1 Pending Approval 
+2 Rental Leased 
+3 Active 
+4 New 
+5 Back On Market 
