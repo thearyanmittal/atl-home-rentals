@@ -9,3 +9,7 @@
 - seaborn correlogram and correlation heatmap
 
 - which columns to use/not use?
+
+- remove duplicate entries for same house (by coordinates/address)
+- clean up clearly incorrect values (31 fireplaces?)
+- clean up formatting for certain columns [City, Water]
