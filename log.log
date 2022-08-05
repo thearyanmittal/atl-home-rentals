@@ -1,18 +1,4 @@
-- get unique vals in each column
-- encode each and map them all to numerical values (one-hot encode description-based columns by keyword)
-    - need to parse and separate by keyword the columns [Style, Rooms, Kitchen, Interior, Heating, Cooling, Construction, 
-    Roof, Parking, Amenities, Lot]
-    - split descriptions into keywords, turn keywords into columns with binary values (has golf, has pool, etc.)
-    - get geocoding data for coordinates on all
-- convert Year Built to Age
-- clean up formatting for certain columns [Water]
-- convert all categorical columns to one-hot encoding
-- for duplicated entries, use only most recent one (if MLS# duplicated, use most recent entry)
-- drop all location columns and just use zipcode
-    - replace zipcode with column(s): median income, total households
-- fix rental prices in dataset
-
-
+TODO:
 - view value distributions per column (again)
 - cluster based on different features (e.g. zipcode)
 - standardize each column (min/max)
