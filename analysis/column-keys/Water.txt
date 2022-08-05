@@ -1,9 +1,0 @@
-0 Private Public 
-1 Public Well 
-2 Shared Well 
-3 Public Private 
-4 Public 
-5 Private 
-6 Shared Well Well 
-7 Private Well 
-8 Well 

@@ -4,12 +4,30 @@
     Roof, Parking, Amenities, Lot]
     - split descriptions into keywords, turn keywords into columns with binary values (has golf, has pool, etc.)
     - get geocoding data for coordinates on all
+- convert Year Built to Age
+- clean up formatting for certain columns [Water]
+- convert all categorical columns to one-hot encoding
+- for duplicated entries, use only most recent one (if MLS# duplicated, use most recent entry)
+- drop all location columns and just use zipcode
+    - replace zipcode with column(s): median income, total households
+- fix rental prices in dataset
 
-- standardize each column (z-score method)
-- seaborn correlogram and correlation heatmap
 
-- which columns to use/not use?
+- view value distributions per column (again)
+- cluster based on different features (e.g. zipcode)
+- standardize each column (min/max)
+- missing value imputation
+- seaborn correlogram (account for empties)
+- feature selection
+- factor analysis (correlogram for factors to see difference)
+- PCA (on dataset not factors)
 
-- remove duplicate entries for same house (by coordinates/address)
-- clean up clearly incorrect values (31 fireplaces?)
-- clean up formatting for certain columns [City, Water]
+- try different regression models on PCA loadings
+    - compare performance across different numbers of components
+    - k fold validation and testing
+    - resampling techniques, different accuracy metrics, confusion matrix
+
+- clean up code
+    - type hinting and docstrings for all functions
+    - wrap most code blocks into functions
+    - add markdown blocks to replace comments and bundle code blocks that accomplish one task
