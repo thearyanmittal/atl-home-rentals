@@ -1,19 +1,24 @@
 TODO:
-- view value distributions per column (again)
-- cluster based on different features (e.g. zipcode)
-- standardize each column (min/max)
-- missing value imputation
-- seaborn correlogram (account for empties)
-- feature selection
+- more visuals (violinplots to detect outliers and view distributions)
+- lot_size_num: some values are in acres, others in sqft (if value > 1000, convert to acres)
 - factor analysis (correlogram for factors to see difference)
+
+- standardize each column except price (min/max since most columns binary)
+- feature selection (drop columns highly correlated with each other, drop columns not correlated with price)
 - PCA (on dataset not factors)
 
 - try different regression models on PCA loadings
     - compare performance across different numbers of components
     - k fold validation and testing
-    - resampling techniques, different accuracy metrics, confusion matrix
+    - resampling techniques
 
-- clean up code
+- refactor code
     - type hinting and docstrings for all functions
     - wrap most code blocks into functions
     - add markdown blocks to replace comments and bundle code blocks that accomplish one task
+    - use pd.get_dummies() for one hot encoding
+- write pipeline to take new datapoints and make prediction on them
+
+- sale prices for these same houses (as opposed to rental prices)?
+    - can see if different features/factors correlate with sale prices as opposed to rental prices
+    - which features/factors weighted more heavily in regression?
