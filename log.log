@@ -1,8 +1,7 @@
 TODO:
-- more visuals (violinplots to detect outliers and view distributions)
-- lot_size_num: some values are in acres, others in sqft (if value > 1000, convert to acres)
-- factor analysis (correlogram for factors to see difference)
+- missing data imputation (then correlation)
 
+- factor analysis (correlogram for factors to see difference)
 - standardize each column except price (min/max since most columns binary)
 - feature selection (drop columns highly correlated with each other, drop columns not correlated with price)
 - PCA (on dataset not factors)
