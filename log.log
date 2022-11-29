@@ -1,6 +1,4 @@
 TODO:
-- factor analysis
-
 - feature selection (drop columns highly correlated with each other, drop columns not correlated with price)
 - PCA (on dataset not factors)
 
