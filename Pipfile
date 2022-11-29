@@ -11,6 +11,7 @@ matplotlib = "*"
 scikit-learn = "*"
 jupyter = "*"
 notebook = "*"
+factor-analyzer = "*"
 
 [dev-packages]
 ipykernel = "*"

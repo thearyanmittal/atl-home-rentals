@@ -1,8 +1,6 @@
 TODO:
-- missing data imputation (then correlation)
+- factor analysis
 
-- factor analysis (correlogram for factors to see difference)
-- standardize each column except price (min/max since most columns binary)
 - feature selection (drop columns highly correlated with each other, drop columns not correlated with price)
 - PCA (on dataset not factors)
 
