@@ -12,6 +12,7 @@ scikit-learn = "*"
 jupyter = "*"
 notebook = "*"
 factor-analyzer = "*"
+xgboost = "*"
 
 [dev-packages]
 ipykernel = "*"
